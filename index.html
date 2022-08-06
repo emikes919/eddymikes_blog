@@ -2,12 +2,12 @@
 layout: default
 title: Eddy Mikes
 ---
-<h1>Eddy Mikes</h1>
+<h1 class="main-title">Eddy Mikes</h1>
 
 <ul>
     {% for post in site.posts %}
         <li class="post-title">
-            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="eddymikes.me {{ post.url }}">{{ post.title }}</a></h2>
             {{ post.excerpt }}
         </li>
     {% endfor %}
