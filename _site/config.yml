@@ -3,5 +3,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-baseurl: "" the subpath of your site, e.g. /blog
-url: "" the base hostname & protocol of your site, e.g. http://example.com
+baseurl: "/eddymikes.me" the subpath of your site, e.g. /blog
+url: "https://emikes919.github.io" the base hostname & protocol of your site, e.g. http://example.com
