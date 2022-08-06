@@ -7,7 +7,7 @@ title: Eddy Mikes
 <ul>
     {% for post in site.posts %}
         <li class="post-title">
-            <h2><a href="'https://eddymikes.me' {{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             {{ post.excerpt }}
         </li>
     {% endfor %}
