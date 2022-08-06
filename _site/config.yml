@@ -1,7 +1,0 @@
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-baseurl: "/eddymikes.me" # the subpath of your site, e.g. /blog
-url: "https://emikes919.github.io" # the base hostname & protocol of your site, e.g. http://example.com
