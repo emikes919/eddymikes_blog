@@ -1,4 +1,7 @@
+# IMPORTANT: before pushing live, uncomment eddymikes.me link and comment out / link
+
 - name: insert GH logo
   link: https://github.com/emikes919
 - name: Blog
   link: https://eddymikes.me
+  # link: /
