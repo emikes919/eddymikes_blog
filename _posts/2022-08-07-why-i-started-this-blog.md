@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why I started this blog
+date: 2022-08-07 11:23:00
 excerpt: Brain stuff
 ---
 I’ve been thinking about starting a blog for a while, but here I am sitting at Hong Kong International Airport with two hours until my flight to New York, and something just came over me, so I started typing away. Here goes nothing.
