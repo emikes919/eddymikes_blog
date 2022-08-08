@@ -5,8 +5,6 @@
 
 body { background-color: var(--background-blue); margin: 0; display: flex; flex-direction: column; gap: 30px; }
 
-a { text-decoration: none; }
-
 .container { display: flex; gap: 45px; padding-right: 500px; }
 
 .side-bar { padding-left: 80px; padding-top: 87px; }
@@ -16,6 +14,8 @@ a { text-decoration: none; }
 .main-content-container { width: 100%; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
 
 .header-container { display: flex; flex-direction: column; gap: 25px; }
+
+.header-container a, .header-container a:visited { text-decoration: none; color: black; }
 
 .title-container { display: flex; }
 
@@ -27,11 +27,11 @@ a { text-decoration: none; }
 
 nav { display: flex; align-items: center; gap: 20px; color: black; }
 
-nav a:visited { color: black; }
-
 .github-icon .fa-github { font-size: 1.75rem; }
 
 .post-list ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 30px; }
+
+.post-list a { text-decoration: none; }
 
 .post { display: flex; flex-direction: column; gap: 10px; }
 
@@ -47,7 +47,7 @@ nav a:visited { color: black; }
 
 .post-content h2 { margin-top: 40px; }
 
-.post-content p, ol, ul { font-size: 1.2rem; line-height: 1.5; margin: 25px 0px 25px 0px; }
+.post-content p, ol, ul { font-size: 1.25rem; line-height: 1.6; margin: 25px 0px 25px 0px; }
 
 .post-content li { margin: 15px 0px 15px 0px; }
 

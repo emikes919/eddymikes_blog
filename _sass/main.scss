@@ -20,10 +20,6 @@ body {
     gap: 30px;
 }
 
-a {
-    text-decoration: none;
-}
-
 .container {
     // border: 5px solid black;
     display: flex;
@@ -60,6 +56,12 @@ a {
     gap: 25px;
 }
 
+.header-container a,
+.header-container a:visited {
+    text-decoration: none;
+    color: black
+}
+
 .title-container {
     // border: 2px solid magenta;
     display: flex;
@@ -92,10 +94,6 @@ nav {
     color: black;
 }
 
-nav a:visited {
-    color: black
-}
-
 .github-icon .fa-github {
     font-size: 1.75rem;
 }
@@ -112,6 +110,10 @@ nav a:visited {
     display: flex;
     flex-direction: column;
     gap: 30px;
+}
+
+.post-list a {
+    text-decoration: none;
 }
 
 .post {
@@ -160,14 +162,15 @@ nav a:visited {
 }
 
 .post-content p, ol, ul {
-    font-size: 1.2rem;
-    line-height: 1.5;
+    font-size: 1.25rem;
+    line-height: 1.6;
     margin: 25px 0px 25px 0px;
 }
 
 .post-content li {
     margin: 15px 0px 15px 0px;
 }
+
 
 #thanks-text {
     font-size: .9rem;

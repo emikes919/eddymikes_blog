@@ -25,15 +25,15 @@ Ideas beget ideas. I don’t understand the brain chemistry behind this, they ju
 
 ## **Accountability**
 
-I could just write in a journal, but there’s something about the act of posting something online for the world to see. We’re not talking about high stakes here, but it does hold me to a higher standard. The internet is [forever](https://web.archive.org/), so there’s an incentive to really think through what I’m writing. This ties into clear writing = clear thinking.
+I could just write in a journal, but there’s something about the act of posting something online for the world to see. We’re not talking about high stakes here, but it does hold me to a higher standard. The internet is [forever](https://web.archive.org/){:target="_blank"}, so there’s an incentive to really think through what I’m writing. This ties into clear writing = clear thinking.
 
 Those are the main reasons, but this is also another fun coding challenge! I’m picking up programming on the side (I’ll probably write about that), and a personal blog or website is a great early practical application of that skillset. This blog is completely self-developed and hosted using GitHub Pages, Jekyll, basic HTML/CSS, and Namecheap.
 
-As an aside, despite having read it for some time, I only just noticed that a high school friend of mine has been running his [awesome blog](https://blas.com/essays/) for what appears to be the exact same reasons! One inspiration point to you, my friend.
+As an aside, despite having read it for some time, I only just noticed that a high school friend of mine has been running his [awesome blog](https://blas.com/essays/){:target="_blank"} for what appears to be the exact same reasons! One inspiration point to you, my friend.
 
 ## **What’s in a name?**
 
-“E Mikes”, “Eddy Mikes” or many variations thereof was given to me as a nickname in high school and it has stuck ever since. Keepin’ it rolling!
+“E Mikes”, “Eddy Mikes” or many variations thereof was given to me as a nickname in high school, and it's stuck ever since. Keepin’ it rolling!
 
 <br/>
 And BOOM! First blog post complete. Stay tuned for more, I hope you enjoy reading!
