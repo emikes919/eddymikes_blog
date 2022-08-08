@@ -25,8 +25,10 @@ a {
 }
 
 .container {
+    // border: 5px solid black;
     display: flex;
-    gap: 30px;
+    gap: 45px;
+    padding-right: 500px;
 }
 
 .side-bar {
@@ -42,7 +44,8 @@ a {
     box-shadow: 0px 0px 5px 3px rgb(205, 205, 205);
 }
 
-.main-content {
+.main-content-container {
+    // border: 3px solid red;
     width: 100%;
     padding-top: 80px;
     display: flex;
@@ -75,9 +78,10 @@ a {
     font-size: 3rem;
 }
 
-.sub-title {
+.sub-title, .post-container .post-date {
     color: var(--secondary-text);
     font-size: .9rem;
+    // margin: 0;
 }
 
 nav {
@@ -128,5 +132,43 @@ nav a:visited {
 
 .post span {
     color: var(--secondary-text);
+    font-size: .9rem;
+}
+
+.post-container {
+    // border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.post-header {
+    // border: 2px solid magenta;
+}
+
+.post-container h1 {
+    margin: 0;
+    color: var(--primary)
+}
+
+.post-content {
+    // border: 2px solid green;
+}
+
+.post-content h2 {
+    margin-top: 40px;
+}
+
+.post-content p, ol, ul {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 25px 0px 25px 0px;
+}
+
+.post-content li {
+    margin: 15px 0px 15px 0px;
+}
+
+#thanks-text {
     font-size: .9rem;
 }

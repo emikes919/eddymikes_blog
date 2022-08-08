@@ -7,13 +7,13 @@ body { background-color: var(--background-blue); margin: 0; display: flex; flex-
 
 a { text-decoration: none; }
 
-.container { display: flex; gap: 30px; }
+.container { display: flex; gap: 45px; padding-right: 500px; }
 
 .side-bar { padding-left: 80px; padding-top: 87px; }
 
 .title-image img { height: 80px; width: 80px; border-radius: 50px; box-shadow: 0px 0px 5px 3px #cdcdcd; }
 
-.main-content { width: 100%; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
+.main-content-container { width: 100%; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
 
 .header-container { display: flex; flex-direction: column; gap: 25px; }
 
@@ -23,7 +23,7 @@ a { text-decoration: none; }
 
 .main-title { color: black; font-weight: bold; font-size: 3rem; }
 
-.sub-title { color: var(--secondary-text); font-size: .9rem; }
+.sub-title, .post-container .post-date { color: var(--secondary-text); font-size: .9rem; }
 
 nav { display: flex; align-items: center; gap: 20px; color: black; }
 
@@ -40,3 +40,15 @@ nav a:visited { color: black; }
 .post h2 a { color: var(--primary); }
 
 .post span { color: var(--secondary-text); font-size: .9rem; }
+
+.post-container { display: flex; flex-direction: column; gap: 15px; }
+
+.post-container h1 { margin: 0; color: var(--primary); }
+
+.post-content h2 { margin-top: 40px; }
+
+.post-content p, ol, ul { font-size: 1.2rem; line-height: 1.5; margin: 25px 0px 25px 0px; }
+
+.post-content li { margin: 15px 0px 15px 0px; }
+
+#thanks-text { font-size: .9rem; }

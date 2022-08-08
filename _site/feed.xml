@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-08T11:49:46+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Quitter!</title><link href="http://localhost:4000/2022/08/07/quitter.html" rel="alternate" type="text/html" title="Quitter!" /><published>2022-08-07T00:00:00+08:00</published><updated>2022-08-07T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/07/quitter</id><content type="html" xml:base="http://localhost:4000/2022/08/07/quitter.html">&lt;p&gt;I just quit my job.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-08T12:48:22+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Quitter!</title><link href="http://localhost:4000/2022/08/07/quitter.html" rel="alternate" type="text/html" title="Quitter!" /><published>2022-08-07T00:00:00+08:00</published><updated>2022-08-07T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/07/quitter</id><content type="html" xml:base="http://localhost:4000/2022/08/07/quitter.html">&lt;p&gt;I just quit my job.&lt;/p&gt;
 
 &lt;p&gt;How’s that for a hook? No, it wasn’t as rash of a decision as that one-liner makes it seem. It actually something I’ve been ruminating on for a while, with increasing intensity over the past 18-24 months.&lt;/p&gt;
 
@@ -18,7 +18,7 @@
 &lt;p&gt;Looking back on the last 9 years moving through roles in various sub-sectors of finance, two things occurred to me:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;I was never organically super excited about what I was doing.&lt;/strong&gt; Every manifesto ever written will tell you requirement #1 for being happy and successful in life is to love what you do. Ask anyone who knows me - I am an &lt;em&gt;extremely&lt;/em&gt; enthusiastic person by nature. This never came through in my work. Big red flag🚩.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I was never organically super excited about what I was doing.&lt;/strong&gt; Every manifesto ever written will tell you requirement #1 for being happy and successful in life is to love what you do. Ask anyone who knows me - I am an &lt;em&gt;extremely&lt;/em&gt; enthusiastic person by nature. This never came through in my work. Big red flag🚩&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;My absolutely highest performing state when I was out of a job and out there hustling&lt;/strong&gt; to get hired by companies that felt out of my reach. My sheer levels of cognition and drive were on another level. I’ve started a handful of side hustles and projects over the last 24 months and noticed the exact same thing. Something about the lack of a salary safety net combined with pure organic interest unlocked something within me. This isn’t all that surprising, but sometimes it just hits home after the fact.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -48,11 +48,12 @@
 
 &lt;p&gt;BUT… People tend to overestimate risk, and sometimes you gotta burn the boats and bet on yourself! Away we go.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Jump!</summary></entry><entry><title type="html">Why I started this blog</title><link href="http://localhost:4000/2022/08/06/why-i-started-this-blog.html" rel="alternate" type="text/html" title="Why I started this blog" /><published>2022-08-06T00:00:00+08:00</published><updated>2022-08-06T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/06/why-i-started-this-blog</id><content type="html" xml:base="http://localhost:4000/2022/08/06/why-i-started-this-blog.html">&lt;p&gt;I’ve been thinking about starting a blog for a while, but here I am sitting at Hong Kong International Airport with two hours until my flight to New York, and something just came over me, so I started typing away. Here goes nothing.&lt;/p&gt;
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Jump!</summary></entry><entry><title type="html">Why I started this blog</title><link href="http://localhost:4000/2022/08/06/why-i-started-this-blog.html" rel="alternate" type="text/html" title="Why I started this blog" /><published>2022-08-06T00:00:00+08:00</published><updated>2022-08-06T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/06/why-i-started-this-blog</id><content type="html" xml:base="http://localhost:4000/2022/08/06/why-i-started-this-blog.html">&lt;p&gt;I’ve been thinking about starting a blog for a while, but here I am sitting at Hong Kong International Airport with two hours until my flight to New York, and something just came over me, so I started typing away. Here goes nothing.&lt;/p&gt;
 
 &lt;p&gt;I started this blog for three reasons: &lt;strong&gt;1) clear writing = clear thinking, 2) exploring unknown unknowns, and 3) accountability.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;clear-writing--clear-thinking&quot;&gt;&lt;strong&gt;Clear writing = clear thinking&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;clear-writing--clear-thinking&quot;&gt;&lt;strong&gt;Clear writing = clear thinking&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;I spend the vast majority of my intellectually demanding time consuming information and content, rather than producing/creating it. Books, podcasts, blogs, articles, my Twitter feed, YouTube videos… it’s pretty much a one way street of information input.&lt;/p&gt;
 
@@ -64,11 +65,11 @@
 
 &lt;p&gt;I have a rough idea of what I plan to write about (entrepreneurship/business, health &amp;amp; fitness, learning, productivity, travel/living abroad, anything else I come to be interested in), but I’m excited to see where this goes. Which brings me to my next reason…&lt;/p&gt;
 
-&lt;h3 id=&quot;exploring-unknown-unknowns&quot;&gt;&lt;strong&gt;Exploring unknown unknowns&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;exploring-unknown-unknowns&quot;&gt;&lt;strong&gt;Exploring unknown unknowns&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;Ideas beget ideas. I don’t understand the brain chemistry behind this, they just do. I don’t know what I’ll uncover about myself or what ideas will occur to me by challenging myself to write more, but I know I’ll uncover something. It would be cool to see what that’s all about.&lt;/p&gt;
 
-&lt;h3 id=&quot;accountability&quot;&gt;&lt;strong&gt;Accountability&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;accountability&quot;&gt;&lt;strong&gt;Accountability&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;I could just write in a journal, but there’s something about the act of posting something online for the world to see. We’re not talking about high stakes here, but it does hold me to a higher standard. The internet is &lt;a href=&quot;https://web.archive.org/&quot;&gt;forever&lt;/a&gt;, so there’s an incentive to really think through what I’m writing. This ties into clear writing = clear thinking.&lt;/p&gt;
 
@@ -76,10 +77,12 @@
 
 &lt;p&gt;As an aside, despite having read it for some time, I only just noticed that a high school friend of mine has been running his &lt;a href=&quot;https://blas.com/essays/&quot;&gt;awesome blog&lt;/a&gt; for what appears to be the exact same reasons! One inspiration point to you, my friend.&lt;/p&gt;
 
-&lt;h3 id=&quot;whats-in-a-name&quot;&gt;&lt;strong&gt;What’s in a name?&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;whats-in-a-name&quot;&gt;&lt;strong&gt;What’s in a name?&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;“E Mikes”, “Eddy Mikes” or many variations thereof was given to me as a nickname in high school and it has stuck ever since. Keepin’ it rolling!&lt;/p&gt;
 
-&lt;p&gt;And BOOM! First blog post complete. Stay tuned for more, I hope you enjoy reading!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+And BOOM! First blog post complete. Stay tuned for more, I hope you enjoy reading!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Brain stuff</summary></entry></feed>
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Brain stuff</summary></entry></feed>
