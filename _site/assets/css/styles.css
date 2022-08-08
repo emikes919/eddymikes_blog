@@ -1,31 +1,42 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
 :root { --primary: #47B2FF; --background-blue: #e6f2ff; --secondary-text: #848484; margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
 
 body { background-color: var(--background-blue); margin: 0; display: flex; flex-direction: column; gap: 30px; }
 
 a { text-decoration: none; }
 
-.header-container { border: 2px solid green; display: flex; flex-direction: column; gap: 10px; }
+.container { display: flex; gap: 30px; }
 
-.title-container { border: 2px solid magenta; display: flex; }
+.side-bar { padding-left: 80px; padding-top: 87px; }
 
-.title-text-container { border: 2px solid green; display: flex; flex-direction: column; gap: 10px; }
+.title-image img { height: 80px; width: 80px; border-radius: 50px; box-shadow: 0px 0px 5px 3px #cdcdcd; }
+
+.main-content { width: 100%; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
+
+.header-container { display: flex; flex-direction: column; gap: 20px; }
+
+.title-container { display: flex; }
+
+.title-text-container { display: flex; flex-direction: column; gap: 10px; }
 
 .main-title { color: black; font-weight: bold; font-size: 3rem; }
 
-.sub-title { color: var(--secondary-text); font-size: 1rem; }
+.sub-title { color: var(--secondary-text); font-size: .9rem; }
 
-nav { border: 2px solid goldenrod; display: flex; gap: 20px; }
+nav { display: flex; align-items: center; gap: 20px; color: black; }
 
-.post-list { border: 2px solid blue; }
+nav a:visited { color: black; }
 
-.post-list ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 20px; }
+.github-icon .fa-github { font-size: 1.75rem; }
 
-.post { border: 2px solid red; display: flex; flex-direction: column; gap: 10px; }
+.post-list ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 30px; }
+
+.post { display: flex; flex-direction: column; gap: 10px; }
 
 .post h2 { font-weight: bold; margin: 0; }
 
 .post h2 a { color: var(--primary); }
 
-.post span { color: var(--secondary-text); }
+.post span { color: var(--secondary-text); font-size: .9rem; }
