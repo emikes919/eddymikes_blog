@@ -3,5 +3,5 @@
 - name: insert GH logo
   link: https://github.com/emikes919
 - name: Blog
-  link: https://eddymikes.me
-  # link: /
+  # link: https://eddymikes.me
+  link: /

@@ -2,13 +2,26 @@
 layout: default
 title: Eddy Mikes
 ---
-<h1 class="main-title">Eddy Mikes</h1>
+<div class="header-container">
+    <div class="title-container">
+        <div class="title-image">
+            [image]
+        </div>
+        <div class="title-text-container">
+            <div class="main-title">Eddy Mikes</div>
+            <div class="sub-title"><em>The haters outnumber the believers 1,000 to 1</em></div>
+        </div>
+    </div>
+    {% include navigation.html %}
+</div>
 
-<ul>
-    {% for post in site.posts %}
-        <li class="post-title">
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            {{ post.excerpt }}
-        </li>
-    {% endfor %}
-</ul>
+<div class="post-list">
+    <ul>
+        {% for post in site.posts %}
+            <li class="post">
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <span>{{ post.excerpt }}</span>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
