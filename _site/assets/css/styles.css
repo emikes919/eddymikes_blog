@@ -15,7 +15,7 @@ a { text-decoration: none; }
 
 .main-content { width: 100%; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
 
-.header-container { display: flex; flex-direction: column; gap: 20px; }
+.header-container { display: flex; flex-direction: column; gap: 25px; }
 
 .title-container { display: flex; }
 
