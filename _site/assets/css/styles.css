@@ -35,9 +35,9 @@ nav { display: flex; align-items: center; gap: 20px; color: black; }
 
 .post { display: flex; flex-direction: column; gap: 10px; }
 
-.post h2 { font-weight: bold; margin: 0; }
+.post h3 { font-weight: bold; margin: 0; }
 
-.post h2 a { color: var(--primary); }
+.post h3 a { color: var(--primary); }
 
 .post span { color: var(--secondary-text); font-size: .9rem; }
 
