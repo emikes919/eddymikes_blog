@@ -13,7 +13,7 @@ I spend the vast majority of my intellectually demanding time consuming informat
 
 All that information represents some of the building blocks of the ideas I have and views I form.
 
-Translating ideas from thoughts in one’s head into comprehendible written words challenges one to more deeply understand what they think. It’s amazing how I’ll think I know something and try to write it out, and that exercise reveals how hollow that thinking can actually be sometimes. There are other areas of life where I’m writing - occasionally at my day job, for startups/side projects I’ve worked on, etc., but it’s pretty infrequent. Forcing myself to write more stimulates a another part of my brain (if I was on the fence about that before, writing this first post proves it to me.) 
+Translating ideas from thoughts in one’s head into comprehendible written words challenges one to more deeply understand what they think. It’s amazing how I’ll think I know something and try to write it out, and that exercise reveals how hollow that thinking can actually be sometimes. There are other areas of life where I’m writing - occasionally at my day job, for startups/side projects I’ve worked on, job hunts, etc., but it’s pretty infrequent. Forcing myself to write more stimulates a another part of my brain, reinforces and challenges my ideas, and improves the depth and quality of my thinking (if I was on the fence about that before, writing this first post proves it to me.) 
 
 This blog is a pursuit of clearer, deeper thinking about the things that interest me.
 
@@ -25,7 +25,7 @@ Ideas beget ideas. I don’t understand the brain chemistry behind this, they ju
 
 ## **Accountability**
 
-I could just write in a journal, but there’s something about the act of posting something online for the world to see. We’re not talking about high stakes here, but it does hold me to a higher standard. The internet is [forever](https://web.archive.org/){:target="_blank"}, so there’s an incentive to really think through what I’m writing. This ties into clear writing = clear thinking.
+I could just write in a journal, but there’s something about the act of posting something online for the world to see. We’re not talking about high stakes here, but it does hold me to a higher standard. The internet is [forever](https://web.archive.org/){:target="_blank"}, so there’s an incentive to really think through what I’m writing about. This ties into clear writing = clear thinking.
 
 Those are the main reasons, but this is also another fun coding challenge! I’m picking up programming on the side (I’ll probably write about that), and a personal blog or website is a great early practical application of that skillset. This blog is completely self-developed and hosted using GitHub Pages, Jekyll, basic HTML/CSS, and Namecheap.
 
