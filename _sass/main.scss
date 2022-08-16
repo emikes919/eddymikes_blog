@@ -38,6 +38,11 @@ body {
     width: 80px;
     border-radius: 50px;
     box-shadow: 0px 0px 5px 3px rgb(205, 205, 205);
+    transition: transform .2s;
+}
+
+.title-image img:hover {
+    transform: rotate(10deg) scale(1.1)
 }
 
 .main-content-container {

@@ -9,7 +9,9 @@ body { background-color: var(--background-blue); margin: 0; display: flex; flex-
 
 .side-bar { padding-left: 80px; padding-top: 87px; }
 
-.title-image img { height: 80px; width: 80px; border-radius: 50px; box-shadow: 0px 0px 5px 3px #cdcdcd; }
+.title-image img { height: 80px; width: 80px; border-radius: 50px; box-shadow: 0px 0px 5px 3px #cdcdcd; transition: transform .2s; }
+
+.title-image img:hover { transform: rotate(10deg) scale(1.1); }
 
 .main-content-container { width: 100%; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
 
