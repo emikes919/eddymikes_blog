@@ -5,7 +5,7 @@
 
 body { background-color: var(--background-blue); margin: 0; gap: 30px; }
 
-.container { border: 5px solid black; display: flex; gap: 45px; }
+.container { display: flex; gap: 45px; }
 
 .side-bar { padding-left: 80px; padding-top: 87px; }
 
@@ -15,7 +15,7 @@ body { background-color: var(--background-blue); margin: 0; gap: 30px; }
 
 .title-image-mobile { display: none; }
 
-.main-content-container { border: 2px solid red; max-width: 800px; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
+.main-content-container { max-width: 800px; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
 
 .header-container { display: flex; flex-direction: column; gap: 25px; }
 
@@ -58,7 +58,8 @@ nav { display: flex; align-items: center; gap: 20px; color: black; }
 #thanks-text { font-size: .9rem; }
 
 @media (max-width: 600px) { .main-title { font-size: 2.5rem; }
-  .post-content p, ol, ul { font-size: 1.1rem; }
-  .main-content-container { padding: 40px 22px 40px 22px; }
+  .post-container h1.responsive { font-size: 1.8rem; }
+  .post-content p, ol, ul { font-size: 1.2rem; }
+  .main-content-container { padding: 40px 25px 40px 25px; }
   .side-bar { display: none; }
   .title-image-mobile { display: block; } }
