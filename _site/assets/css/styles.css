@@ -3,17 +3,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
 :root { --primary: #47B2FF; --background-blue: #e6f2ff; --secondary-text: #848484; margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
 
-body { background-color: var(--background-blue); margin: 0; display: flex; flex-direction: column; gap: 30px; }
+body { background-color: var(--background-blue); margin: 0; gap: 30px; }
 
-.container { display: flex; gap: 45px; padding-right: 500px; }
+.container { border: 5px solid black; display: flex; gap: 45px; }
 
 .side-bar { padding-left: 80px; padding-top: 87px; }
 
-.title-image img { height: 80px; width: 80px; border-radius: 50px; box-shadow: 0px 0px 5px 3px #cdcdcd; transition: transform .2s; }
+.title-image img, .title-image-mobile img { height: 80px; width: 80px; border-radius: 50px; box-shadow: 0px 0px 5px 3px #cdcdcd; transition: transform .2s; }
 
-.title-image img:hover { transform: rotate(10deg) scale(1.1); }
+.title-image img:hover, .title-image-mobile img:hover { transform: rotate(10deg) scale(1.1); }
 
-.main-content-container { width: 100%; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
+.title-image-mobile { display: none; }
+
+.main-content-container { border: 2px solid red; max-width: 800px; padding-top: 80px; display: flex; flex-direction: column; gap: 50px; }
 
 .header-container { display: flex; flex-direction: column; gap: 25px; }
 
@@ -54,3 +56,9 @@ nav { display: flex; align-items: center; gap: 20px; color: black; }
 .post-content li { margin: 15px 0px 15px 0px; }
 
 #thanks-text { font-size: .9rem; }
+
+@media (max-width: 600px) { .main-title { font-size: 2.5rem; }
+  .post-content p, ol, ul { font-size: 1.1rem; }
+  .main-content-container { padding: 40px 22px 40px 22px; }
+  .side-bar { display: none; }
+  .title-image-mobile { display: block; } }
