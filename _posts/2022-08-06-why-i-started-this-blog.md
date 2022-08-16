@@ -13,7 +13,7 @@ I spend the vast majority of my intellectually demanding time consuming informat
 
 All that information represents some of the building blocks of the ideas I have and views I form.
 
-Translating ideas from thoughts in one’s head into comprehendible written words challenges one to more deeply understand what they think. It’s amazing how I’ll think I know something and try to write it out, and that exercise reveals how hollow that thinking can actually be sometimes. There are other areas of life where I’m writing - occasionally at my day job, for startups/side projects I’ve worked on, job hunts, etc., but it’s pretty infrequent. Forcing myself to write more stimulates a another part of my brain, reinforces and challenges my ideas, and improves the depth and quality of my thinking (if I was on the fence about that before, writing this first post proves it to me.) 
+Translating ideas from thoughts in one’s head into comprehendible written words challenges one to more deeply understand what they think. It’s amazing how I’ll think I know something and try to write it out, and that exercise reveals how hollow that thinking can actually be sometimes. There are other areas of life where I’m writing - occasionally at my day job, for startups/side projects I’ve worked on, job hunts, etc., but it’s pretty infrequent. Forcing myself to write more stimulates another part of my brain, reinforces and challenges my ideas, and improves the depth and quality of my thinking (if I was on the fence about that before, writing this first post proves it to me). 
 
 This blog is a pursuit of clearer, deeper thinking about the things that interest me.
 
