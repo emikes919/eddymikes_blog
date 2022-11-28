@@ -55,7 +55,7 @@ I want to spend my peak mental hours immediately diving into meaningful work tha
 
 Remember how humans are momentum fiends? This one falls in the category of “getting out of your own way” by kickstarting the momentum train. Same deal with laying out your gym clothes the night before, so you can just roll out of bed, put them on, and head straight to the gym. Do yourself a favor!
 
-My daily to-do list for this weekend looks like this:
+My daily to-do list for this past weekend looks like this:
 
 ![notion-daily-to-do-list](/assets/images/notion-daily-to-do-list.png "notion-to-do-list")
 
@@ -129,7 +129,9 @@ Hot take alert! This one is both critical and controversial.
 
 The level of focus you will achieve by ignoring email entirely for three hours at a time is hard to understate. Email is an attention stealer, and most emails do not require an urgent response (I’m sure there are some fields where this isn’t the case, but I’ll venture to guess there are few). And yet, we’re carpet bombed with these little things all day long, constantly breaking our focus.
 
-> *“But wait! How can you ignore email?! What if someone needs to get in touch with you?! Aren’t you negatively impacting your teammates’ productivity?!”*
+> *“But wait! How can you ignore email?!*
+> *What if someone needs to get in touch with you?!*
+> *Aren’t you negatively impacting your teammates’ productivity?!”*
 > 
 
 No. I solve for this three ways:
@@ -190,7 +192,7 @@ Don’t be afraid to relax. Working hard is important, but slipping into “hust
 
 ## My productivity vices
 
-For some people its procrastination, for others its chocolate. For me, it’s YouTube, Twitter, and the snooze button.
+For some people it's procrastination, for others it's chocolate. For me, it’s YouTube, Twitter, and the snooze button.
 
 ## 🐌 YouTube
 
