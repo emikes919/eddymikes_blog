@@ -43,7 +43,7 @@ I’ve tried a lot of methods over the years and have come up with a pretty reli
 
 ## Things that had a significant impact on my productivity
 
-<p id="thanks-text"><em>Quick disclaimer: It’s important to maintain some degree of flexibility in your workflow. I try to do a lot of these things as regularly as possible, but life comes at ya. Being arbitrarily rigid is counterproductive.
+<p id="thanks-text"><em>Quick disclaimer: It’s important to maintain some degree of flexibility in your workflow. I try to do a lot of these things as regularly as possible, but life comes at ya. Being arbitrarily rigid is counterproductive.</em></p>
 
 ## ⚡ Setting a daily to-do list the night before
 
