@@ -11,9 +11,9 @@ excerpt: Check me into the looney bin
 - Productivity hacks
 - My productivity vices
 
-I’ve spent a lot of time thinking about productivity. This is probably because I inherently hate wasting time, but partially because I’m taking a [risky turn](https://eddymikes.me/2022/08/07/quitter.html) in life. Maximizing my productive output has become more important commensurate with the higher stakes I’ve set for myself. Spend two minutes scrolling through the Twittersphere, and it’s clear that productivity is a topic of general interest, so I felt inspired to consolidate my thinking around how I stay productive.
+I’ve spent a lot of time thinking about productivity. This is probably because I inherently hate wasting time, but partially because I’m taking a [risky turn](https://eddymikes.me/2022/08/07/quitter.html){:target="_blank"} in life. Maximizing my productive output has become more important commensurate with the higher stakes I’ve set for myself. Spend two minutes scrolling through the Twittersphere, and it’s clear that productivity is a topic of general interest, so I felt inspired to consolidate my thinking around how I stay productive.
 
-Before getting into the obligatory “hacks” list, it’s important to mention that all the productivity tips and tricks don’t really matter if you’re working on the wrong thing or are not genuinely interested in what you’re doing. Unless you’re superhuman, it’s nearly impossible to give it everything you’ve got when you’re working on something you don’t care about. Motivation is extremely sensitive to interest in both directions. Sam Altman expands on this [well](https://blog.samaltman.com/productivity), so I won’t reinvent the wheel here. 
+Before getting into the obligatory “hacks” list, it’s important to mention that all the productivity tips and tricks don’t really matter if you’re working on the wrong thing or are not genuinely interested in what you’re doing. Unless you’re superhuman, it’s nearly impossible to give it everything you’ve got when you’re working on something you don’t care about. Motivation is extremely sensitive to interest in both directions. Sam Altman expands on this [well](https://blog.samaltman.com/productivity){:target="_blank"}, so I won’t reinvent the wheel here. 
 
 Let’s start with two of my big ***productivity no-nos*** up front.
 
@@ -29,7 +29,7 @@ Spending all morning advancing slightly on a super impactful project is often mo
 
 If you’re really “productive” at doing things that shouldn’t be your first priority, you aren’t really being productive, and the opportunity cost is high! A little bit of time spent on something each day grows into an enormous amount of time spent on it in the long run (see “day compounding” below). So consistently getting caught in the grind trap can magnify into massive productivity losses over time.
 
-I try to avoid the grind trap by constantly asking myself I’m actually being productive or just “[active](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357)” (I even set up a little reminder post-it note that stares me in the face all day). A good mental model for this is the “run up-hill” framework, which says that when torn between two paths, it usually pays to choose the one that’s more difficult in the short term. On balance, the more intellectually demanding tasks tend to be the more impactful ones.
+I try to avoid the grind trap by constantly asking myself whether I’m actually being productive or just “[active](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357){:target="_blank"}” (I even set up a little reminder post-it note that stares me in the face all day). A good mental model for this is the “run up-hill” framework, which says that when torn between two paths, it usually pays to choose the one that’s more difficult in the short term. On balance, the more intellectually demanding tasks tend to be the more impactful ones.
 
 It’s hard to do, but just remember, we humans are momentum fiends: force yourself to take that difficult first step, and every one after that becomes significantly easier. This blog post is a great example. I’ve been putting it off for days because it was easier to jam through other less demanding tasks on my list!
 
@@ -37,7 +37,7 @@ It’s hard to do, but just remember, we humans are momentum fiends: force yours
 
 It has never been more in-vogue to talk about compounding. I hate to follow the crowd here, but it’s true. Not just financial compounding, but the compounding effects of how you spend your time. This works to your advantage in almost every area of life, from fitness and relationships to learning and productivity. If you can gain one more productive hour per workday, in a year, that’s 260 hours. In five, that’s 1,300 hours. The long term impact of small but consistent productivity gains is massive.
 
-Generating productivity gains that compound is only possible if your methods are sustainable. I’ve found the easiest way to do this is to seek methods with a high ***“impact-to-ease of implementation” ratio***. Whatever you do to be more productive, it should be relatively easy to implement and keep doing, and it should have an outsized positive impact on your productivity. Like with anything in life, finding these involves a lot of trial and error, and there may be some minor productivity losses in the pursuit of productivity gains. Everybody has different things that work for them, so don’t be afraid to give something a shot even if it doesn’t seem suitable for you at first.
+Generating productivity gains that compound is only possible if your methods are sustainable. I’ve found the easiest way to do this is to seek methods with a high ***impact-to-ease of implementation ratio***. Whatever you do to be more productive, it should be relatively easy to implement and keep doing, and it should have an outsized positive impact on your productivity. Like with anything in life, finding these involves a lot of trial and error, and there may be some minor productivity losses in the pursuit of productivity gains. Everybody has different things that work for them, so don’t be afraid to give something a shot even if it doesn’t seem suitable to you at first.
 
 I’ve tried a lot of methods over the years and have come up with a pretty reliable list that works for me. As promised, this wouldn’t be an article on productivity without a “hacks” list, so without further ado…
 
@@ -61,7 +61,7 @@ My daily to-do list for this past weekend looks like this:
 
 Rarely does anything ever make it onto the “mission critical” list. If something is truly mission critical, I will literally not do anything else until that thing is complete. Most things aren’t mission critical by this definition.
 
-I try to limit the “top priority” list to a maximum of two items. These tend to be more cognitively demanding and impactful tasks, but don’t have to be. My criteria for something to be “top priority” are urgency and impact. The “if possible” bucket is for less urgent things that are still relatively important in the near term. This to-do list structure is essentially my own version of the [Eisenhower Matrix](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method).
+I try to limit the “top priority” list to a maximum of two items. These tend to be more cognitively demanding and impactful tasks, but don’t have to be. My criteria for something to be “top priority” are urgency and impact. The “if possible” bucket is for less urgent things that are still relatively important in the near term. This to-do list structure is essentially my own version of the [Eisenhower Matrix](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method){:target="_blank"}.
 
 This exercise is usually the last thing I do before “signing off” of work for the evening. I do it most days, and once before the weekend if I have some stuff to get done. If I’m caught up on things or not particularly busy, I’ll skip it.
 
@@ -86,11 +86,11 @@ And the gains compound: an hour at 6am is worth much more to me than an hour at 
 
 Beyond the distraction-free time and minimized time slippage, there’s also the motivation derived from knowing you’re crushing the day. It’s cringy but true. Don’t knock it ‘til you try it 😉
 
-I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 and 5:20 (though sometimes much longer). I tried pulling a [Bob Iger](https://en.wikipedia.org/wiki/Bob_Iger) and waking up at 4:45am, but I couldn’t swing it. He’s a machine!
+I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 and 5:20 (though sometimes much longer). I tried pulling a [Bob Iger](https://en.wikipedia.org/wiki/Bob_Iger){:target="_blank"} and waking up at 4:45am, but I couldn’t swing it. He’s a machine!
 
-One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because its associated with being productive.
+One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.
 
-## ⚡ Adopting [Notion](https://www.notion.so/) to organize my life
+## ⚡ Adopting [Notion](https://www.notion.so/){:target="_blank"} to organize my life
 
 This is a BIG one. I’m constantly surprised by the number of people who haven’t heard of Notion, despite it being a massively successful software startup.
 
@@ -150,15 +150,15 @@ This one should be obvious. It’s amazing how many things in life fall into pla
 
 ## ⚡ Uncomfortably cold showers
 
-If there’s one thing that gets rid of brain fog in the morning better than anything else, it’s a freezing [cold shower](https://www.youtube.com/watch?v=pq6WHJzOkno&t=2093s). The water should be so cold you can barely tolerate it, then stand in it for two full minutes (set a timer). Never has two minutes felt so much like an eternity!
+If there’s one thing that gets rid of brain fog in the morning better than anything else, it’s a freezing [cold shower](https://www.youtube.com/watch?v=pq6WHJzOkno&t=2093s){:target="_blank"}. The water should be so cold you can barely tolerate it, then stand in it for two full minutes (set a timer). Never has two minutes felt so much like an eternity!
 
-I admit, it’s miserable, but the benefits are real for me. I get out of the shower extremely energized, and the mental clarity often lasts for hours. I only do this once or so per week since its so unpleasant.
+I admit, it’s miserable, but the benefits are real for me. I get out of the shower extremely energized, and the mental clarity often lasts for hours. I only do this once or so per week since it's so unpleasant.
 
 ## ⚡ Switching from coffee to green tea
 
 I find the peaks and troughs of coffee’s caffeine buzz to be relatively extreme, and they always have me coming back to the machine for another espresso. By the early afternoon, I’ve already had two or three espressos, and I’m entering “more coffee will disrupt my sleep” territory. I end up forced into this groggy state in need of more caffeine.
 
-Enter green tea. I find that green tea’s caffeine buzz is longer lasting and more even than coffee’s, with less pronounced peaks and troughs. I don’t get jittery, and the crash is more of a “soft landing”, allowing me to stay focused for longer. I also end up consuming less caffeine overall. 
+Enter green tea. I find that green tea’s caffeine buzz is longer lasting than coffee’s, with less pronounced peaks and troughs. I don’t get jittery, and the crash is more of a “soft landing”, allowing me to stay focused for longer. I also end up consuming less caffeine overall. 
 
 I’ll usually have a cup in the early morning, maybe another in the late morning, then one after lunch if necessary. I also love matcha. Throw a little almond milk and turmeric in there, pro tip. 
 
@@ -168,7 +168,7 @@ I’m not religious about this and will have a coffee here and there since I lov
 
 Intermittent fasting (”IF”) is widely promoted on the health and fitness circuit these days. For me, IF just entails eating an early dinner and skipping breakfast a few times per week. This creates a fasting window of around 14 to 16 hours, which is commonly referred to as the 16-8 fasting method (16 hours of fasting, 8 hours to eat your meals). 
 
-While there are alleged [health and longevity benefits](https://www.youtube.com/watch?v=9tRohh0gErM), I’m not promoting those. I do it for two productivity-related reasons: 1) I don’t have to think about making and eating breakfast, and 2) I feel better and am more focused for longer through lunchtime. 
+While there are alleged [health and longevity benefits](https://www.youtube.com/watch?v=9tRohh0gErM){:target="_blank"}, I’m not promoting those. I do it for two productivity-related reasons: 1) I don’t have to think about making and eating breakfast, and 2) I feel better and am more focused for longer through lunchtime. 
 
 Assuming I’ve gotten a good night’s sleep, my mental acuity is higher, and my morning energy is more consistent when I’m fasting. I try to extend this by keeping weekday lunches very low in carbs to avoid the afternoon crash. It works.
 
@@ -180,7 +180,7 @@ The news is a doom-scrollable list of headlines and stories jockeying for your e
 
 If you’re worried about not knowing what’s going on in the world, don’t be. If something is important enough, unless you are a bona fide recluse, there is a 100% chance you will hear about it, and hearing about it first matters zero. 
 
-If your goal is to be “informed” and sound smart, read books or long form deep dives on topics you’re interested in. I subscribe to a few newsletters that blast out a [list](https://www.execsum.co/) of the top headlines, and I’ll take a minute to skim through that. If something really important or interesting happened, I’ll dig into it further, but this is rare. I used to spend 30 minutes to an hour a day doom-scrolling through the news, the majority of which I didn’t retain. Waste of time.
+If your goal is to be “informed” and sound smart, read books or long form deep dives on topics you’re interested in. I subscribe to a few newsletters that blast out a [list](https://www.execsum.co/){:target="_blank"} of the top headlines, and I’ll take a minute to skim through that. If something really important or interesting happened, I’ll dig into it further, but this is rare. I used to spend 30 minutes to an hour a day doom-scrolling through the news, the majority of which I didn’t retain. Waste of time.
 
 ## ⚡ Building in time to screw around and do nothing
 
@@ -218,7 +218,7 @@ If anyone knows how to conquer this one let me know.
 
 ---
 
-If I had to ruthlessly narrow it down and leave you with three things to take away from this post: **use [Notion](http://notion.so), wake up early, and set your to-do list the night before**. Drinking less gets an honorable mention 😂. 
+If I had to ruthlessly narrow it down and leave you with three things to take away from this post: **use [Notion](http://notion.so){:target="_blank"}, wake up early, and set your to-do list the night before**. Drinking less gets an honorable mention 😂. 
 
 But hey, that’s just me. I’m always open to trying out the latest magic hack, so hit me up if you think you’ve found the secret sauce!
 
