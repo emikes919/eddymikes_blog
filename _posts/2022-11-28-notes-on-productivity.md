@@ -111,7 +111,7 @@ Notion can be used for *almost* anything, but here are a few personal examples:
 
 All this stuff is simply organized into one place, with a bunch of embedded functionality. **It’s like outsourcing part of your brain.** Notion is one of those things that’s so simple and works so well, that you can’t help but ask yourself: “how did this not exist 10 years ago?” 
 
-Oh, and there’s a great mobile app, so all of your stuff is at your finger tips on the go.
+Oh, and there’s a great mobile app, so all of your stuff is at your fingertips on the go.
 
 Starting a Notion account can be a little intimidating. The application is infinitely flexible, and all the functionality choices can be a bit overwhelming. There’s also no shortage of YouTube gurus out there promoting the most optimized and sexy personal dashboard. 
 
@@ -198,7 +198,7 @@ For some people it's procrastination, for others it's chocolate. For me, it’s 
 
 I LOVE YouTube. It’s longer form and is usually more informational than Instagram, but still bite-sized enough to use during a short break.
 
-If I had a nickel for every time I cracked open a video with the intention of watching one or two, but found myself a hour later down some unexpected rabbit hole…
+If I had a nickel for every time I cracked open a video with the intention of watching one or two, but found myself an hour later down some unexpected rabbit hole…
 
 ## 🐌 Twitter
 
