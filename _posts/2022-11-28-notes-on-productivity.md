@@ -134,7 +134,7 @@ The level of focus you will achieve by ignoring email entirely for three hours a
 > *Aren’t you negatively impacting your teammates’ productivity?!”*
 > 
 
-No. I solve for this three ways:
+No. I solve for this in three ways:
 
 1. Make sure the relevant people know how to contact you for urgent matters. Either via text, call, internal/external company chat, etc. Don’t be off grid, just don’t be constantly breaking focus to check your inbox.
 2. Understand that if something is truly urgent, the person will find a way to get in touch with you. If you’re contactable, but they can’t figure out how to reach you, it’s not urgent enough.
@@ -178,9 +178,9 @@ Note: If you get so hungry that you can’t think straight, this defeats the pur
 
 The news is a doom-scrollable list of headlines and stories jockeying for your eyeballs, 99% of which do not matter to your life (this excludes careers that require following certain news very closely). 
 
-If you’re worried about not knowing what’s going on in the world, don’t be. If something is important enough, unless you are a bona fide recluse, there is a 100% chance you will hear about it, and hearing about it first matters zero. 
+If you’re worried about not knowing what’s going on in the world, don’t be. If something is important enough, unless you are a bona fide recluse, there is a 100% chance you will hear about it, and hearing about it first matters zero. If your goal is to be “informed” and sound smart, read books or long form deep dives on topics you’re interested in.
 
-If your goal is to be “informed” and sound smart, read books or long form deep dives on topics you’re interested in. I subscribe to a few newsletters that blast out a [list](https://www.execsum.co/){:target="_blank"} of the top headlines, and I’ll take a minute to skim through that. If something really important or interesting happened, I’ll dig into it further, but this is rare. I used to spend 30 minutes to an hour a day doom-scrolling through the news, the majority of which I didn’t retain. Waste of time.
+I subscribe to a few newsletters that blast out a [list](https://www.execsum.co/){:target="_blank"} of the top headlines, and I’ll take a minute to skim through that. If something really important or interesting happened, I’ll dig into it further, but this is rare. I used to spend 30 minutes to an hour a day doom-scrolling through the news, the majority of which I didn’t retain. Waste of time.
 
 ## ⚡ Building in time to screw around and do nothing
 
