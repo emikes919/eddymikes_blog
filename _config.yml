@@ -7,5 +7,5 @@ plugins:
 
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "https://eddymikes.me" # the subpath of your site, e.g. /blog
-url: "https://eddymikes.me" # the base hostname & protocol of your site, e.g. http://example.com
-# url: "https://emikes919.github.io"
+# url: "https://eddymikes.me" # the base hostname & protocol of your site, e.g. http://example.com
+url: "https://emikes919.github.io"
