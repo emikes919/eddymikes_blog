@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on productivity
+title: A lunatic's guide to productivity
 excerpt: Check me into the looney bin
 ---
 ### In this article:
