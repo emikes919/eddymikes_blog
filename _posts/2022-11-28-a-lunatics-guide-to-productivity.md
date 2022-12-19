@@ -6,10 +6,10 @@ excerpt: Check me into the looney bin
 ### In this article:
 
 - Productivity and what to work on
-- My productivity no-nos
-- Sustainable productivity
-- Productivity hacks
-- My productivity vices
+- [My productivity no-nos](#productivity-no-no-1-the-optimization-trap)
+- [Sustainable productivity](#day-compounding-and-sustainable-productivity)
+- [Productivity hacks](#things-that-had-a-significant-impact-on-my-productivity)
+- [My productivity vices](#my-productivity-vices)
 
 I’ve spent a lot of time thinking about productivity. This is probably because I inherently hate wasting time, but partially because I’m taking a [risky turn](https://eddymikes.me/2022/08/07/quitter.html){:target="_blank"} in life. Maximizing my productive output has become more important commensurate with the higher stakes I’ve set for myself. Spend two minutes scrolling through the Twittersphere, and it’s clear that productivity is a topic of general interest, so I felt inspired to consolidate my thinking around how I stay productive.
 
