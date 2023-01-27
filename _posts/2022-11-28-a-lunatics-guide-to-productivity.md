@@ -45,7 +45,7 @@ I’ve tried a lot of methods over the years and have come up with a pretty reli
 
 <p id="thanks-text"><em>Quick disclaimer: It’s important to maintain some degree of flexibility in your workflow. I try to do a lot of these things as regularly as possible, but life comes at ya. Being arbitrarily rigid is counterproductive.</em></p>
 
-## ⚡ Setting a daily to-do list the night before
+<p class="sub-section">⚡ Setting a daily to-do list the night before</p>
 
 I cannot promote this one enough. I understand how this could seem trivial, what’s wrong with setting your daily to-do list first thing in the morning? The answer: a lot. 
 
@@ -65,7 +65,7 @@ I try to limit the “top priority” list to a maximum of two items. These tend
 
 This exercise is usually the last thing I do before “signing off” of work for the evening. I do it most days, and once before the weekend if I have some stuff to get done. If I’m caught up on things or not particularly busy, I’ll skip it.
 
-## ⚡ Getting up super early
+<p class="sub-section">⚡ Getting up super early</p>
 
 Getting up early has two main benefits for me: 1) it maximizes distraction-free peak mental hours, and 2) it minimizes “time slippage”.
 
@@ -90,7 +90,7 @@ I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 a
 
 One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.
 
-## ⚡ Adopting [Notion](https://www.notion.so/){:target="_blank"} to organize my life
+<p class="sub-section">⚡ Adopting [Notion](https://www.notion.so/){:target="_blank"} to organize my life</p>
 
 This is a BIG one. I’m constantly surprised by the number of people who haven’t heard of Notion, despite it being a massively successful software startup.
 
@@ -123,7 +123,7 @@ In an effort to not be completely biased, here are the only things I’ve found 
 - ❌ Cloud file storage
 - ❌ Calendar functionality (although they plan to integrate with Google Calendar)
 
-## ⚡ Ignoring email
+<p class="sub-section">⚡ Ignoring email</p>
 
 Hot take alert! This one is both critical and controversial. 
 
@@ -144,17 +144,17 @@ Some days tend to be more email-heavy, and it’s hard to avoid, but I try to sy
 
 ## Other little productivity hacks
 
-## ⚡ Drinking less
+<p class="sub-section">⚡ Drinking less</p>
 
 This one should be obvious. It’s amazing how many things in life fall into place when you cut down on alcohol. Energy, focus, cleanliness. The list is endless.
 
-## ⚡ Uncomfortably cold showers
+<p class="sub-section">⚡ Uncomfortably cold showers</p>
 
 If there’s one thing that gets rid of brain fog in the morning better than anything else, it’s a freezing [cold shower](https://www.youtube.com/watch?v=pq6WHJzOkno&t=2093s){:target="_blank"}. The water should be so cold you can barely tolerate it, then stand in it for two full minutes (set a timer). Never has two minutes felt so much like an eternity!
 
 I admit, it’s miserable, but the benefits are real for me. I get out of the shower extremely energized, and the mental clarity often lasts for hours. I only do this once or so per week since it's so unpleasant.
 
-## ⚡ Switching from coffee to green tea
+<p class="sub-section">⚡ Switching from coffee to green tea</p>
 
 I find the peaks and troughs of coffee’s caffeine buzz to be relatively extreme, and they always have me coming back to the machine for another espresso. By the early afternoon, I’ve already had two or three espressos, and I’m entering “more coffee will disrupt my sleep” territory. I end up forced into this groggy state in need of more caffeine.
 
@@ -164,7 +164,7 @@ I’ll usually have a cup in the early morning, maybe another in the late mornin
 
 I’m not religious about this and will have a coffee here and there since I love the taste so much.
 
-## ⚡ Intermittent fasting and low carb lunches
+<p class="sub-section">⚡ Intermittent fasting and low carb lunches</p>
 
 Intermittent fasting (”IF”) is widely promoted on the health and fitness circuit these days. For me, IF just entails eating an early dinner and skipping breakfast a few times per week. This creates a fasting window of around 14 to 16 hours, which is commonly referred to as the 16-8 fasting method (16 hours of fasting, 8 hours to eat your meals). 
 
@@ -174,7 +174,7 @@ Assuming I’ve gotten a good night’s sleep, my mental acuity is higher, and m
 
 Note: If you get so hungry that you can’t think straight, this defeats the purpose, and you should just eat. I also don’t fast after big strength training workouts. Read up on the risks of fasting before you try it.
 
-## ⚡ Stop reading the news
+<p class="sub-section">⚡ Stop reading the news</p>
 
 The news is a doom-scrollable list of headlines and stories jockeying for your eyeballs, 99% of which do not matter to your life (this excludes careers that require following certain news very closely). 
 
@@ -182,7 +182,7 @@ If you’re worried about not knowing what’s going on in the world, don’t be
 
 I subscribe to a few newsletters that blast out a [list](https://www.execsum.co/){:target="_blank"} of the top headlines, and I’ll take a minute to skim through that. If something really important or interesting happened, I’ll dig into it further, but this is rare. I used to spend 30 minutes to an hour a day doom-scrolling through the news, the majority of which I didn’t retain. Waste of time.
 
-## ⚡ Building in time to screw around and do nothing
+<p class="sub-section">⚡ Building in time to screw around and do nothing</p>
 
 This is less of a hack, and more something I think is simply necessary. Burnout is real, and if you’re trying to be productive all the time, this will quickly work against you. I’ve been there. 
 
@@ -194,13 +194,13 @@ Don’t be afraid to relax. Working hard is important, but slipping into “hust
 
 For some people it's procrastination, for others it's chocolate. For me, it’s YouTube, Twitter, and the snooze button.
 
-## 🐌 YouTube
+<p class="sub-section">🐌 YouTube</p>
 
 I LOVE YouTube. It’s longer form and is usually more informational than Instagram, but still bite-sized enough to use during a short break.
 
 If I had a nickel for every time I cracked open a video with the intention of watching one or two, but found myself an hour later down some unexpected rabbit hole…
 
-## 🐌 Twitter
+<p class="sub-section">🐌 Twitter</p>
 
 This one can be scary since it’s “intellectual” and doom-scrollable. A dangerous cocktail.
 
@@ -208,7 +208,7 @@ It’s hard not to keep scrolling after you open it, and there’s so much garba
 
 I request to see less of certain people or topics regularly (akin to “unsubscribing”), but I still find Twitter scrolls sucking up an unnecessary amount of my time.
 
-## 🐌 Snooze button
+<p class="sub-section">🐌 Snooze button</p>
 
 This is less of a vice and more of an Achilles Heel. In bad cases, I’ve been known to snooze in 15 minute increments for up to two hours. Brutal.
 
