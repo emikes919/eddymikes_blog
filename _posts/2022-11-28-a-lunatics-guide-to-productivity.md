@@ -90,7 +90,7 @@ I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 a
 
 One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.
 
-<p class="sub-section">⚡ Adopting [Notion](https://www.notion.so/){:target="_blank"} to organize my life</p>
+<p class="sub-section">⚡ Adopting <a href="https://www.notion.so/">Notion</a> to organize my life</p>
 
 This is a BIG one. I’m constantly surprised by the number of people who haven’t heard of Notion, despite it being a massively successful software startup.
 
