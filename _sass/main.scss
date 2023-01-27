@@ -6,6 +6,7 @@
     --primary: #47B2FF;
     --background-blue: #e6f2ff;
     --secondary-text: #848484;
+    --table-background: #cfe6ff;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -186,10 +187,19 @@ nav {
 
 table {
     border: 1px solid black;
+    background-color: var(--table-background);
+    padding: 5px;
+    margin: 0;
 }
 
 thead {
     text-align: left;
+    font-size: 1.1rem;
+}
+
+tr {
+    margin: 2px 0 2px 0;
+    border: 1px solid var(var(--secondary-text))
 }
 
 #thanks-text,
