@@ -6,6 +6,7 @@
     --primary: #47B2FF;
     --background-blue: #e6f2ff;
     --secondary-text: #848484;
+    --table-header: #99caff;
     --table-background: #cfe6ff;
     margin: 0;
     padding: 0;
@@ -173,6 +174,11 @@ nav {
 .post-content .sub-section {
     font-weight: bold;
     font-size: 1.3rem;
+    margin-bottom: 10px;
+}
+
+.post-content .sub-section + p {
+    margin-top: 0;
 }
 
 .post-content p, ol, ul {
@@ -187,6 +193,8 @@ nav {
 
 table {
     border: 1px solid black;
+    border-spacing: 0;
+    border-collapse: collapse;
     background-color: var(--table-background);
     padding: 8px;
     margin: 0;
@@ -195,11 +203,19 @@ table {
 thead {
     text-align: left;
     font-size: 1.1rem;
+    background-color: var(--table-header);
 }
 
 tr {
-    margin: 4px;
-    border: 1px solid var(var(--secondary-text))
+    border-bottom: 1px solid var(--secondary-text)
+}
+
+tr:last-of-type {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
 }
 
 #thanks-text,
@@ -231,5 +247,17 @@ tr {
 
     .title-image-mobile {
         display: block;
+    }
+
+    thead {
+        font-size: .9rem;
+    }
+
+    th, td {
+        padding: 10px 8px 10px 8px;
+    }
+
+    td {
+        font-size: .7rem;
     }
 }

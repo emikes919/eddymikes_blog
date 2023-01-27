@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-:root { --primary: #47B2FF; --background-blue: #e6f2ff; --secondary-text: #848484; margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
+:root { --primary: #47B2FF; --background-blue: #e6f2ff; --secondary-text: #848484; --table-header: #99caff; --table-background: #cfe6ff; margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
 
 body { background-color: var(--background-blue); margin: 0; gap: 30px; }
 
@@ -49,17 +49,34 @@ nav { display: flex; align-items: center; gap: 20px; color: black; }
 
 .post-container h1 { margin: 0; color: var(--primary); }
 
-.post-content h2 { margin-top: 40px; }
+.post-content h2 { margin-top: 60px; }
 
-.post-content p, ol, ul { font-size: 1.25rem; line-height: 1.6; margin: 25px 0px 25px 0px; }
+.post-content .sub-section { font-weight: bold; font-size: 1.3rem; margin-bottom: 10px; }
+
+.post-content .sub-section + p { margin-top: 0; }
+
+.post-content p, ol, ul { font-size: 1.25rem; line-height: 1.7; margin: 25px 0px 25px 0px; }
 
 .post-content li { margin: 15px 0px 15px 0px; }
 
-#thanks-text { font-size: .9rem; }
+table { border: 1px solid black; border-spacing: 0; border-collapse: collapse; background-color: var(--table-background); padding: 8px; margin: 0; }
+
+thead { text-align: left; font-size: 1.1rem; background-color: var(--table-header); }
+
+tr { border-bottom: 1px solid var(--secondary-text); }
+
+tr:last-of-type { border: 1px solid black; }
+
+th, td { padding: 15px; }
+
+#thanks-text, .disclaimer, .inline-quote { font-size: .9rem; }
 
 @media (max-width: 600px) { .main-title { font-size: 2.5rem; }
   .post-container h1.responsive { font-size: 1.8rem; }
   .post-content p, ol, ul { font-size: 1rem; }
   .main-content-container { padding: 40px 25px 40px 25px; }
   .side-bar { display: none; }
-  .title-image-mobile { display: block; } }
+  .title-image-mobile { display: block; }
+  thead { font-size: .9rem; }
+  th, td { padding: 10px 8px 10px 8px; }
+  td { font-size: .7rem; } }
