@@ -51,13 +51,15 @@ nav { display: flex; align-items: center; gap: 20px; color: black; }
 
 .post-content h2 { margin-top: 60px; }
 
-.post-content .sub-section { font-weight: bold; font-size: 1.3rem; margin-bottom: 10px; }
+.post-content .sub-section { font-weight: bold; font-size: 1.4rem; margin-bottom: 10px; }
 
 .post-content .sub-section + p { margin-top: 0; }
 
 .post-content p, ol, ul { font-size: 1.25rem; line-height: 1.7; margin: 25px 0px 25px 0px; }
 
 .post-content li { margin: 15px 0px 15px 0px; }
+
+.post-content .no-bullet-list { list-style-type: none; }
 
 table { border: 1px solid black; border-spacing: 0; border-collapse: collapse; background-color: var(--table-background); padding: 8px; margin: 0; }
 

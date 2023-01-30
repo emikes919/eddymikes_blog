@@ -98,16 +98,18 @@ This is a BIG one. I’m constantly surprised by the number of people who haven�
 
 Notion can be used for *almost* anything, but here are a few personal examples:
 
-- ☑️ To-do lists
-- ☑️ Any other kind of list
-- ☑️ All note-taking (forget Evernote)
-- ☑️ Writing, collaborating on, and sharing documents
-- ☑️ Event planning / guest list tracking
-- ☑️ Project management
-- ☑️ Travel planning
-- ☑️ Saving articles
-- ☑️ Recording workouts
-- ☑️ Drafting blog posts 😉
+<ul class="no-bullet-list">
+    <li>☑️ To-do lists</li>
+    <li>☑️ Any other kind of list</li>
+    <li>☑️ All note-taking (forget Evernote)</li>
+    <li>☑️ Writing, collaborating on, and sharing documents</li>
+    <li>☑️ Event planning / guest list tracking</li>
+    <li>☑️ Project management</li>
+    <li>☑️ Travel planning</li>
+    <li>☑️ Saving articles</li>
+    <li>☑️ Recording workouts</li>
+    <li>☑️ Drafting blog posts 😉</li>
+</ul>
 
 All this stuff is simply organized into one place, with a bunch of embedded functionality. **It’s like outsourcing part of your brain.** Notion is one of those things that’s so simple and works so well, that you can’t help but ask yourself: “how did this not exist 10 years ago?” 
 
@@ -119,9 +121,11 @@ Don’t worry about all that. Start small, and see if it’s for you. Some peopl
 
 In an effort to not be completely biased, here are the only things I’ve found that Notion is not great for:
 
-- ❌ Anything that’s done best in Excel (don’t come at the King!)
-- ❌ Cloud file storage
-- ❌ Calendar functionality (although they plan to integrate with Google Calendar)
+<ul class="no-bullet-list">
+    <li>❌ Anything that’s done best in Excel (don’t come at the King!)</li>
+    <li>❌ Cloud file storage</li>
+    <li>❌ Calendar functionality (although they plan to integrate with Google Calendar)</li>
+</ul>
 
 <p class="sub-section">⚡ Ignoring email</p>
 
