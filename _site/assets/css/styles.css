@@ -61,6 +61,8 @@ nav { display: flex; align-items: center; gap: 20px; color: black; }
 
 .post-content .no-bullet-list { list-style-type: none; }
 
+.post-content .quote-block { border-radius: 8px; background-color: var(--table-background); padding: 30px; font-style: italic; }
+
 table { border: 1px solid black; border-spacing: 0; border-collapse: collapse; background-color: var(--table-background); padding: 8px; margin: 0; }
 
 thead { text-align: left; font-size: 1.1rem; background-color: var(--table-header); }
@@ -71,7 +73,7 @@ tr:last-of-type { border: 1px solid black; }
 
 th, td { padding: 15px; }
 
-#thanks-text, .disclaimer, .inline-quote { font-size: .9rem; }
+#thanks-text, .disclaimer { font-size: .9rem; }
 
 @media (max-width: 600px) { .main-title { font-size: 2.5rem; }
   .post-container h1.responsive { font-size: 1.8rem; }

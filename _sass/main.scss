@@ -195,6 +195,13 @@ nav {
     list-style-type: none;
 }
 
+.post-content .quote-block {
+    border-radius: 8px;
+    background-color: var(--table-background);
+    padding: 30px;
+    font-style: italic;
+}
+
 table {
     border: 1px solid black;
     border-spacing: 0;
@@ -223,8 +230,7 @@ th, td {
 }
 
 #thanks-text,
-.disclaimer,
-.inline-quote {
+.disclaimer {
     font-size: .9rem;
 }
 
