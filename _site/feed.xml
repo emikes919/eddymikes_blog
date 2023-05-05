@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-05T11:29:52+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-05T12:00:52+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#the-why&quot;&gt;The Why&lt;/a&gt;&lt;/li&gt;
@@ -11,7 +11,9 @@
 
 &lt;p&gt;Curious little thing, programming. I am now well into the second year of this journey, and the deeper I go, the more I think about it and the more energized I become.&lt;/p&gt;
 
-&lt;p&gt;Energized enough that I feel compelled to share my reflections on the journey so far. Maybe this will serve as inspiration to some of you who have been contemplating taking on this skillset, but just need a little nudge to get started.&lt;/p&gt;
+&lt;p&gt;Energized enough that I feel compelled to share my reflections on the journey so far.&lt;/p&gt;
+
+&lt;p&gt;Maybe this will serve as inspiration to some of you who have been contemplating taking on this skillset, but just need a little nudge to get started.&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Quick note on the title of this post: It always amazes me how often people don’t try something new because they’re “too old”. Life expectancies are rising, people. It’s never too late to start.&lt;/em&gt;&lt;/p&gt;
 
@@ -84,7 +86,7 @@
 
 &lt;p&gt;I called this feeling the Blackness. Beyond some degree of superficial knowledge about why something cost what it did or how long it might take to develop, I saw nothing. Literally nothing. I lacked the required knowledge to even reason about why something might be. It was just blackness.&lt;/p&gt;
 
-&lt;p&gt;Imagine being asked to choose between two doctors to perform a heart transplant on your best friend. Beyond some outside advice and an examination of each doctor’s track record, you wouldn’t be able to conceive why one doctor might be better than the other. Extreme example, similar feeling.&lt;/p&gt;
+&lt;p&gt;Imagine being asked to choose between two doctors to perform a heart transplant on your best friend. Beyond some outside advice and an examination of each doctor’s track record, you wouldn’t be able to conceive of why one doctor might be better than the other. Extreme example, similar feeling.&lt;/p&gt;
 
 &lt;p&gt;There are a number of things we did to manage this (thankfully not in the medical sense 😂), including consulting our networks and looking at comparable prices in the market, but at the end of the day, we wore the risk of a decision we didn’t have the required expertise to make.&lt;/p&gt;
 
@@ -163,7 +165,7 @@
 
 &lt;p&gt;Funny, it was. Pleased, he was not.&lt;/p&gt;
 
-&lt;p class=&quot;blue-box&quot;&gt;These projects have two important traits that are worth harping upon for a moment. They &lt;strong&gt;1. brought me joy once completed and 2. brought me absolutely nothing until they were completed&lt;/strong&gt;. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.&lt;/p&gt;
+&lt;p class=&quot;blue-box&quot;&gt;These projects have two important traits that are worth harping upon for a moment. They &lt;strong&gt;1) brought me joy once completed and 2) brought me absolutely nothing until they were completed&lt;/strong&gt;. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.&lt;/p&gt;
 
 &lt;p&gt;Good progress so far, but at this point, I’m barely a respectable &lt;a href=&quot;https://en.wikipedia.org/wiki/Script_kiddie&quot; target=&quot;_blank&quot;&gt;script kiddie&lt;/a&gt; (not in the malicious sense, more in the noob sense). These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.&lt;/p&gt;
 
@@ -255,7 +257,7 @@
 
 &lt;p class=&quot;sub-section&quot;&gt;Programming is difficult, frustrating, and time consuming…&lt;/p&gt;
 
-&lt;p&gt;Make no mistake, programming is not easy. This is largely because it’s completely digital, and pretty abstract. A lot of the higher level programming languages that make sense to learn as a beginner (Python, JavaScript, etc.) contain pre-written functionality that handles lots of behind-the-scenes work you don’t see. This can make it hard to wrap your head around some of the actions you’re taking.&lt;/p&gt;
+&lt;p&gt;Make no mistake, programming is not easy. This is largely because it’s completely digital and pretty abstract. A lot of the higher level programming languages that make sense to learn as a beginner (Python, JavaScript, etc.) contain pre-written functionality that handles lots of behind-the-scenes work you don’t see. This can make it hard to wrap your head around some of the actions you’re taking.&lt;/p&gt;
 
 &lt;p class=&quot;blue-box&quot;&gt;A high level note on “higher level” programming languages:
 &lt;br /&gt;&lt;br /&gt;
@@ -281,7 +283,7 @@ At the end of the day, anything your computer does is executed through a series 
 
 &lt;p&gt;If you do decide to pick up programming, I recommend the below resources. I’ve explored a lot of content, and these are the best resources I’ve found.&lt;/p&gt;
 
-&lt;p class=&quot;sub-section&quot;&gt;Automatetheboringstuff.com&lt;/p&gt;
+&lt;p class=&quot;sub-section&quot;&gt;&lt;a href=&quot;http://automatetheboringstuff.com/&quot; target=&quot;_blank&quot;&gt;Automatetheboringstuff.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I cannot recommend this highly enough for beginners. It is an EXCELLENT starting place for learning Python.&lt;/p&gt;
 
@@ -293,7 +295,7 @@ At the end of the day, anything your computer does is executed through a series 
 
 &lt;p&gt;However, if you aren’t particularly interested in learning Python but want to learn to build web apps, an equally good place to start is The Odin Project.&lt;/p&gt;
 
-&lt;p class=&quot;sub-section&quot;&gt;The Odin Project&lt;/p&gt;
+&lt;p class=&quot;sub-section&quot;&gt;&lt;a href=&quot;https://www.theodinproject.com/&quot; target=&quot;_blank&quot;&gt;The Odin Project&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you want to learn web development as a beginner, The Odin Project is the 🐐. Full stop.&lt;/p&gt;
 

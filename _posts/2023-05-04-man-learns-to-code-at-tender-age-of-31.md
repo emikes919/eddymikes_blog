@@ -14,7 +14,9 @@ Much like starting a blog, learning to code has long lingered in the back of my 
 
 Curious little thing, programming. I am now well into the second year of this journey, and the deeper I go, the more I think about it and the more energized I become. 
 
-Energized enough that I feel compelled to share my reflections on the journey so far. Maybe this will serve as inspiration to some of you who have been contemplating taking on this skillset, but just need a little nudge to get started.
+Energized enough that I feel compelled to share my reflections on the journey so far.
+
+Maybe this will serve as inspiration to some of you who have been contemplating taking on this skillset, but just need a little nudge to get started.
 
 <p id="thanks-text"><em>Quick note on the title of this post: It always amazes me how often people don’t try something new because they’re “too old”. Life expectancies are rising, people. It’s never too late to start.</em></p>
 
@@ -83,7 +85,7 @@ The moment we started paying someone to build something we didn’t fully unders
 
 I called this feeling the Blackness. Beyond some degree of superficial knowledge about why something cost what it did or how long it might take to develop, I saw nothing. Literally nothing. I lacked the required knowledge to even reason about why something might be. It was just blackness. 
 
-Imagine being asked to choose between two doctors to perform a heart transplant on your best friend. Beyond some outside advice and an examination of each doctor’s track record, you wouldn’t be able to conceive why one doctor might be better than the other. Extreme example, similar feeling.
+Imagine being asked to choose between two doctors to perform a heart transplant on your best friend. Beyond some outside advice and an examination of each doctor’s track record, you wouldn’t be able to conceive of why one doctor might be better than the other. Extreme example, similar feeling.
 
 There are a number of things we did to manage this (thankfully not in the medical sense 😂), including consulting our networks and looking at comparable prices in the market, but at the end of the day, we wore the risk of a decision we didn’t have the required expertise to make.
 
@@ -161,7 +163,7 @@ And off I went. I used Python and learned just enough [Flask](https://flask.pall
 
 Funny, it was. Pleased, he was not.
 
-<p class="blue-box">These projects have two important traits that are worth harping upon for a moment. They <strong>1. brought me joy once completed and 2. brought me absolutely nothing until they were completed</strong>. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.</p>
+<p class="blue-box">These projects have two important traits that are worth harping upon for a moment. They <strong>1) brought me joy once completed and 2) brought me absolutely nothing until they were completed</strong>. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.</p>
 
 Good progress so far, but at this point, I’m barely a respectable [script kiddie](https://en.wikipedia.org/wiki/Script_kiddie){:target="_blank"} (not in the malicious sense, more in the noob sense). These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.
 
@@ -251,7 +253,7 @@ That power of creation in your fingertips is intoxicating, and it gives programm
 
 <p class="sub-section">Programming is difficult, frustrating, and time consuming…</p>
 
-Make no mistake, programming is not easy. This is largely because it’s completely digital, and pretty abstract. A lot of the higher level programming languages that make sense to learn as a beginner (Python, JavaScript, etc.) contain pre-written functionality that handles lots of behind-the-scenes work you don’t see. This can make it hard to wrap your head around some of the actions you’re taking.
+Make no mistake, programming is not easy. This is largely because it’s completely digital and pretty abstract. A lot of the higher level programming languages that make sense to learn as a beginner (Python, JavaScript, etc.) contain pre-written functionality that handles lots of behind-the-scenes work you don’t see. This can make it hard to wrap your head around some of the actions you’re taking.
 
 <p class="blue-box">A high level note on “higher level” programming languages:
 <br><br>
@@ -277,7 +279,7 @@ It’s all learnable, the available resources are endless, and there are no outs
 
 If you do decide to pick up programming, I recommend the below resources. I’ve explored a lot of content, and these are the best resources I’ve found.
 
-<p class="sub-section">Automatetheboringstuff.com</p>
+<p class="sub-section"><a href="http://automatetheboringstuff.com/" target="_blank">Automatetheboringstuff.com</a></p>
 
 I cannot recommend this highly enough for beginners. It is an EXCELLENT starting place for learning Python.
 
@@ -289,7 +291,7 @@ Python is a great starting language because it’s modern, intuitive, and widely
 
 However, if you aren’t particularly interested in learning Python but want to learn to build web apps, an equally good place to start is The Odin Project. 
 
-<p class="sub-section">The Odin Project</p>
+<p class="sub-section"><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></p>
 
 If you want to learn web development as a beginner, The Odin Project is the 🐐. Full stop.
 
