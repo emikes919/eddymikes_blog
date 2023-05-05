@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-05T11:10:00+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-05T11:29:52+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#the-why&quot;&gt;The Why&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-how-project-based-progression&quot;&gt;The How&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-how&quot;&gt;The How&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#reflections&quot;&gt;Reflections&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#free-resources-i-used-to-get-going-fast&quot;&gt;Resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#resources&quot;&gt;Resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Much like starting a blog, learning to code has long lingered in the back of my mind. Save for a few false starts over the last several years, I finally pulled the trigger in earnest in late 2021.&lt;/p&gt;
@@ -15,7 +15,7 @@
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Quick note on the title of this post: It always amazes me how often people don’t try something new because they’re “too old”. Life expectancies are rising, people. It’s never too late to start.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;The Why&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;the-why&quot;&gt;The Why&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I finally pulled the trigger for several reasons:&lt;/p&gt;
 
@@ -98,7 +98,7 @@
 
 &lt;p&gt;It was this feeling of blackness and being taken for a ride that finally made me say “that’s it, I’m learning to write software”.&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;The How: Project-based Progression&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;the-how&quot;&gt;The How: Project-based Progression&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;With most things, the most effective way to learn is through practical application. In programming land, that means building stuff.&lt;/p&gt;
 
@@ -243,7 +243,7 @@
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Note: All of the above probably seems like a lot, and it is. Programming is a huge time commitment. But it’s worth noting that I am not programming every single day. It ebbs and flows with my work load. There have been month-plus long periods where I haven’t been able to think about coding. No deadlines. Learning is a lifelong journey.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;Reflections&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;reflections&quot;&gt;Reflections&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;So that’s where I’ve been, how I got there, and where I’m going. Clearly, I’ve spent a lot of time doing and thinking about programming. Here are the most prominent things that come to mind when reflecting on my journey so far. They’re worth considering before you decide to take it on.&lt;/p&gt;
 
@@ -277,7 +277,7 @@ At the end of the day, anything your computer does is executed through a series 
 
 &lt;p&gt;It’s all learnable, the available resources are endless, and there are no outside dependencies. You aren’t held back by anything but yourself. It’s just you, your computer, and your desire to learn.&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;Free resources I used to get going fast&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;resources&quot;&gt;Free resources I used to get going fast&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you do decide to pick up programming, I recommend the below resources. I’ve explored a lot of content, and these are the best resources I’ve found.&lt;/p&gt;
 
@@ -369,13 +369,13 @@ At the end of the day, anything your computer does is executed through a series 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#what-happened-in-2022&quot;&gt;What happened in 2022&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#2022-goal-review&quot;&gt;2022 goal review&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#things-i-already-knew-but-learned-through-experience-in-2022&quot;&gt;Learning through experience in 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#best-books-i-read-in-2022&quot;&gt;Best books I read in 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#learning-through-experience&quot;&gt;Learning through experience in 2022&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#best-books&quot;&gt;Best books I read in 2022&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#2023-goal-setting&quot;&gt;2023 goal setting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a-cool-thing-i-discovered-in-2022&quot;&gt;A cool thing I discovered&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cool-thing&quot;&gt;A cool thing I discovered&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;What happened in 2022?&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;what-happened-in-2022&quot;&gt;What happened in 2022?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;An interesting year to say the least. On the surface, it looked like an amazing year, but under the hood, it was a rollercoaster of highs and lows.&lt;/p&gt;
 
@@ -408,7 +408,7 @@ At the end of the day, anything your computer does is executed through a series 
 
 &lt;p&gt;I selected a few pieces of my review to expand upon for this post. Let’s dive in!&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;2022 Goal Review&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;2022-goal-review&quot;&gt;2022 Goal Review&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In 2022, I set and tracked annual goals for the first time. I limited big goals to one or two, and added on a few easier ones. Despite not hitting all of them, they kept me very focused during my day-to-day, making me question whether what I was doing was necessary to help me achieve these goals.&lt;/p&gt;
 
@@ -422,7 +422,7 @@ At the end of the day, anything your computer does is executed through a series 
 
 &lt;p&gt;❌ &lt;strong&gt;Launch a revenue-generating startup.&lt;/strong&gt; I’m coming to find that things take MUCH longer than expected.&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;Things I already knew, but “learned” through experience in 2022&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;learning-through-experience&quot;&gt;Things I already knew, but “learned” through experience in 2022&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;When you experience something for the first time, even if you already knew it existed, it can give you a newfound appreciation or understanding of it. Reflecting on my year through this lens was a fun exercise, so I plan to do it annually going forward. Here are my big ones from 2022:&lt;/p&gt;
 
@@ -502,7 +502,7 @@ At the end of the day, anything your computer does is executed through a series 
 
 &lt;p&gt;I knew it was hard, but experiencing it gave me new respect for those warriors.&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;Best books I read in 2022&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;best-books&quot;&gt;Best books I read in 2022&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Not part of my annual review, but I felt compelled to share these bangers.&lt;/p&gt;
 
@@ -524,7 +524,7 @@ At the end of the day, anything your computer does is executed through a series 
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;2023 Goal Setting&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;2023-goal-setting&quot;&gt;2023 Goal Setting&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Working through my 2022 annual review inspired me to be even more deliberate about setting goals for 2023. Publishing them online seemed like a good way to hold myself accountable 💪.&lt;/p&gt;
 
@@ -602,7 +602,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;I anticipate these taking several years to achieve at a pace that will avoid injury. Off we go.&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;A cool thing I discovered in 2022&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;cool-thing&quot;&gt;A cool thing I discovered in 2022&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I thought I’d leave you with this: &lt;a href=&quot;https://www.futureme.org/letters/new&quot; target=&quot;_blank&quot;&gt;Futureme&lt;/a&gt;. This website lets you send a letter to your future self (they email you the letter at a specified time in the future).&lt;/p&gt;
 
@@ -617,10 +617,10 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;ul&gt;
   &lt;li&gt;Productivity and what to work on&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#productivity-no-no-1-the-optimization-trap&quot;&gt;My productivity no-nos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#day-compounding-and-sustainable-productivity&quot;&gt;Sustainable productivity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#things-that-had-a-significant-impact-on-my-productivity&quot;&gt;Productivity hacks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#my-productivity-vices&quot;&gt;My productivity vices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#productivity-no-nos&quot;&gt;My productivity no-nos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sustainable-productivity&quot;&gt;Sustainable productivity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#productivity-hacks&quot;&gt;Productivity hacks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#productivity-vices&quot;&gt;My productivity vices&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I’ve spent a lot of time thinking about productivity. This is probably because I inherently hate wasting time, but partially because I’m taking a &lt;a href=&quot;https://eddymikes.me/2022/08/07/quitter.html&quot; target=&quot;_blank&quot;&gt;risky turn&lt;/a&gt; in life. Maximizing my productive output has become more important commensurate with the higher stakes I’ve set for myself. Spend two minutes scrolling through the Twittersphere, and it’s clear that productivity is a topic of general interest, so I felt inspired to consolidate my thinking around how I stay productive.&lt;/p&gt;
@@ -629,7 +629,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;Let’s start with two of my big &lt;strong&gt;&lt;em&gt;productivity no-nos&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;Productivity no-no #1: The Optimization Trap&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;productivity-no-nos&quot;&gt;Productivity no-no #1: The Optimization Trap&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Focusing so much on how to be more productive that it becomes counterproductive.&lt;/strong&gt; Essentially just over-optimizing. Productivity hacks are seductive, so this is a slippery slope. Admittedly, I’ve found myself here before, but I try to be self-aware about whether I’m falling into the trap in real time. The majority of productivity hacks offer only marginal benefits, and sometimes you just need to get going on whatever it is you’re working on.&lt;/p&gt;
 
@@ -645,7 +645,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;It’s hard to do, but just remember, we humans are momentum fiends: force yourself to take that difficult first step, and every one after that becomes significantly easier. This blog post is a great example. I’ve been putting it off for days because it was easier to jam through other less demanding tasks on my list!&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;Day compounding and sustainable productivity&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;sustainable-productivity&quot;&gt;Day compounding and sustainable productivity&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It has never been more in-vogue to talk about compounding. I hate to follow the crowd here, but it’s true. Not just financial compounding, but the compounding effects of how you spend your time. This works to your advantage in almost every area of life, from fitness and relationships to learning and productivity. If you can gain one more productive hour per workday, in a year, that’s 260 hours. In five, that’s 1,300 hours. The long term impact of small but consistent productivity gains is massive.&lt;/p&gt;
 
@@ -653,7 +653,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;I’ve tried a lot of methods over the years and have come up with a pretty reliable list that works for me. As promised, this wouldn’t be an article on productivity without a “hacks” list, so without further ado…&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;Things that had a significant impact on my productivity&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;productivity-hacks&quot;&gt;Things that had a significant impact on my productivity&lt;/a&gt;&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Quick disclaimer: It’s important to maintain some degree of flexibility in your workflow. I try to do a lot of these things as regularly as possible, but life comes at ya. Being arbitrarily rigid is counterproductive.&lt;/em&gt;&lt;/p&gt;
 
@@ -809,7 +809,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 
 &lt;p&gt;Don’t be afraid to relax. Working hard is important, but slipping into “hustle culture” is counterproductive in the long run. Build in time to hang with friends, spend time outside, or sit around and watch TV to let your brain reset, like taking a rest day after a workout.&lt;/p&gt;
 
-&lt;p class=&quot;main-section&quot;&gt;My productivity vices&lt;/p&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;productivity-vices&quot;&gt;My productivity vices&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;For some people it’s procrastination, for others it’s chocolate. For me, it’s YouTube, Twitter, and the snooze button.&lt;/p&gt;
 

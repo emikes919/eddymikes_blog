@@ -6,9 +6,9 @@ excerpt: 01001010100101111000 (I have no idea what that means)
 <p class="sub-section">In this article:</p>
 
 - [The Why](#the-why)
-- [The How](#the-how-project-based-progression)
+- [The How](#the-how)
 - [Reflections](#reflections)
-- [Resources](#free-resources-i-used-to-get-going-fast)
+- [Resources](#resources)
 
 Much like starting a blog, learning to code has long lingered in the back of my mind. Save for a few false starts over the last several years, I finally pulled the trigger in earnest in late 2021. 
 
@@ -18,7 +18,7 @@ Energized enough that I feel compelled to share my reflections on the journey so
 
 <p id="thanks-text"><em>Quick note on the title of this post: It always amazes me how often people don’t try something new because they’re “too old”. Life expectancies are rising, people. It’s never too late to start.</em></p>
 
-<p class="main-section">The Why</p>
+<p class="main-section"><a name="the-why">The Why</a></p>
 
 I finally pulled the trigger for several reasons:
 
@@ -97,7 +97,7 @@ I couldn’t stand the inability to make a thoughtful decision. The vulnerabilit
 
 It was this feeling of blackness and being taken for a ride that finally made me say “that’s it, I’m learning to write software”.
 
-<p class="main-section">The How: Project-based Progression</p>
+<p class="main-section"><a name="the-how">The How: Project-based Progression</a></p>
 
 With most things, the most effective way to learn is through practical application. In programming land, that means building stuff.
 
@@ -239,7 +239,7 @@ Onward.
 
 <p id="thanks-text"><em>Note: All of the above probably seems like a lot, and it is. Programming is a huge time commitment. But it’s worth noting that I am not programming every single day. It ebbs and flows with my work load. There have been month-plus long periods where I haven’t been able to think about coding. No deadlines. Learning is a lifelong journey.</em></p>
 
-<p class="main-section">Reflections</p>
+<p class="main-section"><a name="reflections">Reflections</a></p>
 
 So that’s where I’ve been, how I got there, and where I’m going. Clearly, I’ve spent a lot of time doing and thinking about programming. Here are the most prominent things that come to mind when reflecting on my journey so far. They’re worth considering before you decide to take it on.
 
@@ -273,7 +273,7 @@ A lot of programming’s difficulty can be overcome by the simple act of chippin
 
 It’s all learnable, the available resources are endless, and there are no outside dependencies. You aren’t held back by anything but yourself. It’s just you, your computer, and your desire to learn.
 
-<p class="main-section">Free resources I used to get going fast</p>
+<p class="main-section"><a name="resources">Free resources I used to get going fast</a></p>
 
 If you do decide to pick up programming, I recommend the below resources. I’ve explored a lot of content, and these are the best resources I’ve found.
 
