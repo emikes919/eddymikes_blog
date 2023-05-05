@@ -3,7 +3,7 @@ layout: post
 title: A lunatic's guide to productivity
 excerpt: Check me into the looney bin
 ---
-### In this article:
+## In this article:
 
 - Productivity and what to work on
 - [My productivity no-nos](#productivity-no-no-1-the-optimization-trap)
@@ -15,13 +15,13 @@ I’ve spent a lot of time thinking about productivity. This is probably because
 
 Before getting into the obligatory “hacks” list, it’s important to mention that all the productivity tips and tricks don’t really matter if you’re working on the wrong thing or are not genuinely interested in what you’re doing. Unless you’re superhuman, it’s nearly impossible to give it everything you’ve got when you’re working on something you don’t care about. Motivation is extremely sensitive to interest in both directions. Sam Altman expands on this [well](https://blog.samaltman.com/productivity){:target="_blank"}, so I won’t reinvent the wheel here. 
 
-Let’s start with two of my big ***productivity no-nos*** up front.
+Let’s start with two of my big ***productivity no-nos***.
 
-## Productivity no-no #1: The Optimization Trap
+<p class="main-section">Productivity no-no #1: The Optimization Trap</p>
 
 **Focusing so much on how to be more productive that it becomes counterproductive.** Essentially just over-optimizing. Productivity hacks are seductive, so this is a slippery slope. Admittedly, I’ve found myself here before, but I try to be self-aware about whether I’m falling into the trap in real time. The majority of productivity hacks offer only marginal benefits, and sometimes you just need to get going on whatever it is you’re working on.
 
-## Productivity no-no #2: The Grind Trap
+<p class="main-section">Productivity no-no #2: The Grind Trap</p>
 
 **Blindly focusing on “efficiency” and number of tasks completed.** I call it the “***grind trap***”. Productivity is not just about efficiency, it’s about impact. You can use energy efficiently to run on a treadmill, it doesn’t mean you’re going anywhere. It sounds obvious, but it’s an easy trap to fall into mainly because grinding out tasks tends to be less cognitively demanding. 
 
@@ -33,7 +33,7 @@ I try to avoid the grind trap by constantly asking myself whether I’m actually
 
 It’s hard to do, but just remember, we humans are momentum fiends: force yourself to take that difficult first step, and every one after that becomes significantly easier. This blog post is a great example. I’ve been putting it off for days because it was easier to jam through other less demanding tasks on my list!
 
-## Day compounding and sustainable productivity
+<p class="main-section">Day compounding and sustainable productivity</p>
 
 It has never been more in-vogue to talk about compounding. I hate to follow the crowd here, but it’s true. Not just financial compounding, but the compounding effects of how you spend your time. This works to your advantage in almost every area of life, from fitness and relationships to learning and productivity. If you can gain one more productive hour per workday, in a year, that’s 260 hours. In five, that’s 1,300 hours. The long term impact of small but consistent productivity gains is massive.
 
@@ -41,7 +41,7 @@ Generating productivity gains that compound is only possible if your methods are
 
 I’ve tried a lot of methods over the years and have come up with a pretty reliable list that works for me. As promised, this wouldn’t be an article on productivity without a “hacks” list, so without further ado…
 
-## Things that had a significant impact on my productivity
+<p class="main-section">Things that had a significant impact on my productivity</p>
 
 <p id="thanks-text"><em>Quick disclaimer: It’s important to maintain some degree of flexibility in your workflow. I try to do a lot of these things as regularly as possible, but life comes at ya. Being arbitrarily rigid is counterproductive.</em></p>
 
@@ -88,7 +88,7 @@ Beyond the distraction-free time and minimized time slippage, there’s also the
 
 I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 and 5:20 (though sometimes much longer). I tried pulling a [Bob Iger](https://en.wikipedia.org/wiki/Bob_Iger){:target="_blank"} and waking up at 4:45am, but I couldn’t swing it. He’s a machine!
 
-One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.
+<p id="thanks-text"><em>One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.</em></p>
 
 <p class="sub-section">⚡ Adopting <a href="https://www.notion.so/" target="_blank">Notion</a> to organize my life</p>
 
@@ -146,7 +146,7 @@ No. I solve for this in three ways:
 
 Some days tend to be more email-heavy, and it’s hard to avoid, but I try to systematically skim and ignore email as often as I can.
 
-## Other little productivity hacks
+<p class="main-section">Other little productivity hacks</p>
 
 <p class="sub-section">⚡ Drinking less</p>
 
@@ -194,7 +194,7 @@ We’re human beings with a finite capacity for mentally demanding work each day
 
 Don’t be afraid to relax. Working hard is important, but slipping into “hustle culture” is counterproductive in the long run. Build in time to hang with friends, spend time outside, or sit around and watch TV to let your brain reset, like taking a rest day after a workout. 
 
-## My productivity vices
+<p class="main-section">My productivity vices</p>
 
 For some people it's procrastination, for others it's chocolate. For me, it’s YouTube, Twitter, and the snooze button.
 

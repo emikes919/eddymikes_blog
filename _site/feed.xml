@@ -1,4 +1,370 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-04T10:18:59+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">2022 year in review</title><link href="http://localhost:4000/2023/01/26/2022-year-in-review.html" rel="alternate" type="text/html" title="2022 year in review" /><published>2023-01-26T00:00:00+08:00</published><updated>2023-01-26T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/26/2022-year-in-review</id><content type="html" xml:base="http://localhost:4000/2023/01/26/2022-year-in-review.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-05T11:10:00+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-why&quot;&gt;The Why&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-how-project-based-progression&quot;&gt;The How&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#reflections&quot;&gt;Reflections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#free-resources-i-used-to-get-going-fast&quot;&gt;Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Much like starting a blog, learning to code has long lingered in the back of my mind. Save for a few false starts over the last several years, I finally pulled the trigger in earnest in late 2021.&lt;/p&gt;
+
+&lt;p&gt;Curious little thing, programming. I am now well into the second year of this journey, and the deeper I go, the more I think about it and the more energized I become.&lt;/p&gt;
+
+&lt;p&gt;Energized enough that I feel compelled to share my reflections on the journey so far. Maybe this will serve as inspiration to some of you who have been contemplating taking on this skillset, but just need a little nudge to get started.&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Quick note on the title of this post: It always amazes me how often people don’t try something new because they’re “too old”. Life expectancies are rising, people. It’s never too late to start.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;The Why&lt;/p&gt;
+
+&lt;p&gt;I finally pulled the trigger for several reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I wanted to better understand technology.&lt;/li&gt;
+  &lt;li&gt;Programming is intellectually demanding.&lt;/li&gt;
+  &lt;li&gt;I wanted to automate certain workflows.&lt;/li&gt;
+  &lt;li&gt;I was flying blind on a technology-related decision.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Understanding technology&lt;/p&gt;
+
+&lt;p&gt;I’ve &lt;a href=&quot;https://eddymikes.me/2022/08/07/quitter.html&quot; target=&quot;_blank&quot;&gt;embarked on the path&lt;/a&gt; of entrepreneurship, and I’m open-minded about where that path might lead.&lt;/p&gt;
+
+&lt;p&gt;I’m not married to the idea of starting an in-vogue “tech startup”, and there is no shortage of compelling business and product ideas that do not require the ability to write software.&lt;/p&gt;
+
+&lt;p&gt;Having said that, entrepreneurship is difficult. Really difficult.&lt;/p&gt;
+
+&lt;p&gt;The ability to keep stepping up to the plate is critical to success. If I include problems that can be solved with even the simplest technology-based* businesses and products, the universe of executable ideas expands dramatically.&lt;/p&gt;
+
+&lt;p&gt;I recognize the massive time commitment that software development represents (more on that later), so I’ve set a reasonable goal: &lt;em&gt;to become a good enough developer to prototype simple ideas without paying someone else to do it&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;“Simple” is a relative term, and there’s the whole discussion about whether validating a business idea even requires a prototype, but let’s leave that rabbit hole for another day. One thing is indisputable:&lt;/p&gt;
+
+&lt;p&gt;Programming skills at the prototyping level will give me the power to create.&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;*Note: “Technology-based”, for the purposes of this post, means any business where the product or service is software, or where the core value proposition is driven or enabled by software.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Problem solving&lt;/p&gt;
+
+&lt;p&gt;Programming is very intellectually demanding and, at its core, is about problem solving. I see programming as a way to become a better problem solver and to push myself intellectually in a way that I haven’t done so far in my adult life.&lt;/p&gt;
+
+&lt;p&gt;Programming is especially appealing because progress is not dependent on anyone or anything. I don’t need a teacher to schedule time with, waves to surf, or a team to play against. All the resources to learn are freely available, and I don’t need anyone’s permission to start writing code.&lt;/p&gt;
+
+&lt;p&gt;All I need is a computer and an internet connection.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Automation&lt;/p&gt;
+
+&lt;p&gt;Having started my career in investment banking, I became quite the little Excel monkey. A side effect of my unnecessary level of Excel mastery was massive impatience for things taking longer than they should.&lt;/p&gt;
+
+&lt;p&gt;This wasn’t particularly bothersome when most of my time was spent working on financial models and charts that I could build rather quickly. However, at my most recent job, I dealt with much larger datasets that required more manual work to clean and manipulate. As a result, I found myself spending much more time doing manual work in Excel than I was accustomed to.&lt;/p&gt;
+
+&lt;p&gt;In addition, my company had a large technology department, so I was constantly forced to watch my developer colleagues automate away their manual work while I trudged through mine.&lt;/p&gt;
+
+&lt;p&gt;Spend enough time watching other people do something in a fraction of the time it takes you, and well…&lt;/p&gt;
+
+&lt;p&gt;Long story short: &lt;strong&gt;Impatient guy sees better way to get things done, decides to learn how.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;The Blackness&lt;/p&gt;
+
+&lt;p&gt;It turns out that I am, in fact, building a technology-based startup. I plan to do a deep dive post on this at some point, but the upshot is that we help restaurants process mobile payments fast.&lt;/p&gt;
+
+&lt;p&gt;Part of our thesis is based on bringing already proven technology to a large and underserved market, so we felt comfortable outsourcing the development of our “&lt;a href=&quot;https://en.wikipedia.org/wiki/Minimum_viable_product&quot; target=&quot;_blank&quot;&gt;MVP&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;p&gt;Our early product development journey went something like this:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Throw together some super basic &lt;a href=&quot;https://balsamiq.com/learn/articles/what-are-wireframes/&quot; target=&quot;_blank&quot;&gt;wireframes&lt;/a&gt; of our product idea and get feedback from prospective customers. If all goes well, move to step two.&lt;/li&gt;
+  &lt;li&gt;Prospects inevitably demanded to see “more” before committing to anything. We didn’t want to overinvest in something without any real demand, so as an intermediate step, we commissioned a friend to hack together a demo of the application we had in mind. We used this to acquire soft commitments from prospects and justify the risk of investing in a deployable product. If all goes well, move to step 3.&lt;/li&gt;
+  &lt;li&gt;We needed more robust development expertise to build something customers could actually use, so my partner and I casted a wide net across our networks and freelancer marketplaces. We received many proposals, narrowed it down, selected someone, and built the product.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;With no understanding of how software is built, step one was not problematic. It was essentially a design exercise based on what we wanted the product to do. Steps two and three are where we found ourselves in hot water.&lt;/p&gt;
+
+&lt;p&gt;The moment we started paying someone to build something we didn’t fully understand, we introduced unnecessary risk. How are we to judge whether or not a price is fair or whether a certain component is truly necessary?&lt;/p&gt;
+
+&lt;p&gt;I called this feeling the Blackness. Beyond some degree of superficial knowledge about why something cost what it did or how long it might take to develop, I saw nothing. Literally nothing. I lacked the required knowledge to even reason about why something might be. It was just blackness.&lt;/p&gt;
+
+&lt;p&gt;Imagine being asked to choose between two doctors to perform a heart transplant on your best friend. Beyond some outside advice and an examination of each doctor’s track record, you wouldn’t be able to conceive why one doctor might be better than the other. Extreme example, similar feeling.&lt;/p&gt;
+
+&lt;p&gt;There are a number of things we did to manage this (thankfully not in the medical sense 😂), including consulting our networks and looking at comparable prices in the market, but at the end of the day, we wore the risk of a decision we didn’t have the required expertise to make.&lt;/p&gt;
+
+&lt;p&gt;Looking back at step two with the knowledge I have today, I can confidently say we were taken advantage of (not in a deeply malicious way, but we clearly overpaid).&lt;/p&gt;
+
+&lt;p&gt;Fortunately, the stakes were low. We actually got something valuable out of it and moved forward as a business. But without a doubt, there were a number of instances where I would have acted differently had I had even a rudimentary understanding of the underlying technology.&lt;/p&gt;
+
+&lt;p&gt;The feeling of being ripped off cut deep.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t stand the inability to make a thoughtful decision. The vulnerability. The feeling of being a sucker.&lt;/p&gt;
+
+&lt;p&gt;It was this feeling of blackness and being taken for a ride that finally made me say “that’s it, I’m learning to write software”.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;The How: Project-based Progression&lt;/p&gt;
+
+&lt;p&gt;With most things, the most effective way to learn is through practical application. In programming land, that means building stuff.&lt;/p&gt;
+
+&lt;p&gt;What kind of stuff? Whatever floats your boat.&lt;/p&gt;
+
+&lt;p&gt;I’ve found the best projects a) pique your interest and/or b) can be implemented immediately with your current skillset or after learning a bite-sized amount of something new.&lt;/p&gt;
+
+&lt;p&gt;This means start small.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Project 1: Employ the robots&lt;/p&gt;
+
+&lt;p&gt;Remember how I was dealing with a bunch of manual Excel work and watched my developer colleagues gracefully side step those tasks? Enter &lt;a href=&quot;https://en.wikipedia.org/wiki/Python_(programming_language)&quot; target=&quot;_blank&quot;&gt;Python&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Python is a popular programming language for automating Excel work and is the golden child in finance. Naturally, learning enough of it to automate some of my manual work became my first bogie.&lt;/p&gt;
+
+&lt;p&gt;I used &lt;a href=&quot;http://automatetheboringstuff.com&quot; target=&quot;_blank&quot;&gt;automatetheboringstuff.com&lt;/a&gt; and was up and running with live Python scripts inside six weeks. These scripts migrated the responsibility of managing several manual processes from me…&lt;/p&gt;
+
+&lt;p&gt;…to my computer.&lt;/p&gt;
+
+&lt;p&gt;Let me pause here for a moment. I cannot understate how good it feels to have a two hour task suddenly become a &lt;strong&gt;&lt;em&gt;three second&lt;/em&gt;&lt;/strong&gt; one.&lt;/p&gt;
+
+&lt;p&gt;I am not exaggerating. Over the course of a few weeks, I automated several daily and monthly manual processes that previously consumed about 8 hours of my time each month.&lt;/p&gt;
+
+&lt;p&gt;Think about that. Approximately 90 hours of upfront investment (~3 hours of coding per day, ~5 days per week, for about 6 weeks) to save 8 hours of work per month. Payback in one year, and I’ve picked up a new skill that I can use forever. Seems like a good trade to me.&lt;/p&gt;
+
+&lt;p&gt;Not surprisingly, the feeling was pretty intoxicating and unleashed a new wave of idea generation.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Project 2: Roast the fellas&lt;/p&gt;
+
+&lt;p&gt;My friends and I use &lt;a href=&quot;https://groupme.com/en-US/&quot; target=&quot;_blank&quot;&gt;Groupme&lt;/a&gt; as our chat group. Luck would have it that Groupme has an open &lt;a href=&quot;https://dev.groupme.com/&quot; target=&quot;_blank&quot;&gt;API&lt;/a&gt;, giving the programmatically inclined access to all of their own personal messaging data.&lt;/p&gt;
+
+&lt;p&gt;My group chat has been in use for seven years, averaging 30 messages per day…&lt;/p&gt;
+
+&lt;p&gt;…methinks a closer look at the data is in order 🤔.&lt;/p&gt;
+
+&lt;p&gt;Enter my next project.&lt;/p&gt;
+
+&lt;p&gt;I used Python to gather our group chat’s entire messaging history from Groupme’s API, slice and dice it, and put it into a silly but illuminating presentation for the boys. The result was a 20 page deck pumped full of cute stats on my friends’ proclivity to absolutely roast each other.&lt;/p&gt;
+
+&lt;p&gt;They liked it, to say the least.&lt;/p&gt;
+
+&lt;p&gt;Here’s a little taste of what is now an annual production:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/groupme-presentation-slide.png&quot; alt=&quot;groupme-presentation-slide&quot; title=&quot;groupme-presentation-slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project only required a minor extension of my Python knowledge into a few &lt;a href=&quot;https://pandas.pydata.org/&quot; target=&quot;_blank&quot;&gt;new&lt;/a&gt; &lt;a href=&quot;https://pypi.org/project/requests/&quot; target=&quot;_blank&quot;&gt;libraries&lt;/a&gt;* and functionalities that are handy for working with large datasets and APIs, and it was a logical next step following my Excel automation work.&lt;/p&gt;
+
+&lt;p&gt;Success working with Groupme’s simple API inspired me to see what other laughs I could generate at my friends’ expense…&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;*Note: A library is just a set of pre-written code that you can leverage to get common stuff done instead of reinventing the wheel, so to speak.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Project 3: Roast one particular fella&lt;/p&gt;
+
+&lt;p&gt;As it turns out, Groupme also offers chatbot functionality.&lt;/p&gt;
+
+&lt;p&gt;What if I created a bot in our chat group that singled out one friend of the chattier variety and programmatically roasted him every time he opened his digital mouth?&lt;/p&gt;
+
+&lt;div style=&quot;width:100%;height:0;padding-bottom:55%;position:relative;&quot;&gt;&lt;iframe src=&quot;https://giphy.com/embed/26BRBKqUiq586bRVm&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;position:absolute&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/americasgottalent-agt-americas-got-talent-26BRBKqUiq586bRVm&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And off I went. I used Python and learned just enough &lt;a href=&quot;https://flask.palletsprojects.com/en/2.2.x/&quot; target=&quot;_blank&quot;&gt;Flask&lt;/a&gt;* to build and host a simple Groupme chatbot app that publicly roasted my friend with one of several snappy comebacks every time he sent a message over a certain length.&lt;/p&gt;
+
+&lt;p&gt;Funny, it was. Pleased, he was not.&lt;/p&gt;
+
+&lt;p class=&quot;blue-box&quot;&gt;These projects have two important traits that are worth harping upon for a moment. They &lt;strong&gt;1. brought me joy once completed and 2. brought me absolutely nothing until they were completed&lt;/strong&gt;. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.&lt;/p&gt;
+
+&lt;p&gt;Good progress so far, but at this point, I’m barely a respectable &lt;a href=&quot;https://en.wikipedia.org/wiki/Script_kiddie&quot; target=&quot;_blank&quot;&gt;script kiddie&lt;/a&gt; (not in the malicious sense, more in the noob sense). These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;*Note: Flask is a web framework for Python. Similar to a library, a framework is bunch of pre-written code that helps you build web-based apps quickly, from as simple as a Groupme bot to the much more complex.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Project 4: You’re reading it&lt;/p&gt;
+
+&lt;p&gt;I wanted to start with a relatively easy first website project, and I wanted to start writing more for aforementioned &lt;a href=&quot;https://eddymikes.me/2022/08/06/why-i-started-this-blog.html&quot; target=&quot;_blank&quot;&gt;reasons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;…incoming message from Captain Obvious…&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Dear Ed,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You should build and launch your own blog.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You’re welcome,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Captain Obvious&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A blog it is then.&lt;/p&gt;
+
+&lt;p&gt;The blog you’re currently reading was surprisingly easy to get up and running and involved the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Picked a domain&lt;/li&gt;
+  &lt;li&gt;Sketched out a simple design&lt;/li&gt;
+  &lt;li&gt;Learned just enough &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML&quot; target=&quot;_blank&quot;&gt;HTML&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS&quot; target=&quot;_blank&quot;&gt;CSS&lt;/a&gt; (see the &lt;a href=&quot;https://www.theodinproject.com/&quot; target=&quot;_blank&quot;&gt;Odin Project&lt;/a&gt; below)&lt;/li&gt;
+  &lt;li&gt;Learned just enough &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; (a popular blog site generator)&lt;/li&gt;
+  &lt;li&gt;Built the site using HTML, CSS, and Jekyll&lt;/li&gt;
+  &lt;li&gt;Hooked up my domain to &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;, and hosted the site&lt;/li&gt;
+  &lt;li&gt;Started writing (hardest part)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It was a great project because it hit all of my criteria:&lt;/p&gt;
+
+&lt;ul class=&quot;no-bullet-list&quot;&gt;
+    &lt;li&gt;✅ Piqued my interest&lt;/li&gt;
+    &lt;li&gt;✅ Required me to reach slightly beyond my grasp&lt;/li&gt;
+    &lt;li&gt;✅ Generated zero payoff until completed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The whole exercise took about six weeks. Not bad.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;What’s next?&lt;/p&gt;
+
+&lt;p&gt;With a solid understanding of the fundamentals in place, I felt comfortable advancing to the next level of difficulty. To do anything remotely advanced on a website, another programming language is required: &lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript&quot; target=&quot;_blank&quot;&gt;JavaScript&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;JavaScript is the third core technology of the internet, alongside HTML and CSS. It makes things come alive on a webpage and is a critical component of all web applications.&lt;/p&gt;
+
+&lt;p&gt;I expand on this in detail below, but I kicked off my JavaScript learning journey with &lt;a href=&quot;https://www.theodinproject.com/&quot; target=&quot;_blank&quot;&gt;The Odin Project&lt;/a&gt;. I’m about half way through the JavaScript course, and I can confidently say I’m a late-stage beginner in the JavaScript language.&lt;/p&gt;
+
+&lt;p&gt;So, my programming journey thus far can be summarized as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Python → HTML → CSS → JavaScript&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More than one year in, I’ve learned a tremendous amount, and I would definitely come off as an advanced developer to my pre-coding self. Pretty satisfying to think about.&lt;/p&gt;
+
+&lt;p&gt;But the material I have yet to cover is immense.&lt;/p&gt;
+
+&lt;p&gt;How do I navigate the daunting path forward? By staying on theme and hitting my criteria with new projects: piquing my interest, reaching beyond my grasp, and working towards something that requires 100% follow through.&lt;/p&gt;
+
+&lt;p&gt;I have a mobile app idea that I’d like to build, but it’s a big project that requires a lot of learning to make happen. The good news is that this project will prescribe the specific path I need to take to get there.&lt;/p&gt;
+
+&lt;p&gt;Sparing you the technical mumbo-jumbo, I need to learn more complex JavaScript, a JavaScript app framework called &lt;a href=&quot;https://react.dev/&quot; target=&quot;_blank&quot;&gt;React&lt;/a&gt;, a database tool from Google called &lt;a href=&quot;https://firebase.google.com/&quot; target=&quot;_blank&quot;&gt;Firebase&lt;/a&gt;, and a mobile app JavaScript framework called &lt;a href=&quot;https://reactnative.dev/&quot; target=&quot;_blank&quot;&gt;React Native&lt;/a&gt;. So my immediate path ahead looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More JavaScript → React → Firebase → React Native&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If I make it this far, I should be in a pretty good position to prototype basic ideas, but there is an endless amount to learn. More complex ideas will require more robust JavaScript app development and database technologies along with a host of other fun stuff.&lt;/p&gt;
+
+&lt;p&gt;The road ahead is long, but I don’t see any reason to discontinue learning so long as I remain interested and I have the time.&lt;/p&gt;
+
+&lt;p&gt;Onward.&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Note: All of the above probably seems like a lot, and it is. Programming is a huge time commitment. But it’s worth noting that I am not programming every single day. It ebbs and flows with my work load. There have been month-plus long periods where I haven’t been able to think about coding. No deadlines. Learning is a lifelong journey.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Reflections&lt;/p&gt;
+
+&lt;p&gt;So that’s where I’ve been, how I got there, and where I’m going. Clearly, I’ve spent a lot of time doing and thinking about programming. Here are the most prominent things that come to mind when reflecting on my journey so far. They’re worth considering before you decide to take it on.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Programming is satisfying&lt;/p&gt;
+
+&lt;p&gt;Code gives you the power to sit in front of your computer and create something useful in the real world, no welding skills required. If you can dream it up, you can probably build it.&lt;/p&gt;
+
+&lt;p&gt;That power of creation in your fingertips is intoxicating, and it gives programming a kind of embedded motivation engine. The more you learn, the more enjoyable the process of learning becomes, and the faster the idea flywheel spins.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Programming is difficult, frustrating, and time consuming…&lt;/p&gt;
+
+&lt;p&gt;Make no mistake, programming is not easy. This is largely because it’s completely digital, and pretty abstract. A lot of the higher level programming languages that make sense to learn as a beginner (Python, JavaScript, etc.) contain pre-written functionality that handles lots of behind-the-scenes work you don’t see. This can make it hard to wrap your head around some of the actions you’re taking.&lt;/p&gt;
+
+&lt;p class=&quot;blue-box&quot;&gt;A high level note on “higher level” programming languages:
+&lt;br /&gt;&lt;br /&gt;
+At the end of the day, anything your computer does is executed through a series of &lt;a href=&quot;https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/a/logic-gates&quot; target=&quot;_blank&quot;&gt;logic gates&lt;/a&gt; on its physical circuit board that represent ones and zeros. “Lower level” programming languages get very close to manipulating those ones and zeros. Then there are other languages used to manipulate the lower level languages, and even higher level languages used to manipulate those. As a beginner, you’ll be playing with the highest level languages. Confusing, I know. Here’s an &lt;a href=&quot;https://www.youtube.com/watch?v=pEfrdAtAmqk&quot; target=&quot;_blank&quot;&gt;interesting video&lt;/a&gt; that breaks it down.&lt;/p&gt;
+
+&lt;p&gt;Also, the scope and complexity of material necessary to be dangerous as a programmer is massive. It takes a long time and a lot of effort learning seemingly rudimentary concepts just to get to the beginner level. I’d venture to guess this is a common reason people don’t even start.&lt;/p&gt;
+
+&lt;p&gt;Expect to get stuck on things constantly, sometimes for days or weeks at a time, feeling like you’re making no progress (in reality though, you’re learning). The ability to succeed is highly dependent on one’s ability to stay motivated when it gets dark. This is why your reasons for learning to program and whether it naturally energizes you are so important.&lt;/p&gt;
+
+&lt;p&gt;There’s much more to why and how programming is difficult, which you can read about &lt;a href=&quot;https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;…but not as hard as people tend to assume&lt;/p&gt;
+
+&lt;p&gt;Having said all that, putting one foot in front of the other will get you there, and at least through the intermediate level, it’s mostly a matter of dedication and consistency.&lt;/p&gt;
+
+&lt;p&gt;Spending a little bit of time learning to code relatively frequently is much more effective than attempting to learn in big, infrequent chunks, not to mention easier to stay motivated.&lt;/p&gt;
+
+&lt;p&gt;A lot of programming’s difficulty can be overcome by the simple act of chipping away at it, and progress comes quickly.&lt;/p&gt;
+
+&lt;p&gt;It’s all learnable, the available resources are endless, and there are no outside dependencies. You aren’t held back by anything but yourself. It’s just you, your computer, and your desire to learn.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Free resources I used to get going fast&lt;/p&gt;
+
+&lt;p&gt;If you do decide to pick up programming, I recommend the below resources. I’ve explored a lot of content, and these are the best resources I’ve found.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Automatetheboringstuff.com&lt;/p&gt;
+
+&lt;p&gt;I cannot recommend this highly enough for beginners. It is an EXCELLENT starting place for learning Python.&lt;/p&gt;
+
+&lt;p&gt;Just a free online textbook that explains concepts well.&lt;/p&gt;
+
+&lt;p&gt;It’s worth reiterating the point about automating my manual Excel work: &lt;strong&gt;&lt;em&gt;from nothing, I was up and running with value-adding scripts in six weeks using this resource alone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Python is a great starting language because it’s modern, intuitive, and widely used with endless resources and community support. It’s also a very powerful language that can do a whole universe of things beyond automating some of your busy work, including build very scalable web applications.&lt;/p&gt;
+
+&lt;p&gt;However, if you aren’t particularly interested in learning Python but want to learn to build web apps, an equally good place to start is The Odin Project.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;The Odin Project&lt;/p&gt;
+
+&lt;p&gt;If you want to learn web development as a beginner, The Odin Project is the 🐐. Full stop.&lt;/p&gt;
+
+&lt;p&gt;The creators assume you have zero programming knowledge and take you through everything you need to know to build a &lt;a href=&quot;https://www.geeksforgeeks.org/what-is-full-stack-development/&quot; target=&quot;_blank&quot;&gt;full stack&lt;/a&gt; web application from square one.&lt;/p&gt;
+
+&lt;p&gt;Naturally, that means it is an extremely comprehensive resource that requires months of investment to understand and complete (I still have a ways to go).&lt;/p&gt;
+
+&lt;p&gt;Having said that, because the curriculum is project-based, you start seeing results almost immediately. The speed at which I was able to spin up some basic, but decent-looking websites was shocking (here’s a &lt;a href=&quot;https://emikes919-battleship.netlify.app/&quot; target=&quot;_blank&quot;&gt;fun one&lt;/a&gt;). You are constantly building a portfolio of work as you advance which serves as a nice reward and motivation to keep going.&lt;/p&gt;
+
+&lt;p&gt;The material is a well-taught combination of original content, hand-picked outside resources and mini-projects. What I love most is that the creators give you just enough to keep you going while still forcing you to struggle a bit and figure out a lot of stuff on your own (a huge part of programming).&lt;/p&gt;
+
+&lt;p&gt;And yes, it’s free.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;YOUTUBE, YOUTUBE, YOUTUBE&lt;/p&gt;
+
+&lt;p&gt;I don’t think enough people realize what a goldmine of knowledge exists on YouTube.&lt;/p&gt;
+
+&lt;p&gt;If you want to learn it, there’s someone on YouTube waiting to explain it to you like you’re a small child. Over and over again to your little heart’s content.&lt;/p&gt;
+
+&lt;p&gt;This is especially true for programming. YouTube videos have been the sole reason I’ve gotten “unstuck” on many occasions.&lt;/p&gt;
+
+&lt;p&gt;Great channels I’ve used include &lt;a href=&quot;https://www.youtube.com/@funfunfunction&quot; target=&quot;_blank&quot;&gt;Fun Fun Function&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@WesBos&quot; target=&quot;_blank&quot;&gt;Wes Bos&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@DennisIvy&quot; target=&quot;_blank&quot;&gt;Dennis Ivy&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@KevinPowell&quot; target=&quot;_blank&quot;&gt;Kevin Powell&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@SonnySangha&quot; target=&quot;_blank&quot;&gt;Sonny Sangha&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@WebDevSimplified&quot; target=&quot;_blank&quot;&gt;Web Dev Simplified&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@codedamn&quot; target=&quot;_blank&quot;&gt;Codedamn&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/@NetNinja&quot; target=&quot;_blank&quot;&gt;Net Ninja&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Google&lt;/p&gt;
+
+&lt;p&gt;Anyone who picks up coding will come to find that 90% of your time is spent on Google, not in your code editor.&lt;/p&gt;
+
+&lt;p&gt;As a beginner, there is a 100% chance that whatever problem you’re facing has been solved before. Google will take you to the solution.&lt;/p&gt;
+
+&lt;p&gt;That solution usually exists on &lt;a href=&quot;https://stackoverflow.com/&quot; target=&quot;_blank&quot;&gt;stackoverflow.com&lt;/a&gt;, the Mecca of coding discourse, but can also be found on a long list of great programming websites and forums that Google will find for you.&lt;/p&gt;
+
+&lt;p&gt;A lot of becoming good at programming is a function of how good you become at Googling stuff. The specifics of what you search for can result in huge differences in the time spent solving your problem.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;My Fiancée&lt;/p&gt;
+
+&lt;p&gt;Sarah is a self-taught former integrations engineer and now product manager, having cut her teeth on &lt;a href=&quot;https://en.wikipedia.org/wiki/Java_(programming_language)&quot; target=&quot;_blank&quot;&gt;Java&lt;/a&gt;, &lt;a href=&quot;https://nodejs.org/en&quot; target=&quot;_blank&quot;&gt;Node.js&lt;/a&gt;, and Python. She is an absolute machine.&lt;/p&gt;
+
+&lt;p&gt;Having her around to graciously get me “unstuck” countless times has really sped things up. I question the judgement of anyone who wouldn’t hire her.&lt;/p&gt;
+
+&lt;p&gt;Yes, this is a huge leg up on anyone learning to code in a vacuum, but hey, I’ll take it.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;⚠️ Avoid: Codecademy&lt;/p&gt;
+
+&lt;p&gt;Those seriously contemplating the programming journey will have no doubt stumbled upon &lt;a href=&quot;https://www.codecademy.com/&quot; target=&quot;_blank&quot;&gt;Codecademy.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I must recommend against it.&lt;/p&gt;
+
+&lt;p&gt;Set aside that fact that it isn’t free (I have used the paid version), it falls short in one critical area: &lt;strong&gt;Codecademy forces you to write code in their online environment which is not very transferable to the real world.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As frustrating as it can be, the payoff of struggling to figure out some of the day one fundamentals like setting up your programming environment and getting basic stuff to work is huge. I think Codecademy robs students of this opportunity to “figure it out”. You aren’t required to do any of the dirty work of installing various dependency software and navigating the underbelly of your operating system that’s required at every level of programming in the real world.&lt;/p&gt;
+
+&lt;p&gt;I understand why this may be appealing to some people, but I believe it is a sub-optimal way to learn.&lt;/p&gt;
+
+&lt;p&gt;Codecademy does have a time and place, particularly when learning the fundamentals of a new elementary concept, but considering how many better (free) resources are out there, I don’t see a compelling case to use it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you’ve made it this far, you have a pretty deep look into how I think about programming. I hope you found it helpful if you’ve been toying with the idea of starting a new hobby.&lt;/p&gt;
+
+&lt;p&gt;The almost 18 months I’ve spent on this hobby feels like years when I think about the ground I’ve covered and the growing complexity of the problems I’ve found myself solving.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it’s a little scary to re-anchor my perspective back to how much of a beginner I still am and to think about what I’ll have to conquer to get where I want to go.&lt;/p&gt;
+
+&lt;p&gt;A long road ahead, indeed.&lt;/p&gt;
+
+&lt;p&gt;Looking down that road may be intimidating, but that fear seems nonexistent next to how excited I am to walk down it.&lt;/p&gt;
+
+&lt;p&gt;And that, dear reader, is a good sign if I’ve ever seen one.&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">01001010100101111000 (I have no idea what that means)</summary></entry><entry><title type="html">2022 year in review</title><link href="http://localhost:4000/2023/01/26/2022-year-in-review.html" rel="alternate" type="text/html" title="2022 year in review" /><published>2023-01-26T00:00:00+08:00</published><updated>2023-01-26T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/26/2022-year-in-review</id><content type="html" xml:base="http://localhost:4000/2023/01/26/2022-year-in-review.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#what-happened-in-2022&quot;&gt;What happened in 2022&lt;/a&gt;&lt;/li&gt;
@@ -9,7 +375,7 @@
   &lt;li&gt;&lt;a href=&quot;#a-cool-thing-i-discovered-in-2022&quot;&gt;A cool thing I discovered&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;what-happened-in-2022&quot;&gt;What happened in 2022?&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;What happened in 2022?&lt;/p&gt;
 
 &lt;p&gt;An interesting year to say the least. On the surface, it looked like an amazing year, but under the hood, it was a rollercoaster of highs and lows.&lt;/p&gt;
 
@@ -42,7 +408,7 @@
 
 &lt;p&gt;I selected a few pieces of my review to expand upon for this post. Let’s dive in!&lt;/p&gt;
 
-&lt;h2 id=&quot;2022-goal-review&quot;&gt;2022 Goal Review&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;2022 Goal Review&lt;/p&gt;
 
 &lt;p&gt;In 2022, I set and tracked annual goals for the first time. I limited big goals to one or two, and added on a few easier ones. Despite not hitting all of them, they kept me very focused during my day-to-day, making me question whether what I was doing was necessary to help me achieve these goals.&lt;/p&gt;
 
@@ -56,7 +422,7 @@
 
 &lt;p&gt;❌ &lt;strong&gt;Launch a revenue-generating startup.&lt;/strong&gt; I’m coming to find that things take MUCH longer than expected.&lt;/p&gt;
 
-&lt;h2 id=&quot;things-i-already-knew-but-learned-through-experience-in-2022&quot;&gt;Things I already knew, but “learned” through experience in 2022&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;Things I already knew, but “learned” through experience in 2022&lt;/p&gt;
 
 &lt;p&gt;When you experience something for the first time, even if you already knew it existed, it can give you a newfound appreciation or understanding of it. Reflecting on my year through this lens was a fun exercise, so I plan to do it annually going forward. Here are my big ones from 2022:&lt;/p&gt;
 
@@ -136,7 +502,7 @@
 
 &lt;p&gt;I knew it was hard, but experiencing it gave me new respect for those warriors.&lt;/p&gt;
 
-&lt;h2 id=&quot;best-books-i-read-in-2022&quot;&gt;Best books I read in 2022&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;Best books I read in 2022&lt;/p&gt;
 
 &lt;p&gt;Not part of my annual review, but I felt compelled to share these bangers.&lt;/p&gt;
 
@@ -158,7 +524,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;2023-goal-setting&quot;&gt;2023 Goal Setting&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;2023 Goal Setting&lt;/p&gt;
 
 &lt;p&gt;Working through my 2022 annual review inspired me to be even more deliberate about setting goals for 2023. Publishing them online seemed like a good way to hold myself accountable 💪.&lt;/p&gt;
 
@@ -223,12 +589,20 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
       &lt;td&gt;5 min cycle w/watt output at 1.5x body weight&lt;/td&gt;
       &lt;td&gt;Cardiovascular fitness&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Broad jump my height laying down&lt;/td&gt;
+      &lt;td&gt;Lower body strength&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Farmer’s carry body weight - 1 min&lt;/td&gt;
+      &lt;td&gt;Total body strength&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;I anticipate these taking several years to achieve at a pace that will avoid injury. Off we go.&lt;/p&gt;
 
-&lt;h2 id=&quot;a-cool-thing-i-discovered-in-2022&quot;&gt;A cool thing I discovered in 2022&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;A cool thing I discovered in 2022&lt;/p&gt;
 
 &lt;p&gt;I thought I’d leave you with this: &lt;a href=&quot;https://www.futureme.org/letters/new&quot; target=&quot;_blank&quot;&gt;Futureme&lt;/a&gt;. This website lets you send a letter to your future self (they email you the letter at a specified time in the future).&lt;/p&gt;
 
@@ -239,7 +613,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 &lt;p&gt;And there it is. A little late getting this one out, but we did it. I hope you found something useful or inspiring in this post. Onward to discovering more cool things in 2023!&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">You must be at least [this] tall to ride this rollercoaster</summary></entry><entry><title type="html">A lunatic’s guide to productivity</title><link href="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html" rel="alternate" type="text/html" title="A lunatic’s guide to productivity" /><published>2022-11-28T00:00:00+08:00</published><updated>2022-11-28T00:00:00+08:00</updated><id>http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity</id><content type="html" xml:base="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html">&lt;h3 id=&quot;in-this-article&quot;&gt;In this article:&lt;/h3&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">You must be at least [this] tall to ride this rollercoaster</summary></entry><entry><title type="html">A lunatic’s guide to productivity</title><link href="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html" rel="alternate" type="text/html" title="A lunatic’s guide to productivity" /><published>2022-11-28T00:00:00+08:00</published><updated>2022-11-28T00:00:00+08:00</updated><id>http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity</id><content type="html" xml:base="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html">&lt;h2 id=&quot;in-this-article&quot;&gt;In this article:&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Productivity and what to work on&lt;/li&gt;
@@ -253,13 +627,13 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;Before getting into the obligatory “hacks” list, it’s important to mention that all the productivity tips and tricks don’t really matter if you’re working on the wrong thing or are not genuinely interested in what you’re doing. Unless you’re superhuman, it’s nearly impossible to give it everything you’ve got when you’re working on something you don’t care about. Motivation is extremely sensitive to interest in both directions. Sam Altman expands on this &lt;a href=&quot;https://blog.samaltman.com/productivity&quot; target=&quot;_blank&quot;&gt;well&lt;/a&gt;, so I won’t reinvent the wheel here.&lt;/p&gt;
 
-&lt;p&gt;Let’s start with two of my big &lt;strong&gt;&lt;em&gt;productivity no-nos&lt;/em&gt;&lt;/strong&gt; up front.&lt;/p&gt;
+&lt;p&gt;Let’s start with two of my big &lt;strong&gt;&lt;em&gt;productivity no-nos&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;productivity-no-no-1-the-optimization-trap&quot;&gt;Productivity no-no #1: The Optimization Trap&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;Productivity no-no #1: The Optimization Trap&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Focusing so much on how to be more productive that it becomes counterproductive.&lt;/strong&gt; Essentially just over-optimizing. Productivity hacks are seductive, so this is a slippery slope. Admittedly, I’ve found myself here before, but I try to be self-aware about whether I’m falling into the trap in real time. The majority of productivity hacks offer only marginal benefits, and sometimes you just need to get going on whatever it is you’re working on.&lt;/p&gt;
 
-&lt;h2 id=&quot;productivity-no-no-2-the-grind-trap&quot;&gt;Productivity no-no #2: The Grind Trap&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;Productivity no-no #2: The Grind Trap&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Blindly focusing on “efficiency” and number of tasks completed.&lt;/strong&gt; I call it the “&lt;strong&gt;&lt;em&gt;grind trap&lt;/em&gt;&lt;/strong&gt;”. Productivity is not just about efficiency, it’s about impact. You can use energy efficiently to run on a treadmill, it doesn’t mean you’re going anywhere. It sounds obvious, but it’s an easy trap to fall into mainly because grinding out tasks tends to be less cognitively demanding.&lt;/p&gt;
 
@@ -271,7 +645,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;It’s hard to do, but just remember, we humans are momentum fiends: force yourself to take that difficult first step, and every one after that becomes significantly easier. This blog post is a great example. I’ve been putting it off for days because it was easier to jam through other less demanding tasks on my list!&lt;/p&gt;
 
-&lt;h2 id=&quot;day-compounding-and-sustainable-productivity&quot;&gt;Day compounding and sustainable productivity&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;Day compounding and sustainable productivity&lt;/p&gt;
 
 &lt;p&gt;It has never been more in-vogue to talk about compounding. I hate to follow the crowd here, but it’s true. Not just financial compounding, but the compounding effects of how you spend your time. This works to your advantage in almost every area of life, from fitness and relationships to learning and productivity. If you can gain one more productive hour per workday, in a year, that’s 260 hours. In five, that’s 1,300 hours. The long term impact of small but consistent productivity gains is massive.&lt;/p&gt;
 
@@ -279,7 +653,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;I’ve tried a lot of methods over the years and have come up with a pretty reliable list that works for me. As promised, this wouldn’t be an article on productivity without a “hacks” list, so without further ado…&lt;/p&gt;
 
-&lt;h2 id=&quot;things-that-had-a-significant-impact-on-my-productivity&quot;&gt;Things that had a significant impact on my productivity&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;Things that had a significant impact on my productivity&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Quick disclaimer: It’s important to maintain some degree of flexibility in your workflow. I try to do a lot of these things as regularly as possible, but life comes at ya. Being arbitrarily rigid is counterproductive.&lt;/em&gt;&lt;/p&gt;
 
@@ -328,7 +702,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p&gt;I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 and 5:20 (though sometimes much longer). I tried pulling a &lt;a href=&quot;https://en.wikipedia.org/wiki/Bob_Iger&quot; target=&quot;_blank&quot;&gt;Bob Iger&lt;/a&gt; and waking up at 4:45am, but I couldn’t swing it. He’s a machine!&lt;/p&gt;
 
-&lt;p&gt;One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it’s associated with being productive.&lt;/p&gt;
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it&apos;s associated with being productive.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p class=&quot;sub-section&quot;&gt;⚡ Adopting &lt;a href=&quot;https://www.notion.so/&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt; to organize my life&lt;/p&gt;
 
@@ -387,7 +761,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 
 &lt;p&gt;Some days tend to be more email-heavy, and it’s hard to avoid, but I try to systematically skim and ignore email as often as I can.&lt;/p&gt;
 
-&lt;h2 id=&quot;other-little-productivity-hacks&quot;&gt;Other little productivity hacks&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;Other little productivity hacks&lt;/p&gt;
 
 &lt;p class=&quot;sub-section&quot;&gt;⚡ Drinking less&lt;/p&gt;
 
@@ -435,7 +809,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 
 &lt;p&gt;Don’t be afraid to relax. Working hard is important, but slipping into “hustle culture” is counterproductive in the long run. Build in time to hang with friends, spend time outside, or sit around and watch TV to let your brain reset, like taking a rest day after a workout.&lt;/p&gt;
 
-&lt;h2 id=&quot;my-productivity-vices&quot;&gt;My productivity vices&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;My productivity vices&lt;/p&gt;
 
 &lt;p&gt;For some people it’s procrastination, for others it’s chocolate. For me, it’s YouTube, Twitter, and the snooze button.&lt;/p&gt;
 
@@ -535,7 +909,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 
 &lt;p&gt;I started this blog for three reasons: &lt;strong&gt;1) clear writing = clear thinking, 2) exploring unknown unknowns, and 3) accountability.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;clear-writing--clear-thinking&quot;&gt;&lt;strong&gt;Clear writing = clear thinking&lt;/strong&gt;&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;strong&gt;Clear writing = clear thinking&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I spend the vast majority of my intellectually demanding time consuming information and content, rather than producing/creating it. Books, podcasts, blogs, articles, my Twitter feed, YouTube videos… it’s pretty much a one way street of information input. That information represents the building blocks of my ideas.&lt;/p&gt;
 
@@ -545,11 +919,11 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 
 &lt;p&gt;I have a rough idea of what I plan to write about (entrepreneurship/business, health &amp;amp; fitness, learning, productivity, travel/living abroad, anything else I come to be interested in), but I’m excited to see where this goes. Which brings me to my next reason…&lt;/p&gt;
 
-&lt;h2 id=&quot;exploring-unknown-unknowns&quot;&gt;&lt;strong&gt;Exploring unknown unknowns&lt;/strong&gt;&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;strong&gt;Exploring unknown unknowns&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Ideas beget ideas. I don’t understand the brain chemistry behind this, they just do. I don’t know what I’ll uncover or what ideas will occur to me by challenging myself to write more, but I know I’ll uncover something. It would be cool to see what that’s all about.&lt;/p&gt;
 
-&lt;h2 id=&quot;accountability&quot;&gt;&lt;strong&gt;Accountability&lt;/strong&gt;&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;strong&gt;Accountability&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I could just write in a journal, but there’s something about the act of posting online for the world to see. We’re not talking about high stakes here, but it does hold me to a higher standard. The internet is &lt;a href=&quot;https://web.archive.org/&quot; target=&quot;_blank&quot;&gt;forever&lt;/a&gt;, so there’s an incentive to really think through what I’m writing about… clear writing = clear thinking.&lt;/p&gt;
 
@@ -557,7 +931,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 
 &lt;p&gt;As an aside, despite having read it for some time, I only just noticed that a high school friend of mine has been running his &lt;a href=&quot;https://blas.com/essays/&quot; target=&quot;_blank&quot;&gt;awesome blog&lt;/a&gt; for what appears to be the exact same reasons! One inspiration point to you, my friend.&lt;/p&gt;
 
-&lt;h2 id=&quot;whats-in-a-name&quot;&gt;&lt;strong&gt;What’s in a name?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p class=&quot;main-section&quot;&gt;&lt;strong&gt;What’s in a name?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;“E Mikes”, “Eddy Mikes” or many variations thereof was given to me as a nickname in high school, and it’s stuck ever since. Keepin’ it rolling!&lt;/p&gt;
 

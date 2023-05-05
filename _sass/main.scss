@@ -167,8 +167,11 @@ nav {
     // border: 2px solid green;
 }
 
-.post-content h2 {
+.post-content .main-section {
+    font-weight: bold;
+    font-size: 2rem;
     margin-top: 60px;
+
 }
 
 .post-content .sub-section {
@@ -195,11 +198,17 @@ nav {
     list-style-type: none;
 }
 
-.post-content .quote-block {
+.post-content .quote-block,
+.post-content .blue-box {
     border-radius: 8px;
     background-color: var(--table-background);
     padding: 30px;
     font-style: italic;
+}
+
+.post-content .blue-box {
+    font-size: .9rem;
+    padding: 25px;
 }
 
 table {
@@ -233,6 +242,15 @@ th, td {
 .disclaimer {
     font-size: .9rem;
 }
+
+/*** IMAGES ***/
+
+img[alt=groupme-presentation-slide] {
+    width: 100%;
+}
+
+
+/*** MOBILE ***/
 
 @media (max-width: 600px) {
     .main-title {
