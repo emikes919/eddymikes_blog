@@ -36,7 +36,7 @@ About three seconds later, <em>"done"</em> printed to the screen.
 
 Stillness.
 
-The moment of truth was upon me. Did two hours of my life just morph into three seconds?
+The moment of truth was upon me. Did two hours of my life just collapse into three seconds?
 
 All I had to do was open one Excel file to find out...
 
@@ -76,9 +76,9 @@ Programming skills at the prototyping level will put the raw power of creation m
 
 Programming is very intellectually demanding and, at its core, is about problem solving. 
 
-Programming is a way to push myself intellectually and become a better problem solver.
+It's a way to push myself intellectually and become a better problem solver.
 
-It's especially appealing because progress is not dependent on anyone or anything. I don’t need a teacher to schedule time with, waves to surf, or a team to play against. All the resources to learn are freely available, and I don’t need anyone’s permission to start writing code.
+Programming is especially appealing because progress is not dependent on anyone or anything. I don’t need a teacher to schedule time with, waves to surf, or a team to play against. All the resources to learn are freely available, and I don’t need anyone’s permission to start writing code.
 
 All I need is a computer and an internet connection.
 
@@ -86,7 +86,7 @@ All I need is a computer and an internet connection.
 
 Having started my career in investment banking, I became quite the little Excel monkey.
 
-A side effect of my unnecessary level of Excel mastery was massive impatience for manual work and things taking longer than they should.
+An unintended side effect of my unnecessary level of Excel mastery was massive impatience for manual work and things taking longer than they should.
 
 Like absurd impatience. Like <em>"relax bro, you're weirdly too impatient about this"</em> impatience.
 
@@ -94,7 +94,7 @@ Not really an issue when the entire job consisted of pumping out simple dynamic 
 
 But years later, when I found myself at a job that required much more manual data crunching than I was accustomed to, that impatience began to rear its ugly head.
 
-To pile it on, my company had a large technology department, so I was constantly forced to watch in a potent cocktail of awe and agony as my developer colleagues automated away their manual work. All while I trudged bitterly through mine.
+To pile it on, my company had a large technology department, so I was constantly forced to watch in a potent cocktail of awe and agony as my developer colleagues automated away their manual work. All while I bitterly trudged through mine.
 
 Spend enough time watching other people do something in a fraction of the time it takes you, and well… 
 
@@ -120,11 +120,11 @@ I used [automatetheboringstuff.com](http://automatetheboringstuff.com){:target="
 
 …to my computer.
 
-I know, I know. The suspense has been killing you.
+I know, I know. The suspense has been killing you. How did that game of chicken with my enter key play out?
 
-I did indeed check that file from the game of chicken with my enter key, and my enter key lost!
+I did indeed check that Excel file, and by what feels like some miracle, my enter key lost!
 
-Two hours of my life did, in fact, morph into ***three seconds***.
+Two hours of my life did, in fact, collapse into ***three seconds***.
 
 I cannot understate how good this feels.
 
@@ -174,7 +174,7 @@ Funny, it was. Pleased, he was not.
 
 <p class="blue-box">These projects have two important traits that are worth harping upon for a moment. They <strong>1) brought me joy once completed and 2) brought me absolutely nothing until they were completed</strong>. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.</p>
 
-Good progress so far, but at this point, I’m barely a respectable [script kiddie](https://en.wikipedia.org/wiki/Script_kiddie){:target="_blank"} (not in the malicious sense, more in the noob sense). These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.
+Good progress so far, but at this point, I’m but a humble noob. These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.
 
 <p id="thanks-text"><em>*Note: Flask is a web framework for Python. Similar to a library, a framework is bunch of pre-written code that helps you build web-based apps quickly, from as simple as a Groupme bot to the much more complex.</em></p>
 
@@ -220,9 +220,7 @@ The whole exercise took about six weeks. Not bad.
 
 <p class="sub-section">What’s next?</p>
 
-With a solid understanding of the fundamentals in place, I felt comfortable advancing to the next level of difficulty. To do anything remotely advanced on a website, another programming language is required: [JavaScript](https://en.wikipedia.org/wiki/JavaScript){:target="_blank"}.
-
-JavaScript is the third core technology of the internet, alongside HTML and CSS. It makes things come alive on a webpage and is a critical component of all web applications.
+With a solid understanding of the fundamentals in place, I felt comfortable advancing to the next level of difficulty. To do anything remotely advanced on a website, another programming language is required: [JavaScript](https://en.wikipedia.org/wiki/JavaScript){:target="_blank"}, the third core technology of the internet. It makes things come alive on a webpage and is a critical component of all web applications.
 
 So, my programming journey thus far can be summarized as follows:
 
@@ -276,7 +274,7 @@ I cannot recommend this highly enough for beginners. It is an EXCELLENT starting
 
 Nothing but a free online textbook that explains concepts well.
 
-It’s worth reiterating the point about automating my manual Excel work: <strong>*from nothing, I was up and running with value-adding scripts in six weeks using this resource alone.*</strong>
+It’s worth reiterating the point about my game of chicken: <strong>*from nothing, I was up and running with value-adding scripts in six weeks using this resource alone.*</strong>
 
 Python is a great starting language because it’s modern, intuitive, and widely used with endless resources and community support. It’s also a very powerful language that can do a whole universe of things beyond automating some of your busy work, including build very scalable web applications.
 
