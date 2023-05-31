@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Man learns to code at tender age of 31 (or how I turned two hours into three seconds)
-excerpt: beep. boop.
+title: Man learns to code at tender age of 31
+excerpt: (or how I turned two hours into three seconds)
 ---
 <p class="sub-section">In this article:</p>
 
@@ -66,7 +66,7 @@ As a recently [self-proclaimed wantrepreneur](https://eddymikes.me/2022/08/07/qu
 
 The ability to keep stepping up to the plate is critical to success. 
 
-There is no shortage of ideas that do not require software, but if I am able to take on problems that can be solved with even the simplest technology-based* products, the universe of ideas explodes.
+There is no shortage of ideas that do not require software, but if I'm able to take on problems that can be solved with even the simplest technology-based* products, the universe of ideas explodes.
 
 Programming skills at the prototyping level will put the raw power of creation my hands.
 
@@ -90,7 +90,7 @@ An unintended side effect of my unnecessary level of Excel mastery was massive i
 
 Like absurd impatience. Like <em>"relax bro, you're weirdly too impatient about this"</em> impatience.
 
-Not really an issue when the entire job consisted of pumping out simple dynamic spreadsheets and charts for PowerPoint presentations.
+Not really an issue when the entire job consisted of pumping out simple spreadsheets and charts for PowerPoint presentations.
 
 But years later, when I found myself at a job that required much more manual data crunching than I was accustomed to, that impatience began to rear its ugly head.
 
@@ -158,7 +158,7 @@ This project only required a minor extension of my Python knowledge into a few [
 
 Success working with Groupme’s simple API inspired me to see what other laughs I could generate at my friends’ expense… 
 
-<p id="thanks-text"><em>*Note: A library is just a set of pre-written code that you can leverage to get common stuff done instead of reinventing the wheel, so to speak.</em></p>
+<p id="thanks-text"><em>*Note: A library is just a set of pre-written code that you can leverage to get common stuff done instead of reinventing the wheel.</em></p>
 
 <p class="sub-section">Project 3: Roast one particular fella</p>
 
@@ -168,7 +168,9 @@ What if I created a bot in our chat group that singled out one friend of the cha
 
 <div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/26BRBKqUiq586bRVm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/americasgottalent-agt-americas-got-talent-26BRBKqUiq586bRVm"></a></p>
 
-And off I went. I used Python and learned just enough [Flask](https://flask.palletsprojects.com/en/2.2.x/){:target="_blank"}* to build and host a simple Groupme chatbot app that publicly roasted my friend with one of several snappy comebacks every time he sent a message over a certain length. 
+And off I went.
+
+I used Python and learned just enough [Flask](https://flask.palletsprojects.com/en/2.2.x/){:target="_blank"}* to build and host a simple Groupme chatbot app that publicly roasted my friend with one of several snappy comebacks every time he sent a message over a certain length. 
 
 Funny, it was. Pleased, he was not.
 
@@ -240,7 +242,7 @@ So that’s where I’ve been, how I got there, and where I’m going. Here are 
 
 Code gives you the power to sit in front of your computer and create something useful in the real world, no welding skills required. If you can dream it up, you can probably build it.
 
-That power of creation in your fingertips is intoxicating, and it gives programming a motivation engine. The more you learn, the more enjoyable the process of learning becomes, and the faster the idea flywheel spins.
+That power of creation in your fingertips is intoxicating. The more you learn, the more enjoyable the process of learning becomes, and the faster the idea flywheel spins.
 
 <p class="sub-section">Programming is difficult, frustrating, and time consuming…</p>
 
@@ -260,9 +262,7 @@ Having said all that, putting one foot in front of the other will get you there,
 
 A lot of programming’s difficulty can be overcome by the simple act of chipping away at it.
 
-It’s all learnable, the available resources are endless, and you aren’t held back by anything but yourself.
-
-It’s just you, your computer, and your desire to learn.
+There's nothing holding you back. It’s just you, your computer, and your desire to learn.
 
 <p class="main-section"><a name="resources">Free resources I used to get going fast</a></p>
 
@@ -290,7 +290,7 @@ That means it is an extremely comprehensive resource that requires months of inv
 
 Having said that, you start seeing results almost immediately. The speed at which I was able to spin up some basic, but decent-looking websites was shocking (here’s a [fun one](https://emikes919-battleship.netlify.app/){:target="_blank"}). You are constantly building a portfolio of work as you advance which serves as a nice reward and motivation to keep going.
 
-What I love most is that the creators give you just enough to keep you going while still forcing you to struggle a bit and figure out a lot on your own (a huge part of programming).
+They give you just enough to keep you going while still forcing you to struggle a bit and figure out a lot on your own (a huge part of programming).
 
 And yes, it’s free.
 
