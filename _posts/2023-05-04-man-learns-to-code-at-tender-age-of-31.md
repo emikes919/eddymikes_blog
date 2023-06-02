@@ -134,8 +134,6 @@ Think about that.
 
 Approximately ninety hours of upfront investment (three hours of coding/day, five days/week, for about six weeks) to save eight hours of work per month. Payback in one year, and I’ve picked up a new skill that I can use forever. Seems like a good trade to me.
 
-The feeling was pretty intoxicating.
-
 <p class="sub-section">Project 2: Roast the fellas</p>
 
 My friends and I use [Groupme](https://groupme.com/en-US/){:target="_blank"} as our chat group. Luck would have it that Groupme has an open [API](https://dev.groupme.com/){:target="_blank"}, giving the programmatically inclined access to all of their own personal messaging data. 
