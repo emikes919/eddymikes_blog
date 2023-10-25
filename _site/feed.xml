@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-30T17:34:31-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Man learns to code at tender age of 31 (or how I turned two hours into three seconds)</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31 (or how I turned two hours into three seconds)" /><published>2023-05-04T00:00:00-04:00</published><updated>2023-05-04T00:00:00-04:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-25T10:43:02+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#the-why&quot;&gt;The Why&lt;/a&gt;&lt;/li&gt;
@@ -29,11 +29,11 @@
 
 &lt;p&gt;Progress statements ran down the screen like rapid fire, making me feel like a bona fide NSA hacker. Pretty baller.&lt;/p&gt;
 
-&lt;p&gt;About three seconds later, &lt;em&gt;“done”&lt;/em&gt; printed to the screen.&lt;/p&gt;
+&lt;p&gt;About three seconds later, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;done&lt;/code&gt; printed to the screen.&lt;/p&gt;
 
 &lt;p&gt;Stillness.&lt;/p&gt;
 
-&lt;p&gt;The moment of truth was upon me. Did two hours of my life just morph into three seconds?&lt;/p&gt;
+&lt;p&gt;The moment of truth was upon me. Did two hours of my life just collapse into three seconds?&lt;/p&gt;
 
 &lt;p&gt;All I had to do was open one Excel file to find out…&lt;/p&gt;
 
@@ -65,7 +65,7 @@
 
 &lt;p&gt;The ability to keep stepping up to the plate is critical to success.&lt;/p&gt;
 
-&lt;p&gt;There is no shortage of ideas that do not require software, but if I am able to take on problems that can be solved with even the simplest technology-based* products, the universe of ideas explodes.&lt;/p&gt;
+&lt;p&gt;There is no shortage of ideas that do not require software, but if I’m able to take on problems that can be solved with even the simplest technology-based* products, the universe of ideas explodes.&lt;/p&gt;
 
 &lt;p&gt;Programming skills at the prototyping level will put the raw power of creation my hands.&lt;/p&gt;
 
@@ -75,9 +75,9 @@
 
 &lt;p&gt;Programming is very intellectually demanding and, at its core, is about problem solving.&lt;/p&gt;
 
-&lt;p&gt;Programming is a way to push myself intellectually and become a better problem solver.&lt;/p&gt;
+&lt;p&gt;It’s a way to push myself intellectually and become a better problem solver.&lt;/p&gt;
 
-&lt;p&gt;It’s especially appealing because progress is not dependent on anyone or anything. I don’t need a teacher to schedule time with, waves to surf, or a team to play against. All the resources to learn are freely available, and I don’t need anyone’s permission to start writing code.&lt;/p&gt;
+&lt;p&gt;Programming is especially appealing because progress is not dependent on anyone or anything. I don’t need a teacher to schedule time with, waves to surf, or a team to play against. All the resources to learn are freely available, and I don’t need anyone’s permission to start writing code.&lt;/p&gt;
 
 &lt;p&gt;All I need is a computer and an internet connection.&lt;/p&gt;
 
@@ -85,15 +85,15 @@
 
 &lt;p&gt;Having started my career in investment banking, I became quite the little Excel monkey.&lt;/p&gt;
 
-&lt;p&gt;A side effect of my unnecessary level of Excel mastery was massive impatience for manual work and things taking longer than they should.&lt;/p&gt;
+&lt;p&gt;An unintended side effect of my unnecessary level of Excel mastery was massive impatience for manual work and things taking longer than they should.&lt;/p&gt;
 
 &lt;p&gt;Like absurd impatience. Like &lt;em&gt;“relax bro, you’re weirdly too impatient about this”&lt;/em&gt; impatience.&lt;/p&gt;
 
-&lt;p&gt;Not really an issue when the entire job consisted of pumping out simple dynamic spreadsheets and charts for PowerPoint presentations.&lt;/p&gt;
+&lt;p&gt;Not really an issue when the entire job consisted of pumping out simple spreadsheets and charts for PowerPoint presentations.&lt;/p&gt;
 
 &lt;p&gt;But years later, when I found myself at a job that required much more manual data crunching than I was accustomed to, that impatience began to rear its ugly head.&lt;/p&gt;
 
-&lt;p&gt;To pile it on, my company had a large technology department, so I was constantly forced to watch in a potent cocktail of awe and agony as my developer colleagues automated away their manual work. All while I trudged bitterly through mine.&lt;/p&gt;
+&lt;p&gt;To pile it on, my company had a large technology department, so I was constantly forced to watch in a potent cocktail of awe and agony as my developer colleagues automated away their manual work. All while I bitterly trudged through mine.&lt;/p&gt;
 
 &lt;p&gt;Spend enough time watching other people do something in a fraction of the time it takes you, and well…&lt;/p&gt;
 
@@ -119,11 +119,11 @@
 
 &lt;p&gt;…to my computer.&lt;/p&gt;
 
-&lt;p&gt;I know, I know. The suspense has been killing you.&lt;/p&gt;
+&lt;p&gt;I know, I know. The suspense has been killing you. How did that game of chicken with my enter key play out?&lt;/p&gt;
 
-&lt;p&gt;I did indeed check that file from the game of chicken with my enter key, and my enter key lost!&lt;/p&gt;
+&lt;p&gt;I did indeed check that Excel file, and by what feels like some miracle, my enter key lost!&lt;/p&gt;
 
-&lt;p&gt;Two hours of my life did, in fact, morph into &lt;strong&gt;&lt;em&gt;three seconds&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Two hours of my life did, in fact, collapse into &lt;strong&gt;&lt;em&gt;three seconds&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;I cannot understate how good this feels.&lt;/p&gt;
 
@@ -132,8 +132,6 @@
 &lt;p&gt;Think about that.&lt;/p&gt;
 
 &lt;p&gt;Approximately ninety hours of upfront investment (three hours of coding/day, five days/week, for about six weeks) to save eight hours of work per month. Payback in one year, and I’ve picked up a new skill that I can use forever. Seems like a good trade to me.&lt;/p&gt;
-
-&lt;p&gt;The feeling was pretty intoxicating.&lt;/p&gt;
 
 &lt;p class=&quot;sub-section&quot;&gt;Project 2: Roast the fellas&lt;/p&gt;
 
@@ -157,7 +155,7 @@
 
 &lt;p&gt;Success working with Groupme’s simple API inspired me to see what other laughs I could generate at my friends’ expense…&lt;/p&gt;
 
-&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;*Note: A library is just a set of pre-written code that you can leverage to get common stuff done instead of reinventing the wheel, so to speak.&lt;/em&gt;&lt;/p&gt;
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;*Note: A library is just a set of pre-written code that you can leverage to get common stuff done instead of reinventing the wheel.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p class=&quot;sub-section&quot;&gt;Project 3: Roast one particular fella&lt;/p&gt;
 
@@ -168,13 +166,15 @@
 &lt;div style=&quot;width:100%;height:0;padding-bottom:55%;position:relative;&quot;&gt;&lt;iframe src=&quot;https://giphy.com/embed/26BRBKqUiq586bRVm&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;position:absolute&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/americasgottalent-agt-americas-got-talent-26BRBKqUiq586bRVm&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;And off I went. I used Python and learned just enough &lt;a href=&quot;https://flask.palletsprojects.com/en/2.2.x/&quot; target=&quot;_blank&quot;&gt;Flask&lt;/a&gt;* to build and host a simple Groupme chatbot app that publicly roasted my friend with one of several snappy comebacks every time he sent a message over a certain length.&lt;/p&gt;
+&lt;p&gt;And off I went.&lt;/p&gt;
+
+&lt;p&gt;I used Python and learned just enough &lt;a href=&quot;https://flask.palletsprojects.com/en/2.2.x/&quot; target=&quot;_blank&quot;&gt;Flask&lt;/a&gt;* to build and host a simple Groupme chatbot app that publicly roasted my friend with one of several snappy comebacks every time he sent a message over a certain length.&lt;/p&gt;
 
 &lt;p&gt;Funny, it was. Pleased, he was not.&lt;/p&gt;
 
 &lt;p class=&quot;blue-box&quot;&gt;These projects have two important traits that are worth harping upon for a moment. They &lt;strong&gt;1) brought me joy once completed and 2) brought me absolutely nothing until they were completed&lt;/strong&gt;. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.&lt;/p&gt;
 
-&lt;p&gt;Good progress so far, but at this point, I’m barely a respectable &lt;a href=&quot;https://en.wikipedia.org/wiki/Script_kiddie&quot; target=&quot;_blank&quot;&gt;script kiddie&lt;/a&gt; (not in the malicious sense, more in the noob sense). These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.&lt;/p&gt;
+&lt;p&gt;Good progress so far, but at this point, I’m but a humble noob. These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;*Note: Flask is a web framework for Python. Similar to a library, a framework is bunch of pre-written code that helps you build web-based apps quickly, from as simple as a Groupme bot to the much more complex.&lt;/em&gt;&lt;/p&gt;
 
@@ -222,9 +222,7 @@
 
 &lt;p class=&quot;sub-section&quot;&gt;What’s next?&lt;/p&gt;
 
-&lt;p&gt;With a solid understanding of the fundamentals in place, I felt comfortable advancing to the next level of difficulty. To do anything remotely advanced on a website, another programming language is required: &lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript&quot; target=&quot;_blank&quot;&gt;JavaScript&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;JavaScript is the third core technology of the internet, alongside HTML and CSS. It makes things come alive on a webpage and is a critical component of all web applications.&lt;/p&gt;
+&lt;p&gt;With a solid understanding of the fundamentals in place, I felt comfortable advancing to the next level of difficulty. To do anything remotely advanced on a website, another programming language is required: &lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript&quot; target=&quot;_blank&quot;&gt;JavaScript&lt;/a&gt;, the third core technology of the internet. It makes things come alive on a webpage and is a critical component of all web applications.&lt;/p&gt;
 
 &lt;p&gt;So, my programming journey thus far can be summarized as follows:&lt;/p&gt;
 
@@ -244,7 +242,7 @@
 
 &lt;p&gt;Code gives you the power to sit in front of your computer and create something useful in the real world, no welding skills required. If you can dream it up, you can probably build it.&lt;/p&gt;
 
-&lt;p&gt;That power of creation in your fingertips is intoxicating, and it gives programming a motivation engine. The more you learn, the more enjoyable the process of learning becomes, and the faster the idea flywheel spins.&lt;/p&gt;
+&lt;p&gt;That power of creation in your fingertips is intoxicating. The more you learn, the more enjoyable the process of learning becomes, and the faster the idea flywheel spins.&lt;/p&gt;
 
 &lt;p class=&quot;sub-section&quot;&gt;Programming is difficult, frustrating, and time consuming…&lt;/p&gt;
 
@@ -264,9 +262,7 @@
 
 &lt;p&gt;A lot of programming’s difficulty can be overcome by the simple act of chipping away at it.&lt;/p&gt;
 
-&lt;p&gt;It’s all learnable, the available resources are endless, and you aren’t held back by anything but yourself.&lt;/p&gt;
-
-&lt;p&gt;It’s just you, your computer, and your desire to learn.&lt;/p&gt;
+&lt;p&gt;There’s nothing holding you back. It’s just you, your computer, and your desire to learn.&lt;/p&gt;
 
 &lt;p class=&quot;main-section&quot;&gt;&lt;a name=&quot;resources&quot;&gt;Free resources I used to get going fast&lt;/a&gt;&lt;/p&gt;
 
@@ -278,7 +274,7 @@
 
 &lt;p&gt;Nothing but a free online textbook that explains concepts well.&lt;/p&gt;
 
-&lt;p&gt;It’s worth reiterating the point about automating my manual Excel work: &lt;strong&gt;&lt;em&gt;from nothing, I was up and running with value-adding scripts in six weeks using this resource alone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It’s worth reiterating the point about my game of chicken: &lt;strong&gt;&lt;em&gt;from nothing, I was up and running with value-adding scripts in six weeks using this resource alone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Python is a great starting language because it’s modern, intuitive, and widely used with endless resources and community support. It’s also a very powerful language that can do a whole universe of things beyond automating some of your busy work, including build very scalable web applications.&lt;/p&gt;
 
@@ -294,7 +290,7 @@
 
 &lt;p&gt;Having said that, you start seeing results almost immediately. The speed at which I was able to spin up some basic, but decent-looking websites was shocking (here’s a &lt;a href=&quot;https://emikes919-battleship.netlify.app/&quot; target=&quot;_blank&quot;&gt;fun one&lt;/a&gt;). You are constantly building a portfolio of work as you advance which serves as a nice reward and motivation to keep going.&lt;/p&gt;
 
-&lt;p&gt;What I love most is that the creators give you just enough to keep you going while still forcing you to struggle a bit and figure out a lot on your own (a huge part of programming).&lt;/p&gt;
+&lt;p&gt;They give you just enough to keep you going while still forcing you to struggle a bit and figure out a lot on your own (a huge part of programming).&lt;/p&gt;
 
 &lt;p&gt;And yes, it’s free.&lt;/p&gt;
 
@@ -353,7 +349,7 @@
 &lt;p&gt;And that, dear reader, is a good sign if I’ve ever seen one.&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah and Julian for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">beep. boop.</summary></entry><entry><title type="html">2022 year in review</title><link href="http://localhost:4000/2023/01/26/2022-year-in-review.html" rel="alternate" type="text/html" title="2022 year in review" /><published>2023-01-26T00:00:00-05:00</published><updated>2023-01-26T00:00:00-05:00</updated><id>http://localhost:4000/2023/01/26/2022-year-in-review</id><content type="html" xml:base="http://localhost:4000/2023/01/26/2022-year-in-review.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">(or how I turned two hours into three seconds)</summary></entry><entry><title type="html">2022 year in review</title><link href="http://localhost:4000/2023/01/26/2022-year-in-review.html" rel="alternate" type="text/html" title="2022 year in review" /><published>2023-01-26T00:00:00+08:00</published><updated>2023-01-26T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/26/2022-year-in-review</id><content type="html" xml:base="http://localhost:4000/2023/01/26/2022-year-in-review.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#what-happened-in-2022&quot;&gt;What happened in 2022&lt;/a&gt;&lt;/li&gt;
@@ -602,7 +598,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 &lt;p&gt;And there it is. A little late getting this one out, but we did it. I hope you found something useful or inspiring in this post. Onward to discovering more cool things in 2023!&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">You must be at least [this] tall to ride this rollercoaster</summary></entry><entry><title type="html">A lunatic’s guide to productivity</title><link href="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html" rel="alternate" type="text/html" title="A lunatic’s guide to productivity" /><published>2022-11-28T00:00:00-05:00</published><updated>2022-11-28T00:00:00-05:00</updated><id>http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity</id><content type="html" xml:base="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html">&lt;h2 id=&quot;in-this-article&quot;&gt;In this article:&lt;/h2&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">You must be at least [this] tall to ride this rollercoaster</summary></entry><entry><title type="html">A lunatic’s guide to productivity</title><link href="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html" rel="alternate" type="text/html" title="A lunatic’s guide to productivity" /><published>2022-11-28T00:00:00+08:00</published><updated>2022-11-28T00:00:00+08:00</updated><id>http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity</id><content type="html" xml:base="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html">&lt;h2 id=&quot;in-this-article&quot;&gt;In this article:&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Productivity and what to work on&lt;/li&gt;
@@ -693,7 +689,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it&apos;s associated with being productive.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p class=&quot;sub-section&quot;&gt;⚡ Adopting &lt;a href=&quot;https://www.notion.so/&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt; to organize my life&lt;/p&gt;
+&lt;p class=&quot;sub-section&quot;&gt;⚡ Adopting &lt;a href=&quot;https://affiliate.notion.so/8moig6rseq6t&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt; to organize my life&lt;/p&gt;
 
 &lt;p&gt;This is a BIG one. I’m constantly surprised by the number of people who haven’t heard of Notion, despite it being a massively successful software startup.&lt;/p&gt;
 
@@ -826,12 +822,12 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;If I had to ruthlessly narrow it down and leave you with three things to take away from this post: &lt;strong&gt;use &lt;a href=&quot;http://notion.so&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt;, wake up early, and set your to-do list the night before&lt;/strong&gt;. Drinking less gets an honorable mention 😂.&lt;/p&gt;
+&lt;p&gt;If I had to ruthlessly narrow it down and leave you with three things to take away from this post: &lt;strong&gt;use &lt;a href=&quot;https://affiliate.notion.so/8moig6rseq6t&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt;, wake up early, and set your to-do list the night before&lt;/strong&gt;. Drinking less gets an honorable mention 😂.&lt;/p&gt;
 
 &lt;p&gt;But hey, that’s just me. I’m always open to trying out the latest magic hack, so hit me up if you think you’ve found the secret sauce!&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Check me into the looney bin</summary></entry><entry><title type="html">Quitter</title><link href="http://localhost:4000/2022/08/07/quitter.html" rel="alternate" type="text/html" title="Quitter" /><published>2022-08-07T00:00:00-04:00</published><updated>2022-08-07T00:00:00-04:00</updated><id>http://localhost:4000/2022/08/07/quitter</id><content type="html" xml:base="http://localhost:4000/2022/08/07/quitter.html">&lt;p&gt;I’ve done it. I quit my job. Cue the “what have I done!?” tsunami.&lt;/p&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Check me into the looney bin</summary></entry><entry><title type="html">Quitter</title><link href="http://localhost:4000/2022/08/07/quitter.html" rel="alternate" type="text/html" title="Quitter" /><published>2022-08-07T00:00:00+08:00</published><updated>2022-08-07T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/07/quitter</id><content type="html" xml:base="http://localhost:4000/2022/08/07/quitter.html">&lt;p&gt;I’ve done it. I quit my job. Cue the “what have I done!?” tsunami.&lt;/p&gt;
 
 &lt;p&gt;Just joking. This wasn’t a rash decision. In fact, it’s something I’ve been thinking deeply about for a long time.&lt;/p&gt;
 
@@ -894,7 +890,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 &lt;p&gt;Sometimes you gotta burn the boats and bet on yourself. Away we go.&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Jump!</summary></entry><entry><title type="html">Why I started this blog</title><link href="http://localhost:4000/2022/08/06/why-i-started-this-blog.html" rel="alternate" type="text/html" title="Why I started this blog" /><published>2022-08-06T00:00:00-04:00</published><updated>2022-08-06T00:00:00-04:00</updated><id>http://localhost:4000/2022/08/06/why-i-started-this-blog</id><content type="html" xml:base="http://localhost:4000/2022/08/06/why-i-started-this-blog.html">&lt;p&gt;I’ve been thinking about starting a blog for a while, but here I am sitting at Hong Kong International Airport with two hours until my flight to New York, and something just came over me, so I started typing away. Here goes nothing.&lt;/p&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Jump!</summary></entry><entry><title type="html">Why I started this blog</title><link href="http://localhost:4000/2022/08/06/why-i-started-this-blog.html" rel="alternate" type="text/html" title="Why I started this blog" /><published>2022-08-06T00:00:00+08:00</published><updated>2022-08-06T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/06/why-i-started-this-blog</id><content type="html" xml:base="http://localhost:4000/2022/08/06/why-i-started-this-blog.html">&lt;p&gt;I’ve been thinking about starting a blog for a while, but here I am sitting at Hong Kong International Airport with two hours until my flight to New York, and something just came over me, so I started typing away. Here goes nothing.&lt;/p&gt;
 
 &lt;p&gt;I started this blog for three reasons: &lt;strong&gt;1) clear writing = clear thinking, 2) exploring unknown unknowns, and 3) accountability.&lt;/strong&gt;&lt;/p&gt;
 

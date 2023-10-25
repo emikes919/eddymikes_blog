@@ -90,7 +90,7 @@ I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 a
 
 <p id="thanks-text"><em>One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.</em></p>
 
-<p class="sub-section">⚡ Adopting <a href="https://www.notion.so/" target="_blank">Notion</a> to organize my life</p>
+<p class="sub-section">⚡ Adopting <a href="https://affiliate.notion.so/8moig6rseq6t" target="_blank">Notion</a> to organize my life</p>
 
 This is a BIG one. I’m constantly surprised by the number of people who haven’t heard of Notion, despite it being a massively successful software startup.
 
@@ -222,7 +222,7 @@ If anyone knows how to conquer this one let me know.
 
 ---
 
-If I had to ruthlessly narrow it down and leave you with three things to take away from this post: **use [Notion](http://notion.so){:target="_blank"}, wake up early, and set your to-do list the night before**. Drinking less gets an honorable mention 😂. 
+If I had to ruthlessly narrow it down and leave you with three things to take away from this post: **use [Notion](https://affiliate.notion.so/8moig6rseq6t){:target="_blank"}, wake up early, and set your to-do list the night before**. Drinking less gets an honorable mention 😂. 
 
 But hey, that’s just me. I’m always open to trying out the latest magic hack, so hit me up if you think you’ve found the secret sauce!
 

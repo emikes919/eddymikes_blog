@@ -32,7 +32,7 @@ Then, the terminal sprang to life.
 
 Progress statements ran down the screen like rapid fire, making me feel like a bona fide NSA hacker. Pretty baller.
 
-About three seconds later, <em>"done"</em> printed to the screen.
+About three seconds later, `done` printed to the screen.
 
 Stillness.
 
