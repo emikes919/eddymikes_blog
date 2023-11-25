@@ -153,7 +153,7 @@ When forced to learn something on someone else’s time that I don’t truly car
 
 I learn and deliver, but mainly because I have to.
 
-But when I pursue something I’m deeply energized by and have the time to try and fail on my own time, the quality of learning and skill acquisition is MUCH higher.
+But when I pursue something I’m deeply energized by and have the time to try and fail, my quality of learning and skill acquisition is MUCH higher.
 
 Retention, depth & breadth of understanding, my ability to generate ideas based on what I’ve learned… All of it feels super charged. I feel like a true outperformer.
 
