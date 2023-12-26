@@ -1,4 +1,134 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-25T13:54:27+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">The Only Way Out is Through</title><link href="http://localhost:4000/2023/11/24/the-only-way-out-is-through.html" rel="alternate" type="text/html" title="The Only Way Out is Through" /><published>2023-11-24T00:00:00+08:00</published><updated>2023-11-24T00:00:00+08:00</updated><id>http://localhost:4000/2023/11/24/the-only-way-out-is-through</id><content type="html" xml:base="http://localhost:4000/2023/11/24/the-only-way-out-is-through.html">&lt;p&gt;It’s been nearly a year since I &lt;a href=&quot;https://eddymikes.me/2022/08/07/quitter.html&quot; target=&quot;_blank&quot;&gt;quit my job&lt;/a&gt; to be an “entrepreneur”, and would ya look at that, the Imposter Syndrome is really starting to sink in.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-26T15:18:36-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">How I Write</title><link href="http://localhost:4000/2023/12/26/how-i-write.html" rel="alternate" type="text/html" title="How I Write" /><published>2023-12-26T00:00:00-05:00</published><updated>2023-12-26T00:00:00-05:00</updated><id>http://localhost:4000/2023/12/26/how-i-write</id><content type="html" xml:base="http://localhost:4000/2023/12/26/how-i-write.html">&lt;p&gt;This blog recently celebrated it’s first birthday, and lo and behold, a bit of a writing system has emerged. Kinda the point!&lt;/p&gt;
+
+&lt;p&gt;This post is about how I post posts.&lt;/p&gt;
+
+&lt;p&gt;If not for you, this one’s for me. To put it all on paper. After all, &lt;a href=&quot;https://eddymikes.me/2022/08/06/why-i-started-this-blog.html&quot; target=&quot;_blank&quot;&gt;clear writing = clear thinking&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Raw Content Generation&lt;/p&gt;
+
+&lt;p&gt;I don’t just sit there, pick a topic, and start scribbling away. That would be a quick way to get nothing done.&lt;/p&gt;
+
+&lt;p&gt;Instead, I let inspiration strike naturally and maintain a &lt;a href=&quot;https://affiliate.notion.so/8moig6rseq6t&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt; doc with a list of topics and ideas.&lt;/p&gt;
+
+&lt;p&gt;I jot down post ideas as I have them and group them into categories, like so:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/notion-blog-post-ideas.png&quot; alt=&quot;notion-blog-post-ideas&quot; title=&quot;notion-blog-post-ideas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Under each post idea, I braindump thoughts as they occur, also in real time. Walking to the grocery store, on the subway, at the gym. The &lt;a href=&quot;https://affiliate.notion.so/8moig6rseq6t&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt; mobile app makes this so easy.&lt;/p&gt;
+
+&lt;p&gt;This process of jotting down thoughts, which represent the early stages of post content, can take weeks or even months.&lt;/p&gt;
+
+&lt;p&gt;Some of my earliest post ideas are still percolating, not quite ready for the next step…&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Workspace Creation&lt;/p&gt;
+
+&lt;p&gt;Once I’m excited enough about a topic and have enough content to be dangerous, I create a dedicated &lt;a href=&quot;https://affiliate.notion.so/8moig6rseq6t&quot; target=&quot;_blank&quot;&gt;Notion&lt;/a&gt; doc to start drafting a post.&lt;/p&gt;
+
+&lt;p&gt;This is usually catalyzed by a surge of enthusiasm about the topic or it being particularly top of mind.&lt;/p&gt;
+
+&lt;p&gt;Great examples would be my &lt;a href=&quot;https://eddymikes.me/2023/05/04/man-learns-to-code-at-tender-age-of-31.html&quot; target=&quot;_blank&quot;&gt;programming post&lt;/a&gt; and my &lt;a href=&quot;https://eddymikes.me/2023/11/24/the-only-way-out-is-through.html&quot; target=&quot;_blank&quot;&gt;Impostor Syndrome post&lt;/a&gt;. I was deep in a coding sprint for the former, and was feeling particularly insecure about my future for the latter.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Enhancing the Braindump&lt;/p&gt;
+
+&lt;p&gt;The next step is to take my loose braindump of bullet points, and just absolutely word-vomit on top of it.&lt;/p&gt;
+
+&lt;p&gt;This involves going through the braindump line by line, adding sub-bullets, expanding sentences, and re-ordering things. Whatever comes to mind. The goal is quantity.&lt;/p&gt;
+
+&lt;p&gt;A braindump OF the braindump 🤯. &lt;em&gt;Braindump&lt;sup&gt;2&lt;/sup&gt;&lt;/em&gt;, if you will.&lt;/p&gt;
+
+&lt;p&gt;This tinkering exercise can easily fill up one or more 30 minute+ writing sessions, and counts towards the 30 minute weekly minimum I’ve set for myself (v attainable).&lt;/p&gt;
+
+&lt;p&gt;If at any time I feel inspired to just pump out a full paragraph, I just run with it, with no regard for grammar or quality. Feed off that energy when it comes, baby. We’ll fix it later.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;💡 &lt;strong&gt;Having stuff to work with &amp;gt; getting it right on the first try&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Eventually, content sections begin to emerge, and I’ll start organizing the braindump into sections and adding headings.&lt;/p&gt;
+
+&lt;p&gt;Here’s what this grouping exercise looked like for this post:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/notion-blog-post-grouping.png&quot; alt=&quot;notion-blog-post-grouping&quot; title=&quot;notion-blog-post-grouping&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;The “Writing” Part&lt;/p&gt;
+
+&lt;p&gt;At this point, a skeleton of a blog post is starting to take shape. I have a lot to work with, and I usually find some inspiration to start enriching the content and converting the braindump into post-quality writing.&lt;/p&gt;
+
+&lt;p&gt;I start at the top and attempt to go section by section, but I always end up jumping between sections as inspiration strikes.&lt;/p&gt;
+
+&lt;p&gt;Riding the wave is important. If I’m in a creative flow, I don’t fight it. Cutting a post down is always easier than beefing it up.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, I’ll often spend full sessions barely getting through a paragraph, which is okay, and some sessions feel like no progress was made, so patience is key. (relax bro, this is a personal blog 😂, there is literally no due date).&lt;/p&gt;
+
+&lt;p&gt;I’ll repeat this process for as many sessions as it takes to get the post 90% there.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;The Home Stretch&lt;/p&gt;
+
+&lt;p&gt;I always struggle with some remaining 10% of each post. It could be missing a hooky intro, a solid conclusion, a smooth transition, or there could be some passage I just don’t love.&lt;/p&gt;
+
+&lt;p&gt;⚠️ &lt;strong&gt;IMPORTANT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;When I reach this point, &lt;strong&gt;I deliberately ignore the post for several days.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+This is a critical step!&lt;/p&gt;
+
+&lt;p&gt;When I come back to the post, I perceive my writing differently, every damn time.&lt;/p&gt;
+
+&lt;p&gt;Try it. Re-read something you’ve written. I can almost guarantee a little voice in your head will say “I don’t remember it sounding that way when I wrote it”.&lt;/p&gt;
+
+&lt;p&gt;Without fail, the fresh perspective helps me fill out the missing 10% of the post and improve the 90% I’ve already written.&lt;/p&gt;
+
+&lt;p&gt;From here, it becomes a polishing exercise until I have an end-to-end flowing narrative I’m satisfied with. Rewrite a sentence here, tweak a phrase there, etc.&lt;/p&gt;
+
+&lt;p&gt;Not a bad looking post if I say so myself. I think I just might be comfortable sharing it with the world.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Final Set of 👀&lt;/p&gt;
+
+&lt;p&gt;Not so fast.&lt;/p&gt;
+
+&lt;p&gt;Before this bad boy is internet-ready, it must pass through the gauntlet.&lt;/p&gt;
+
+&lt;p&gt;That is, three formidable opponents: AI co-pilots, my wife Sarah, and my fellow writer Julian.&lt;/p&gt;
+
+&lt;p&gt;Before sharing the post with my trusty human advisors, I flag any remaining passages that just aren’t hitting quite right and drop them into ChatGPT and &lt;a href=&quot;https://affiliate.notion.so/8moig6rseq6t&quot; target=&quot;_blank&quot;&gt;Notion AI&lt;/a&gt; for some inspiration on how to improve them. I’ll take what AI gives me probably four out of ten times.&lt;/p&gt;
+
+&lt;p class=&quot;blue-box&quot;&gt;One guy’s quick take on where text AI stands today:
+&lt;br /&gt;&lt;br /&gt;
+AI will often objectively “improve” my writing, but completely lose my voice, sounding sterile and robotic. That’s often the reason I ignore an AI-generated edit. My jaw is constantly dropping at what AI can do, but it’s still SO rudimentary in the scope of what’s possible. It’s cool to know that the early 2020s are to AI what the early 90s were to the internet. We’re living it!&lt;/p&gt;
+
+&lt;p&gt;Next, I’ll send this post-AI draft to Sarah to proof read.&lt;/p&gt;
+
+&lt;p&gt;This step is just as important as stepping away and reviewing it later.&lt;/p&gt;
+
+&lt;p&gt;Without fail, Sarah comes back with comments on things I thought were perfect.&lt;/p&gt;
+
+&lt;p&gt;I’ll take or leave each of her comments, then put the post down for another day or two max.&lt;/p&gt;
+
+&lt;p&gt;Upon my return, my masterpiece is complete.&lt;/p&gt;
+
+&lt;p&gt;Easy there, hot shot. You still have one final test.&lt;/p&gt;
+
+&lt;p&gt;The gauntlet’s boss level: sending the “final” post to my &lt;a href=&quot;https://xix.joulestudios.com/&quot; target=&quot;_blank&quot;&gt;fellow writer and lifelong friend, Julian&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He’ll lay down the tough love, and I’ll occasionally come to terms with the fact that the post was one big ego-stroking exercise. I’ll go back with an excruciatingly fine tooth comb, re-writing and deleting stuff I previously thought was “good”.&lt;/p&gt;
+
+&lt;p&gt;I’ve legit deleted and rewritten a third of a post based on his feedback.&lt;/p&gt;
+
+&lt;p&gt;It’s so easy to become precious about little things you’ve written. I almost always suffer from clouded judgement and become less results-focused (convincing myself something is good rather than being brutally objective). It seems like an unavoidable part of the creative process.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;It’s worth reiterating: the importance of having people who will give you completely unfiltered feedback cannot be understated. &lt;strong&gt;It generates a higher quality output every time.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Phew. Gauntlet passed. A few weeks and a bunch of brutally honest edits later, this thing is finally battle-ready.&lt;/p&gt;
+
+&lt;p&gt;Only one thing left to do… 📌&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah and Julian for reading a draft of this post.
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A post about posting posts</summary></entry><entry><title type="html">The Only Way Out is Through</title><link href="http://localhost:4000/2023/11/24/the-only-way-out-is-through.html" rel="alternate" type="text/html" title="The Only Way Out is Through" /><published>2023-11-24T00:00:00-05:00</published><updated>2023-11-24T00:00:00-05:00</updated><id>http://localhost:4000/2023/11/24/the-only-way-out-is-through</id><content type="html" xml:base="http://localhost:4000/2023/11/24/the-only-way-out-is-through.html">&lt;p&gt;It’s been nearly a year since I &lt;a href=&quot;https://eddymikes.me/2022/08/07/quitter.html&quot; target=&quot;_blank&quot;&gt;quit my job&lt;/a&gt; to be an “entrepreneur”, and would ya look at that, the Imposter Syndrome is really starting to sink in.&lt;/p&gt;
 
 &lt;p&gt;I quit my day job because I doubted my ability to deliver if my attention was being split between work and side projects.&lt;/p&gt;
 
@@ -180,7 +310,7 @@ Walk up to a black jack table and the buy in is $100? $100 is that table’s sta
 &lt;p&gt;The only way out is through 💪&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Thoughts from an Imposter (Syndrome)</summary></entry><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00+08:00</published><updated>2023-05-04T00:00:00+08:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Thoughts from an Imposter (Syndrome)</summary></entry><entry><title type="html">Man learns to code at tender age of 31</title><link href="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html" rel="alternate" type="text/html" title="Man learns to code at tender age of 31" /><published>2023-05-04T00:00:00-04:00</published><updated>2023-05-04T00:00:00-04:00</updated><id>http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31</id><content type="html" xml:base="http://localhost:4000/2023/05/04/man-learns-to-code-at-tender-age-of-31.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#the-why&quot;&gt;The Why&lt;/a&gt;&lt;/li&gt;
@@ -531,7 +661,7 @@ Walk up to a black jack table and the buy in is $100? $100 is that table’s sta
 &lt;p&gt;And that, dear reader, is a good sign if I’ve ever seen one.&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah and Julian for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">(or how I turned two hours into three seconds)</summary></entry><entry><title type="html">2022 year in review</title><link href="http://localhost:4000/2023/01/26/2022-year-in-review.html" rel="alternate" type="text/html" title="2022 year in review" /><published>2023-01-26T00:00:00+08:00</published><updated>2023-01-26T00:00:00+08:00</updated><id>http://localhost:4000/2023/01/26/2022-year-in-review</id><content type="html" xml:base="http://localhost:4000/2023/01/26/2022-year-in-review.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">(or how I turned two hours into three seconds)</summary></entry><entry><title type="html">2022 year in review</title><link href="http://localhost:4000/2023/01/26/2022-year-in-review.html" rel="alternate" type="text/html" title="2022 year in review" /><published>2023-01-26T00:00:00-05:00</published><updated>2023-01-26T00:00:00-05:00</updated><id>http://localhost:4000/2023/01/26/2022-year-in-review</id><content type="html" xml:base="http://localhost:4000/2023/01/26/2022-year-in-review.html">&lt;p class=&quot;sub-section&quot;&gt;In this article:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#what-happened-in-2022&quot;&gt;What happened in 2022&lt;/a&gt;&lt;/li&gt;
@@ -780,7 +910,7 @@ I piggy-backed off this annual goal-setting inspiration to set some &lt;strong&g
 &lt;p&gt;And there it is. A little late getting this one out, but we did it. I hope you found something useful or inspiring in this post. Onward to discovering more cool things in 2023!&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">You must be at least [this] tall to ride this rollercoaster</summary></entry><entry><title type="html">A lunatic’s guide to productivity</title><link href="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html" rel="alternate" type="text/html" title="A lunatic’s guide to productivity" /><published>2022-11-28T00:00:00+08:00</published><updated>2022-11-28T00:00:00+08:00</updated><id>http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity</id><content type="html" xml:base="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html">&lt;h2 id=&quot;in-this-article&quot;&gt;In this article:&lt;/h2&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">You must be at least [this] tall to ride this rollercoaster</summary></entry><entry><title type="html">A lunatic’s guide to productivity</title><link href="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html" rel="alternate" type="text/html" title="A lunatic’s guide to productivity" /><published>2022-11-28T00:00:00-05:00</published><updated>2022-11-28T00:00:00-05:00</updated><id>http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity</id><content type="html" xml:base="http://localhost:4000/2022/11/28/a-lunatics-guide-to-productivity.html">&lt;h2 id=&quot;in-this-article&quot;&gt;In this article:&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Productivity and what to work on&lt;/li&gt;
@@ -1009,7 +1139,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 &lt;p&gt;But hey, that’s just me. I’m always open to trying out the latest magic hack, so hit me up if you think you’ve found the secret sauce!&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Check me into the looney bin</summary></entry><entry><title type="html">Quitter</title><link href="http://localhost:4000/2022/08/07/quitter.html" rel="alternate" type="text/html" title="Quitter" /><published>2022-08-07T00:00:00+08:00</published><updated>2022-08-07T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/07/quitter</id><content type="html" xml:base="http://localhost:4000/2022/08/07/quitter.html">&lt;p&gt;I’ve done it. I quit my job. Cue the “what have I done!?” tsunami.&lt;/p&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Check me into the looney bin</summary></entry><entry><title type="html">Quitter</title><link href="http://localhost:4000/2022/08/07/quitter.html" rel="alternate" type="text/html" title="Quitter" /><published>2022-08-07T00:00:00-04:00</published><updated>2022-08-07T00:00:00-04:00</updated><id>http://localhost:4000/2022/08/07/quitter</id><content type="html" xml:base="http://localhost:4000/2022/08/07/quitter.html">&lt;p&gt;I’ve done it. I quit my job. Cue the “what have I done!?” tsunami.&lt;/p&gt;
 
 &lt;p&gt;Just joking. This wasn’t a rash decision. In fact, it’s something I’ve been thinking deeply about for a long time.&lt;/p&gt;
 
@@ -1072,7 +1202,7 @@ Aren’t you negatively impacting your teammates’ productivity?!”&lt;/p&gt;
 &lt;p&gt;Sometimes you gotta burn the boats and bet on yourself. Away we go.&lt;/p&gt;
 
 &lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
-&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Jump!</summary></entry><entry><title type="html">Why I started this blog</title><link href="http://localhost:4000/2022/08/06/why-i-started-this-blog.html" rel="alternate" type="text/html" title="Why I started this blog" /><published>2022-08-06T00:00:00+08:00</published><updated>2022-08-06T00:00:00+08:00</updated><id>http://localhost:4000/2022/08/06/why-i-started-this-blog</id><content type="html" xml:base="http://localhost:4000/2022/08/06/why-i-started-this-blog.html">&lt;p&gt;I’ve been thinking about starting a blog for a while, but here I am sitting at Hong Kong International Airport with two hours until my flight to New York, and something just came over me, so I started typing away. Here goes nothing.&lt;/p&gt;
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Jump!</summary></entry><entry><title type="html">Why I started this blog</title><link href="http://localhost:4000/2022/08/06/why-i-started-this-blog.html" rel="alternate" type="text/html" title="Why I started this blog" /><published>2022-08-06T00:00:00-04:00</published><updated>2022-08-06T00:00:00-04:00</updated><id>http://localhost:4000/2022/08/06/why-i-started-this-blog</id><content type="html" xml:base="http://localhost:4000/2022/08/06/why-i-started-this-blog.html">&lt;p&gt;I’ve been thinking about starting a blog for a while, but here I am sitting at Hong Kong International Airport with two hours until my flight to New York, and something just came over me, so I started typing away. Here goes nothing.&lt;/p&gt;
 
 &lt;p&gt;I started this blog for three reasons: &lt;strong&gt;1) clear writing = clear thinking, 2) exploring unknown unknowns, and 3) accountability.&lt;/strong&gt;&lt;/p&gt;
 
