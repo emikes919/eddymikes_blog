@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Only Way Out is Through
-excerpt: Thoughts from an Imposter (Syndrome)
+excerpt: Thoughts from an Impostor (Syndrome)
 ---
-It’s been nearly a year since I [quit my job](https://eddymikes.me/2022/08/07/quitter.html){:target="_blank"} to be an “entrepreneur”, and would ya look at that, the Imposter Syndrome is really starting to sink in.
+It’s been nearly a year since I [quit my job](https://eddymikes.me/2022/08/07/quitter.html){:target="_blank"} to be an “entrepreneur”, and would ya look at that, the Impostor Syndrome is really starting to sink in.
 
 I quit my day job because I doubted my ability to deliver if my attention was being split between work and side projects.
 
@@ -89,7 +89,7 @@ Voice #1 usually prevails, and when it does, I fall into a anxiety-inducing, jud
 
 *The Spiral of Self Doubt makes me anxious, which makes me worried about my judgement being clouded, which crushes my self-confidence, which makes me more anxious, and so on.*
 
-And that, ladies and gentlemen, is was we call Imposter Syndrome.
+And that, ladies and gentlemen, is was we call Impostor Syndrome.
 
 <p class="main-section">How I’m dealing with it</p>
 
@@ -97,13 +97,13 @@ Pretty grim, huh?
 
 Yes and no. 
 
-Spiraling into anxiety and Imposter Syndrome is painful, but it’s also a powerful catalyst for action.
+Spiraling into anxiety and Impostor Syndrome is painful, but it’s also a powerful catalyst for action.
 
-Ultimately, execution is all that really matters, and nothing undermines execution like Imposter Syndrome. If I let it win, my chances of success dwindle to zero.
+Ultimately, execution is all that really matters, and nothing undermines execution like Impostor Syndrome. If I let it win, my chances of success dwindle to zero.
 
-Ironically, the harsh reality of Imposter Syndrome is what motivates me to overcome it.
+Ironically, the harsh reality of Impostor Syndrome is what motivates me to overcome it.
 
-The Imposter is beatable. Here’s how:
+The Impostor is beatable. Here’s how:
 
 <p class="sub-section">By setting an attainable goal</p>
 
@@ -163,7 +163,7 @@ This gives me faith that though it may not feel like it today, I have it in me t
 
 <p class="sub-section">By remembering that I enjoy the journey</p>
 
-Imposter Syndrome can shatter confidence, but there are a few things I’m still deeply confident in:
+Impostor Syndrome can shatter confidence, but there are a few things I’m still deeply confident in:
 
 1. My love of learning new things, building stuff, and pursuing goals.
 2. The compounding effect of my day-to-day effort, even if it sometimes feels like I’m going nowhere or even backward.
@@ -172,9 +172,9 @@ It’s a bit cliche, admittedly, but reminding myself is an effective way to mai
 
 Results matter, but it’s not just about the end game. The joy is in the pursuit itself, the struggle.
 
-Whenever the I feel the Spiral coming on, I try to remember that **Imposter Syndrome is part of the journey** and a natural result of the path I’ve chosen.
+Whenever the I feel the Spiral coming on, I try to remember that **Impostor Syndrome is part of the journey** and a natural result of the path I’ve chosen.
 
-Self-confidence will return, and Imposter Syndrome will be back again too. It’s part of the ride, and I’m sure as hell not getting off.
+Self-confidence will return, and Impostor Syndrome will be back again too. It’s part of the ride, and I’m sure as hell not getting off.
 
 The only way out is through 💪
 
