@@ -1,4 +1,393 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-23T11:26:34+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">How I Write</title><link href="http://localhost:4000/2023/12/26/how-i-write.html" rel="alternate" type="text/html" title="How I Write" /><published>2023-12-26T00:00:00+08:00</published><updated>2023-12-26T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/26/how-i-write</id><content type="html" xml:base="http://localhost:4000/2023/12/26/how-i-write.html">&lt;p&gt;This blog recently celebrated it’s first birthday, and lo and behold, a bit of a writing system has emerged. Kinda the point!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-23T11:45:40+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">eddymikes.me</title><subtitle>Personal blog</subtitle><entry><title type="html">2023 Year in Review</title><link href="http://localhost:4000/2024/01/23/2023-year-in-review.html" rel="alternate" type="text/html" title="2023 Year in Review" /><published>2024-01-23T00:00:00+08:00</published><updated>2024-01-23T00:00:00+08:00</updated><id>http://localhost:4000/2024/01/23/2023-year-in-review</id><content type="html" xml:base="http://localhost:4000/2024/01/23/2023-year-in-review.html">&lt;p class=&quot;main-section&quot;&gt;What happened in 2023?&lt;/p&gt;
+
+&lt;p&gt;Objectively, it should have been a pretty good year, but I can’t say that is was.&lt;/p&gt;
+
+&lt;p&gt;This is a long one. Strap in.&lt;/p&gt;
+
+&lt;h3 id=&quot;-health-stuff&quot;&gt;🫀 &lt;strong&gt;health stuff&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;spent a month without alcohol or caffeine&lt;/li&gt;
+  &lt;li&gt;injured my elbow&lt;/li&gt;
+  &lt;li&gt;started getting annual blood work done&lt;/li&gt;
+  &lt;li&gt;hit a new deadlifting PR&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-career-stuff&quot;&gt;💼 &lt;strong&gt;career stuff&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;took a product to market&lt;/li&gt;
+  &lt;li&gt;scaled it to four restaurants and USD 250K in GMV&lt;/li&gt;
+  &lt;li&gt;attempted to raise money&lt;/li&gt;
+  &lt;li&gt;shut down my company&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-money-stuff&quot;&gt;🤑 &lt;strong&gt;money stuff&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;invested in treasuries&lt;/li&gt;
+  &lt;li&gt;started manually tracking all my transactions on a weekly basis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-fun-stuff&quot;&gt;🕺 &lt;strong&gt;fun stuff&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;picked up surfing&lt;/li&gt;
+  &lt;li&gt;learned how to make ice cream&lt;/li&gt;
+  &lt;li&gt;visited three new countries&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-life-stuff&quot;&gt;🧬 &lt;strong&gt;life stuff&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;fostered a second dog&lt;/li&gt;
+  &lt;li&gt;decided to move to Bali for a few months&lt;/li&gt;
+  &lt;li&gt;got married
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;which-can-be-boiled-down-to-this&quot;&gt;…which can be boiled down to this:&lt;/h3&gt;
+
+&lt;p&gt;😊 &lt;strong&gt;Pros&lt;/strong&gt; - I stayed fit, traveled a ton, and did cool stuff.&lt;/p&gt;
+
+&lt;p&gt;😢 &lt;strong&gt;Cons&lt;/strong&gt; - my startup failed, costing me time, money, and emotional health, and I experienced pretty acute &lt;a href=&quot;https://eddymikes.me/2023/11/24/the-only-way-out-is-through.html&quot; target=&quot;_blank&quot;&gt;Impostor Syndrome&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Can’t argue with that list of pros. Lots of good in there!&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, the 80/20 rule seems to apply to the things that make me (and maybe us?) happy: &lt;em&gt;most of how I feel about my year is driven by one thing, my career.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Shutting down my company and experiencing my first real “failure” this year was hard. Yes, I learned a lot, it was a cheap lesson, yada yada yada, but there’s no escaping it. It was tough.&lt;/p&gt;
+
+&lt;p&gt;My life generally falls into three buckets: health, wealth, and relationships. Since I’m fortunate enough to have very strong relationships with my wife, family, and friends, the state of my career and physical health drive the fluctuations in my mental health.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, a year checkered with career failure and struggles with mental health makes me look back on it as a tough one.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;2023 Goal Review&lt;/p&gt;
+
+&lt;p&gt;Take a look at this blood bath. Swing ‘n a miss.&lt;/p&gt;
+
+&lt;p&gt;❌ Write 6 blog posts (wrote 4)&lt;/p&gt;
+
+&lt;p&gt;❌ Read 13 new books (read 11)&lt;/p&gt;
+
+&lt;p&gt;❌ Re-read 2 books (re-read 0)&lt;/p&gt;
+
+&lt;p&gt;❌ Achieve full shoulder width squat with heels on floor (didn’t get there)&lt;/p&gt;
+
+&lt;p&gt;❌ Get first cut of personal workout app working (didn’t even start)&lt;/p&gt;
+
+&lt;p&gt;❌ Get 10 paying venues on the Chowtime! platform (got 4)&lt;/p&gt;
+
+&lt;p&gt;❌ Raise money for Chowtime! (tried and failed)&lt;/p&gt;
+
+&lt;p&gt;As brutal as it looks, I’m happy that I started this goal setting exercise. I learned a lot about effective goal setting just from doing it one time.&lt;/p&gt;
+
+&lt;p&gt;There is one main problem with the goals I set for 2023: &lt;strong&gt;Every single goal was an output, not an input.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Goals should &lt;em&gt;not&lt;/em&gt; be things that I have no control over, outputs.&lt;/p&gt;
+
+&lt;p&gt;They should exclusively be things I have control over (inputs) that &lt;strong&gt;&lt;em&gt;increase the likelihood of getting the desired output&lt;/em&gt;&lt;/strong&gt;. I set arbitrary goals in 2023 that had no impact on my likelihood of getting my desired outcome.&lt;/p&gt;
+
+&lt;p&gt;Here’s a quick post-mortem on each one:&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Writing blog posts&lt;/u&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This wasn’t a terrible goal, but it was framed incorrectly. The target of six blog posts itself (an output) had no impact on whether or not I wrote more. Instead, I should have set a goal of writing for 30 minutes per week, every week (input).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;u&gt;Reading books&lt;/u&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This was so dumb. I don’t need to read a set amount of books per year. It just creates a meaningless goal that I may hit or miss (so what if i do?) I read at a semi-regular cadence regardless, and that’s fine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;u&gt;Squat with my heels on the floor&lt;/u&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Right idea, wrong goal. I set this goal because it lays a foundation to achieve other fitness goals. But it’s both unrealistic and out of my control. It take years of work to undo years of ankle immobility, and more importantly, setting this goal has no impact on the likelihood of achieving the goal itself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;u&gt;Build personal workout app&lt;/u&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Not necessarily a bad goal. It was something to work towards with my programming skillset, but it was completely unrealistic. Too much of a reach. An effective programming-related goal should be been a simple target of coding for some amount of time every week.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;u&gt;Get 10 customers&lt;/u&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This was actually a nice bogie, despite being an output. It was an achievable stretch goal that would have laid the foundation for a strong 2024, but some clearly defined inputs should have been attached to it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;u&gt;Raise money&lt;/u&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This was an arbitrary, stupid goal. Yeah, it may have been necessary to raise capital, but so what? What if we don’t need to raise money? Does raising money mean we have a viable business? What if we raise money in Q1 of the following year instead of the goal setting year, have I failed? I accomplished nothing by setting this goal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;🤦&lt;/p&gt;
+
+&lt;p&gt;These goals were not that thoughtful or input-focused, and some were downright silly.&lt;/p&gt;
+
+&lt;p&gt;A better approach would have been to take a long term view and work backwards, defining input goals that simply advance me towards my desired outcomes. Shouldn’t be much more to it than that.&lt;/p&gt;
+
+&lt;p&gt;And with that…&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;2024 Goal Setting&lt;/p&gt;
+
+&lt;p&gt;Instead of asking myself: &lt;strong&gt;&lt;em&gt;“What do I want to accomplish this year?”&lt;/em&gt;&lt;/strong&gt;, I reframed the question as &lt;strong&gt;&lt;em&gt;“What do I want to be celebrating 12 months from now?”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a much less intimidating version of essentially the same question. It’s pretty easy to mentally time travel one year into the future and say, &lt;strong&gt;&lt;em&gt;“it would be awesome if X happened”&lt;/em&gt;&lt;/strong&gt; (where X is something reasonably achievable).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks for the tip, &lt;a href=&quot;https://www.youtube.com/@aliabdaal&quot; target=&quot;_blank&quot;&gt;Ali Abdaal&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I would love to be celebrating the following in the fitness bucket:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Being injury-free the entire year&lt;/li&gt;
+  &lt;li&gt;Hitting 1 or 2 of my long term fitness outcomes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;…and the following in the career bucket:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Being in a financial position that allows me to continue pursuing entrepreneurship for another year&lt;/li&gt;
+  &lt;li&gt;Have a least one venture make some money&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Setting input goals around my fitness outcomes was pretty easy.&lt;/p&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Plan workouts for the whole month, every month&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Planning workouts in advance is a simple trick to limit friction between you and going to the gym and prevent you from overtraining. It allows you to just show up and do what you’re told. Great consistency hack, and consistency wins.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Deadlift and squat once per week each (excluding deload and travel weeks)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I made solid gains on my deadlift and squat this past year, and I want to lean into that. A strong deadlift and squat also enable fitness progress across the entire body and are great barometers for longevity. A simple once per week input goal is doable and effective.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Train ankle mobility before every single workout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is an easy input to fold into my time already spent at the gym. This is the input that will, over time, unlock the fitness progress I intended to achieve with last year’s goal of “squatting with my heels on the floor”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Show up to the beach and surf a minimum of 4x per week when in Bali (safe conditions permitting)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve recently gotten into surfing, and Bali is a world class surfing destination with great waves on tap every single day. I love surfing for many reasons, not limited to the fact that it works for you across multiple health-related outcomes, both physical and mental. I can’t control how good of a surfer I become, but I can 👏 keep 👏 showing 👏 up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fitness goals, check ✅. Lock it in baby, let’s go!&lt;/p&gt;
+
+&lt;p&gt;On to my career. These were much harder to define coming off my first failure in business.&lt;/p&gt;
+
+&lt;p&gt;I started by taking a step back and asking myself, at the most basic level, what do I want for my career in the near term? I came up with this:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Generate cash&lt;/li&gt;
+  &lt;li&gt;Start building the skills that I need to be a successful entrepreneur (sales/promotion, content creation, copywriting, story-telling, delegation, confidence, resourcefulness, etc.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The fastest way to get these things is to take action and start doing. The fastest way to start doing is to take what I’m already good at and sell it to people.&lt;/p&gt;
+
+&lt;p&gt;Ladies and gentlemen, I give you: &lt;strong&gt;consulting&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I do not want to be trading my time for money, but selling the skills I’ve developed from a decade of client work, investing, raising money, and starting my company is a fast way to generate cash and start building those entrepreneurial skills.&lt;/p&gt;
+
+&lt;p&gt;More importantly, consulting increases my likelihood of celebrating what I want to be celebrating in 12 month’s time, which brings me to career input goal #1:&lt;/p&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Set up and market consulting services until I get my first client&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This goal requires taking action on a lot of the basics: word-of-mouth referrals, setting up a website, gathering testimonials, online promotion, and delivering. It’s very doable and generates cash.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s the smart thing to do, but consulting is not my ticket to financial freedom. The whole point of trading some time for money is to preserve my ability to keep experimenting with businesses. While I’m consulting part-time, my free time should be allocated to just that: experimentation.&lt;/p&gt;
+
+&lt;p&gt;I have a list of projects that I think could be profitable, but they all involve risk, and my confidence is a bit shaken coming off my first real business failure.&lt;/p&gt;
+
+&lt;p&gt;I’m a momentum machine, and summoning the courage to get back in the game and just start something has been holding me back. Which brings me to career input goal #2:&lt;/p&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Pick a new project and start it in earnest&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Committing to just picking something and going for it is totally within my control, and is the one thing standing between me and getting momentum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And finally, one more:&lt;/p&gt;
+
+&lt;p&gt;🎯 &lt;strong&gt;Write for 30 minutes per week, every week&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I enjoy it. It’s energizing. It makes me a better thinker and communicator. 30 minutes a week is doable and will compound on auto-pilot.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, a MUCH more considered goal setting exercise this year. I probably wouldn’t have been able to improve my goal setting without just starting and sucking a bit first at the end of 2022.&lt;/p&gt;
+
+&lt;p&gt;Let’s see how we go.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Things I already knew, but “learned” through experience in 2023&lt;/p&gt;
+
+&lt;p&gt;This was a fun segment to do last year.&lt;/p&gt;
+
+&lt;p&gt;When you experience a thing for the first time, even if you already knew it existed, it can give you a deeper appreciation for or understanding of that thing.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;☕ Caffeine is a drug&lt;/p&gt;
+
+&lt;p&gt;I went a month without drinking any caffeine after years of consuming it daily. The withdrawal was intense.&lt;/p&gt;
+
+&lt;p&gt;I felt as though there was a smooth, warm stone in my brain weighing me down from the base of my skull. I fell asleep constantly and was a fraction of my former productive self. The first two weeks were the worst, then I slowly recovered, but not to my previously caffeinated levels.&lt;/p&gt;
+
+&lt;p&gt;A huge positive: my sleep quality was nothing short of amazing. I’d wake up in the morning completely refreshed, having no recollection of falling asleep, wondering how much time had passed. I was a teenager the last time I experienced that.&lt;/p&gt;
+
+&lt;p&gt;When I started drinking caffeine again, I literally felt high. &lt;strong&gt;Caffeine is a drug, folks.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Another positive takeaway: reintroducing caffeine with a lower tolerance allowed me to change my daily routine with it. I now only consume caffeine before ~11am, and my sleep quality seems to have improved permanently.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;💵 Cash is king&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, there are two types of businesses.&lt;/p&gt;
+
+&lt;p&gt;One requires a large upfront cash investment with the intent to monetize it later (think real estate development, software, physical products, etc.)&lt;/p&gt;
+
+&lt;p&gt;The other involves selling something, usually time or labor, and receiving cash almost immediately. Think service businesses.&lt;/p&gt;
+
+&lt;p&gt;The former is generally more scalable and carries more risk. The latter is generally less risky but harder to scale (one notable exception to this is certain types of digital products/content).&lt;/p&gt;
+
+&lt;p&gt;The former is sexier and tends to be where people think startup riches lie, whereas the latter tends to be boring and associated with a long, slow slog.&lt;/p&gt;
+
+&lt;p&gt;When starting out as an entrepreneur, the odds are more against you than they ever will be, so unless you have some amazing set of stars align (perfect team, idea, access to capital, pre-validated business, industry access, etc.), it doesn’t make probabilistic sense to choose the higher risk option 1.&lt;/p&gt;
+
+&lt;p&gt;I fell into this trap with my last business. My eyes were big, and my judgement was clouded.&lt;/p&gt;
+
+&lt;p&gt;Sure, I could have told you this beforehand, but I learned it through experience this year: &lt;em&gt;you succeed by staying alive, and you stay alive by generating cash.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;People worry about service-like businesses being harder to scale, so they shy away from them.&lt;/p&gt;
+
+&lt;p&gt;I don’t disagree that these types of business generally lack the leverage you can get with product-type businesses, but you have to survive before you can get rich.&lt;/p&gt;
+
+&lt;p&gt;💡 &lt;em&gt;My new view after choosing option 1 and failing:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Focus on a service-like business or something that generates some cash with less risk in the earlier days of your entrepreneurial journey. Generate some cash first. Then make it sustainable. Then think about it growing it. Then, maybe, think about taking those bigger, dreamy risks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On the note of cash being king, I recently saw this meme that stuck with me. Honestly may frame it and put it on my desk:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cash-meme.png&quot; alt=&quot;cash-generation-meme&quot; title=&quot;cash-generation-mem&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;🤝 Two things on business partners&lt;/p&gt;
+
+&lt;p&gt;I experienced my first business partnership gone bad this year. Two big takeaways for me:&lt;/p&gt;
+
+&lt;p&gt;1️⃣ &lt;strong&gt;The importance of having the right business partner&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This sounds obvious, but it’s more important than you probably realize until you experience the alternative.&lt;/p&gt;
+
+&lt;p&gt;Business partners will rarely agree on everything, which is a good thing. There is level of healthy tension that can be productive, and you don’t want to partner with a carbon copy of yourself lest you get stuck in a judgement-clouding echo chamber.&lt;/p&gt;
+
+&lt;p&gt;But in my limited experience, there appear to be a few fundamental traits that are a requirement for any partnership to work:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;integrity&lt;/li&gt;
+  &lt;li&gt;trust&lt;/li&gt;
+  &lt;li&gt;urgency / bias towards action&lt;/li&gt;
+  &lt;li&gt;realistic expectations of the thankless, unsexy work required to build a business&lt;/li&gt;
+  &lt;li&gt;a 90/10 approach to prioritization (a focus on true needle-movers)&lt;/li&gt;
+  &lt;li&gt;acceptance of and willingness to make decisions with incomplete information&lt;/li&gt;
+  &lt;li&gt;humility about what one doesn’t know&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A partnership that lacks one or more of these things can become toxic, drain energy, and outright subtract value.&lt;/p&gt;
+
+&lt;p&gt;I did not fully appreciate this until I experienced it first hand.&lt;/p&gt;
+
+&lt;p&gt;2️⃣ &lt;strong&gt;The importance of structuring contracts with things going badly in mind&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, it’s both difficult to effectively screen for those things in advance and hard to imagine things going poorly when you’re in the feel-good state of initiating a partnership. You wouldn’t partner in the first place if you didn’t think it made sense.&lt;/p&gt;
+
+&lt;p&gt;I’ve learned the importance defining an extremely clear procedure to follow when things don’t transpire how you think they will. When in doubt, err on the side of more detail than less.&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to predict how people will behave in the downside scenario as well. Partnering with people you’ve known or worked with for a long time is an effective hedge.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;What I changed my mind on in 2023&lt;/p&gt;
+
+&lt;p&gt;We just don’t know enough about the world to not be changing our minds on a few things each year. I like to think I’m pretty open-minded, but I started tracking these this year to make sure I stay that way.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Getting a personal trainer&lt;/p&gt;
+
+&lt;p&gt;I poo-pooed personal trainers for the longest time. I’ve been in the gym for 15+ years and know what I’m doing. I don’t need to pay someone to help me.&lt;/p&gt;
+
+&lt;p&gt;Hmm, somehow I keep getting injured and stalling progress.&lt;/p&gt;
+
+&lt;p&gt;Sarah has been pushing me to get a trainer for the longest time, and I finally caved this year. And oh, was I wrong! Getting a trainer opened my eyes to so many aspects of fitness I have never paid attention to before, and it was completely worth it.&lt;/p&gt;
+
+&lt;p&gt;I now believe getting the right physio/trainer can be a productive way to progress while staying injury free.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Hong Kong as viable market for my business&lt;/p&gt;
+
+&lt;p&gt;I acknowledged the writing on the wall about the lack of viability for my company in the Hong Kong market. It was a combination of small size, lack of demand, and a prohibitive pricing environment.&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;“Stooping” to consulting to generate income&lt;/p&gt;
+
+&lt;p&gt;I won’t beat this point to death. I’ve been very wary of trading my time for money, but this year I accepted consulting as the smart way to proceed with the greatest chance of success.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;2023 content review&lt;/p&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Best podcasts&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/6sMm8WRmioHJ462x7iEAac&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;What’s Your Problem - Zipline episode&lt;/strong&gt;&lt;/a&gt;. Zipline is doing drone deliveries of blood samples in Africa and is, hands down, the most exciting startup I know of. Check out this &lt;a href=&quot;https://www.youtube.com/watch?v=DOWDNBu9DkU&quot; target=&quot;_blank&quot;&gt;Mark Roper piece&lt;/a&gt; on the company too. Simply epic!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/4v7Snd5199djam0DjHThq7&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Invest Like The Best - US Health Crisis episode&lt;/strong&gt;&lt;/a&gt;. Fantastic episode. Justin Mares (founder of &lt;a href=&quot;https://www.kettleandfire.com/&quot; target=&quot;_blank&quot;&gt;Kettle &amp;amp; Fire&lt;/a&gt; among several other consumer product brands) talks about the broken US food system in a way I hadn’t previously understood it. Lots of opportunity here.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/episode/50yhDKFtkzEuIgsP34D80v&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Tim Ferris - David Maisel (MCU creator) interview&lt;/strong&gt;&lt;/a&gt;. I’ve been a huge super hero fan since Tobey Maguire’s first Spiderman, and I still remember seeing Iron Man in theaters. The creator himself takes you through the story and business dealings behind the birth and growth of the now massive Marvel Cinematic Universe. If you are at all interested in movies/entertainment, this one’s for you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Best shows&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.imdb.com/title/tt14403178/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Beef&lt;/strong&gt;&lt;/a&gt;. Automatic 10/10. Storytelling hasn’t made me feel something like this did in a long time. Just watch it.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Marvelous-Mrs-Maisel-Season/dp/B0875GWS52&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;The Marvelous Mrs. Maisel&lt;/strong&gt;&lt;/a&gt;. I know I’m late to the party on this one, but I don’t think it’s a stretch to say that this is one of best shows of the last ten years. It chronicles the meteoric rise of a female stand up comedian in the 50s and 60s. The story and subject matter are original. The writing is excellent. The sets and costumes, fabulous. And the arc. Oh, the arc. Do yourself a favor and watch this one if you haven’t already.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.max.com/shows/last-of-us/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Last of Us, S1E3&lt;/strong&gt;&lt;/a&gt;. Great show overall, but this episode was easily the best single episode of TV this year. Nick Offerman and Murray Bartlett are exceptional.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Best movies&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.imdb.com/title/tt8772262/&quot; target=&quot;_blank&quot;&gt;Midsommar&lt;/a&gt;&lt;/strong&gt; (2019). This was auto-9 for me. A twisted and horrific cult tale in a unique setting with original writing and satisfying execution. It’s tough to watch, yet gripping and watchable at the same time.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.imdb.com/title/tt26739529/&quot; target=&quot;_blank&quot;&gt;Money Shot: The Pornhub Story&lt;/a&gt;&lt;/strong&gt; (2023). Porn. It’s just business. This is an excellent documentary on the inner workings and dark corners of an online empire. So many parallels with more traditional businesses.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.imdb.com/title/tt4873118/&quot; target=&quot;_blank&quot;&gt;The Covenant&lt;/a&gt;&lt;/strong&gt; (2023). Guy Richie can’t miss. Another 9 for me. This movie is about loyalty, told from a lesser known corner of the war in Afghanistan. The arc delivers through to the final moments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;sub-section&quot;&gt;Best books&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.amazon.com/Whats-Our-Problem-Self-Help-Societies/dp/B0BVGH6T1Q/ref=sr_1_1?keywords=what%27s+your+problem+tim+urban&amp;amp;s=books&amp;amp;sr=1-1&quot; target=&quot;_blank&quot;&gt;What’s Our Problem&lt;/a&gt;&lt;/strong&gt; (2023). Tim Urban does it again. If you don’t know him, he’s the creator of the amazing blog, &lt;a href=&quot;https://waitbutwhy.com/&quot; target=&quot;_blank&quot;&gt;Wait But Why&lt;/a&gt;. This book is a well-structured position paper on political division in the United States. It’s longer than I normally prefer, but reads easily. Timely, balanced, and analytical. Recommend.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.amazon.com/Dont-Sweat-Small-Stuff-Its/dp/0786881852&quot; target=&quot;_blank&quot;&gt;Don’t Sweat The Small Stuff&lt;/a&gt;&lt;/strong&gt; (1997). It’s been on my list for a while and didn’t disappoint. A very readable collection of reminders that we don’t need to get so worked up 99% of the time. A classic for a reason!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Predictions for 2024&lt;/p&gt;
+
+&lt;p&gt;I’m starting to track annual predictions as part of my annual review. Sharing them online is my little way of making sure I’m thoughtful about it.&lt;/p&gt;
+
+&lt;p&gt;🔮 &lt;strong&gt;We will start to see 100% AI-generated YouTube channels with over 1 million subscribers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AI is advancing at a shockingly fast pace across text, images, and video. Of course, we still have a ways to go, but video content is getting good enough to be &lt;a href=&quot;https://www.instagram.com/reel/C0lsyaYN4hw/?igsh=MXkwNzR4ZzdiYzV5eA==&quot; target=&quot;_blank&quot;&gt;pretty damn entertaining&lt;/a&gt;. I expect to see this type of content explode across all kinds of niches.&lt;/p&gt;
+
+&lt;p&gt;🔮 &lt;strong&gt;I will hit my fitness goal of deadlifting my body weight 10 times&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I made huge progress this year and have a ton of momentum. Let’s get it.&lt;/p&gt;
+
+&lt;p class=&quot;main-section&quot;&gt;Finally, some cool things I discovered/learned in 2023&lt;/p&gt;
+
+&lt;p&gt;I visited Taiwan this year and discovered their government has a raffle system to prevent people from littering the streets with their receipts. If you keep your receipts, you can enter them into a raffle for a cash payout. People accumulate huge amounts of paper that would otherwise be trash. The streets are clean and the payout is funded by lottery money. Genius little incentive system!&lt;/p&gt;
+
+&lt;p&gt;From the book, &lt;a href=&quot;https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316&quot; target=&quot;_blank&quot;&gt;Why We Sleep&lt;/a&gt;, I learned that it would be safer to replace all sleep deprived drivers with drunk drivers of an equivalent impairment level. That’s how dangerous it is to be driving on a poor night’s sleep. Pretty shocking.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Whoa, monster post! I hope you found it useful or at least entertaining. I have a few new post ideas percolating, so stay tuned!&lt;/p&gt;
+
+&lt;p id=&quot;thanks-text&quot;&gt;&lt;em&gt;Thanks to Sarah for reading a draft of this post.
+&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">swing &apos;n a miss</summary></entry><entry><title type="html">How I Write</title><link href="http://localhost:4000/2023/12/26/how-i-write.html" rel="alternate" type="text/html" title="How I Write" /><published>2023-12-26T00:00:00+08:00</published><updated>2023-12-26T00:00:00+08:00</updated><id>http://localhost:4000/2023/12/26/how-i-write</id><content type="html" xml:base="http://localhost:4000/2023/12/26/how-i-write.html">&lt;p&gt;This blog recently celebrated it’s first birthday, and lo and behold, a bit of a writing system has emerged. Kinda the point!&lt;/p&gt;
 
 &lt;p&gt;This post is about how I post posts.&lt;/p&gt;
 
