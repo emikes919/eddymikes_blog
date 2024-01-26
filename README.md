@@ -1,2 +1,2 @@
 ### Personal blog
-[eddymikes.me](https://eddymikes.me)
+[eddymikes.com](https://eddymikes.com)
