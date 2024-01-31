@@ -11,7 +11,7 @@ I started this blog for three reasons: **1) clear writing = clear thinking, 2) e
 
 I spend the vast majority of my intellectually demanding time consuming information and content, rather than producing/creating it. Books, podcasts, blogs, articles, my Twitter feed, YouTube videos… it’s pretty much a one way street of information input. That information, combined with my experiences, represents the building blocks of my knowledge and ideas.
 
-Translating ideas from thoughts into comprehendible written words challenges us to more deeply understand what we think. I might think I know something and attempt to write out my thoughts concisely, and I'm shown how hollow that thinking can be.
+Translating ideas from thoughts into comprehendible written words challenges us to more deeply understand what we think. I might think I know something and attempt to write out my thoughts concisely, and I'm often shown how hollow that thinking can be.
 
 There are other areas of life where I write - occasionally at my day job, for startups/side projects I’ve worked on, job hunts, and so on, but it’s pretty infrequent. Forcing myself to write more reinforces and challenges my ideas and improves the depth of my thinking (if I was on the fence about that before, writing this first blog post proves it to me). 
 
