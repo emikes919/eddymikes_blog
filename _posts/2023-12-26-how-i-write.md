@@ -7,7 +7,7 @@ This blog recently celebrated it’s first birthday, and lo and behold, a bit of
 
 This post is about how I post posts.
 
-If not for you, this one’s for me. To put it all on paper. After all, [clear writing = clear thinking](https://eddymikes.me/2022/08/06/why-i-started-this-blog.html){:target="_blank"}. 
+If not for you, this one’s for me. To put it all on paper. After all, [clear writing = clear thinking](https://eddymikes.com/2022/08/06/why-i-started-this-blog.html){:target="_blank"}. 
 
 <p class="main-section">Raw Content Generation</p>
 
@@ -31,7 +31,7 @@ Once I’m excited enough about a topic and have enough content to be dangerous,
 
 This is usually catalyzed by a surge of enthusiasm about the topic or it being particularly top of mind.
 
-Great examples would be my [programming post](https://eddymikes.me/2023/05/04/man-learns-to-code-at-tender-age-of-31.html){:target="_blank"} and my [Impostor Syndrome post](https://eddymikes.me/2023/11/24/the-only-way-out-is-through.html){:target="_blank"}. I was deep in a coding sprint for the former, and was feeling particularly insecure about my future for the latter.
+Great examples would be my [programming post](https://eddymikes.com/2023/05/04/man-learns-to-code-at-tender-age-of-31.html){:target="_blank"} and my [Impostor Syndrome post](https://eddymikes.com/2023/11/24/the-only-way-out-is-through.html){:target="_blank"}. I was deep in a coding sprint for the former, and was feeling particularly insecure about my future for the latter.
 
 <p class="main-section">Enhancing the Braindump</p>
 
@@ -94,7 +94,7 @@ Before this bad boy is internet-ready, it must pass through the gauntlet.
 
 That is, three formidable opponents: AI co-pilots, my wife Sarah, and my fellow writer Julian.
 
-Before sharing the post with my trusty human advisors, I flag any remaining passages that just aren’t hitting quite right and drop them into ChatGPT and [Notion AI](https://affiliate.notion.so/8moig6rseq6t){:target="_blank"} for some inspiration on how to improve them. I’ll take what AI gives me probably four out of ten times.
+Before sharing the post with my trusty human advisors, I flag any remaining passages that just aren’t hitting quite right and drop them into [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Notion AI](https://affiliate.notion.so/8moig6rseq6t){:target="_blank"} for some inspiration on how to improve them. I’ll take what AI gives me probably four out of ten times.
 
 <p class="blue-box">One guy’s quick take on where text AI stands today:
 <br><br>

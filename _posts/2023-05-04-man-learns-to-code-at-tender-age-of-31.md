@@ -62,7 +62,7 @@ I finally pulled the trigger for several reasons:
 
 <p class="sub-section">Creativity & Entrepreneurship</p>
 
-As a recently [self-proclaimed wantrepreneur](https://eddymikes.me/2022/08/07/quitter.html){:target="_blank"}, I've quickly learned that entrepreneurship is difficult. Really difficult. 
+As a recently [self-proclaimed wantrepreneur](https://eddymikes.com/2022/08/07/quitter.html){:target="_blank"}, I've quickly learned that entrepreneurship is difficult. Really difficult. 
 
 The ability to keep stepping up to the plate is critical to success. 
 
@@ -180,7 +180,7 @@ Good progress so far, but at this point, I’m but a humble noob. These little p
 
 <p class="sub-section">Project 4: You’re reading it</p>
 
-I wanted to start with an easy first website project, and I wanted to start writing more for aforementioned [reasons](https://eddymikes.me/2022/08/06/why-i-started-this-blog.html){:target="_blank"}.
+I wanted to start with an easy first website project, and I wanted to start writing more for aforementioned [reasons](https://eddymikes.com/2022/08/06/why-i-started-this-blog.html){:target="_blank"}.
 
 …incoming message from Captain Obvious…
 
@@ -251,8 +251,6 @@ This is largely because it’s completely digital and pretty abstract. Also, the
 Expect to get stuck on things constantly, sometimes for days or weeks at a time, feeling like you’re making no progress (in reality though, you’re learning).
 
 The ability to succeed is highly dependent on one’s ability to stay motivated when it gets dark. This is why your reasons for learning to program and whether it naturally energizes you are so important.
-
-There’s much more to why and how programming is difficult, which you can read about [here](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/){:target="_blank"}. 
 
 <p class="sub-section">…but not as hard as people tend to assume</p>
 

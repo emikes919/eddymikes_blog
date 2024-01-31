@@ -3,7 +3,7 @@ layout: post
 title: The Only Way Out is Through
 excerpt: Thoughts from an Impostor (Syndrome)
 ---
-It’s been nearly a year since I [quit my job](https://eddymikes.me/2022/08/07/quitter.html){:target="_blank"} to be an “entrepreneur”, and would ya look at that, the Impostor Syndrome is really starting to sink in.
+It’s been nearly a year since I [quit my job](https://eddymikes.com/2022/08/07/quitter.html){:target="_blank"} to be an “entrepreneur”, and would ya look at that, the Impostor Syndrome is really starting to sink in.
 
 I quit my day job because I doubted my ability to deliver if my attention was being split between work and side projects.
 
