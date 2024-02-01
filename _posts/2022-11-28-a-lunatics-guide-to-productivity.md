@@ -128,7 +128,7 @@ All this stuff is beautifully organized into one place on your computer and mobi
 
 Notion is so simple and works so well that I often ask myself how it didn't exist 10 years ago. 
 
-Getting started with Notion can be a little intimidating. The application is infinitely flexible, and all the functionality choices can be a bit overwhelming. There’s also no shortage of YouTube gurus out there promoting the most optimized and sexy personal dashboard. 
+Getting started with Notion can be a little intimidating. The application is infinitely flexible, and all the functionality choices can be a bit overwhelming. There’s also no shortage of YouTube gurus out there promoting crazy optimized personal Notion dashboards. 
 
 Don’t worry about all that. Start small by creating something simple like your to-do list, and see if it’s for you. Some people prefer a good ol’ handwritten to-do list, and that’s fine too.
 
