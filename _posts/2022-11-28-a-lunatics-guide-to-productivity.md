@@ -11,9 +11,13 @@ excerpt: Check me into the looney bin
 - [Productivity hacks](#productivity-hacks)
 - [My productivity vices](#productivity-vices)
 
-I’ve spent a lot of time thinking about productivity. This is probably because I inherently hate wasting time, but partially because I’m taking a [risky turn](https://eddymikes.me/2022/08/07/quitter.html){:target="_blank"} in life. Maximizing my productive output has become more important commensurate with the higher stakes I’ve set for myself. Spend two minutes scrolling through the Twittersphere, and it’s clear that productivity is a topic of general interest, so I felt inspired to consolidate my thinking around how I stay productive.
+I’ve spent a lot of time thinking about productivity. This is probably because I inherently hate wasting time, but partially because I’m taking a [risky turn](https://eddymikes.com/2022/08/07/quitter.html){:target="_blank"} in life. Maximizing my productive output has become more important commensurate with the higher stakes I’ve set for myself.
 
-Before getting into the obligatory “hacks” list, it’s important to mention that all the productivity tips and tricks don’t really matter if you’re working on the wrong thing or are not genuinely interested in what you’re doing. Unless you’re superhuman, it’s nearly impossible to give it everything you’ve got when you’re working on something you don’t care about. Motivation is extremely sensitive to interest in both directions. Sam Altman expands on this [well](https://blog.samaltman.com/productivity){:target="_blank"}, so I won’t reinvent the wheel here. 
+Spend two minutes scrolling through the Twittersphere, and it’s clear that productivity is a topic of general interest, so I felt inspired to consolidate my thinking around how I stay productive.
+
+Before getting into the obligatory “hacks” list, it’s important to mention that all the productivity tips and tricks don’t really matter if you’re working on the wrong thing or are not genuinely interested in what you’re doing. Unless you’re superhuman, it’s nearly impossible to give it everything you’ve got when you’re working on something you don’t care about.
+
+Motivation is extremely sensitive to interest in both directions. Sam Altman expands on this [well](https://blog.samaltman.com/productivity){:target="_blank"}, so I won’t reinvent the wheel here. 
 
 Let’s start with two of my big ***productivity no-nos***.
 
@@ -49,9 +53,13 @@ I’ve tried a lot of methods over the years and have come up with a pretty reli
 
 I cannot promote this one enough. I understand how this could seem trivial, what’s wrong with setting your daily to-do list first thing in the morning? The answer: a lot. 
 
-Setting your daily to-do list involves choosing from a larger list of to-dos, then prioritizing. We’re not talking rocket science here, but this is an important and somewhat thoughtful exercise. Setting your daily to-do list first thing in the morning means the first thing you do is spend time *contemplating and making a decision*. Setting your daily to-do list the night before means the first thing you do is *take action*. 
+Setting your daily to-do list involves choosing from a larger list of to-dos, then prioritizing. We’re not talking rocket science here, but this is an important and somewhat thoughtful exercise.
 
-I want to spend my peak mental hours immediately diving into meaningful work that requires high impact decision making, not making a decision about how to spend my day. Setting your daily to-do list the night before lets you avoid a small, but momentum-sucking decision and allows you to start your day by immediately executing on what you’ve already decided upon doing.
+Setting your daily to-do list first thing in the morning means the first thing you do is spend time *contemplating and making a decision*. Setting your daily to-do list the night before means the first thing you do is *take action*. 
+
+I want to spend my peak mental hours immediately diving into meaningful work that requires high impact decision making, not making a decision about how to spend my day.
+
+Setting your daily to-do list the night before lets you avoid a small, but momentum-sucking decision and allows you to start your day by immediately executing on what you’ve already decided upon doing.
 
 Remember how humans are momentum fiends? This one falls in the category of “getting out of your own way” by kickstarting the momentum train. Same deal with laying out your gym clothes the night before, so you can just roll out of bed, put them on, and head straight to the gym. Do yourself a favor!
 
@@ -67,11 +75,14 @@ This exercise is usually the last thing I do before “signing off” of work fo
 
 <p class="sub-section">⚡ Getting up super early</p>
 
-Getting up early has two main benefits for me: 1) it maximizes distraction-free peak mental hours, and 2) it minimizes “time slippage”.
+Getting up early has two main benefits for me:
+
+1. it maximizes distraction-free peak mental hours, and
+2. it minimizes “time slippage”.
 
 My peak mental hours are between waking up and lunch time, and everything after that is a steady decline. The world comes online around 8-9am, and distractions start to roll in. Waking up earlier shifts more of my peak mental time into the distraction-free zone. The productivity benefits are self-evident.
 
-It wasn’t until I started regularly waking up early that I realized **time slippage is EVERYWHERE**. I define time slippage as the difference in time required to do something if it’s done early versus later in the morning.
+It wasn’t until I started regularly waking up early that I realized **time slippage is EVERYWHERE**. I define time slippage as the difference in time required to do something if it’s done at different times of day.
 
 Here are just a few annoying examples of things that take longer if done later in the morning with some conservative time loss estimates:
 
@@ -80,21 +91,23 @@ Here are just a few annoying examples of things that take longer if done later i
 - There’s more traffic, or the subway is slower/more crowded (lose ~10 minutes)
 - There are other dogs on the street distracting my dog from peeing so the walk takes longer (lose ~10 minutes)
 
-These four examples alone would cost me ~30 minutes a day of my most mentally productive time. That’s more than a workday per month that I can get back just by waking up earlier! Of course this isn’t exact math, and everyone’s routine is different, but it’s directionally true: ***waking up early literally buys you time***. 
+These four examples alone would cost me ~30 minutes a day of my most mentally productive time. That’s <em>more than a workday per month</em> that I can get back just by waking up earlier! Of course this isn’t exact math, and everyone’s routine is different, but it’s directionally true: ***waking up early literally buys you time***. 
 
-And the gains compound: an hour at 6am is worth much more to me than an hour at 10am.
+And the gains compound: an hour at 6am with more mental firepower is worth much more to me than an hour at 10am.
 
 Beyond the distraction-free time and minimized time slippage, there’s also the motivation derived from knowing you’re crushing the day. It’s cringy but true. Don’t knock it ‘til you try it 😉
 
 I’m generally in bed around 9pm and wake up at 5am, snoozing to between 5:10 and 5:20 (though sometimes much longer). I tried pulling a [Bob Iger](https://en.wikipedia.org/wiki/Bob_Iger){:target="_blank"} and waking up at 4:45am, but I couldn’t swing it. He’s a machine!
 
-<p id="thanks-text"><em>One caveat: I fully acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.</em></p>
+<p id="thanks-text"><em>One caveat: I acknowledge that I am a morning person through and through. Some people aren’t and do their best work late into the night. Waking up early isn’t for everyone. It’s more important to structure your workday around your peak mental hours rather than arbitrarily waking up early simply because it's associated with being productive.</em></p>
 
 <p class="sub-section">⚡ Adopting <a href="https://affiliate.notion.so/8moig6rseq6t" target="_blank">Notion</a> to organize my life</p>
 
 This is a BIG one. I’m constantly surprised by the number of people who haven’t heard of Notion, despite it being a massively successful software startup.
 
-**Notion is a cloud-based documents app, super charged with useful functionality, wrapped into a simple and customizable folder structure**. What Notion does for my level of organization makes me constantly think “where have you been all my life?”
+**Notion is a cloud-based documents and workspace app**, super charged with useful functionality, wrapped into a simple and customizable folder structure.
+
+What Notion does for my level of organization makes me constantly think “where have you been all my life?”
 
 Notion can be used for *almost* anything, but here are a few personal examples:
 
@@ -111,27 +124,29 @@ Notion can be used for *almost* anything, but here are a few personal examples:
     <li>☑️ Drafting blog posts 😉</li>
 </ul>
 
-All this stuff is simply organized into one place, with a bunch of embedded functionality. **It’s like outsourcing part of your brain.** Notion is one of those things that’s so simple and works so well, that you can’t help but ask yourself: “how did this not exist 10 years ago?” 
+All this stuff is beautifully organized into one place on your computer and mobile app, with a bunch of embedded functionality that makes storing and retrieving information fast and intuitive. **It’s like outsourcing part of your brain.**
 
-Oh, and there’s a great mobile app, so all of your stuff is at your fingertips on the go.
+Notion is so simple and works so well that I often ask myself how it didn't exist 10 years ago. 
 
-Starting a Notion account can be a little intimidating. The application is infinitely flexible, and all the functionality choices can be a bit overwhelming. There’s also no shortage of YouTube gurus out there promoting the most optimized and sexy personal dashboard. 
+Getting started with Notion can be a little intimidating. The application is infinitely flexible, and all the functionality choices can be a bit overwhelming. There’s also no shortage of YouTube gurus out there promoting the most optimized and sexy personal dashboard. 
 
-Don’t worry about all that. Start small, and see if it’s for you. Some people prefer a good ol’ handwritten to-do list, and that’s fine too.
+Don’t worry about all that. Start small by creating something simple like your to-do list, and see if it’s for you. Some people prefer a good ol’ handwritten to-do list, and that’s fine too.
 
 In an effort to not be completely biased, here are the only things I’ve found that Notion is not great for:
 
 <ul class="no-bullet-list">
     <li>❌ Anything that’s done best in Excel (don’t come at the King!)</li>
     <li>❌ Cloud file storage</li>
-    <li>❌ Calendar functionality (although they plan to integrate with Google Calendar)</li>
+    <li>❌ Calendar functionality (January 2024 update: Notion released <a href="https://www.notion.so/product/calendar?pscd=affiliate.notion.so&ps_partner_key=ZWR3YXJkbWljaGFlbHNvbjY1NjA&ps_xid=x9HU3jBdeqlmKU&gsxid=x9HU3jBdeqlmKU&gspk=ZWR3YXJkbWljaGFlbHNvbjY1NjA" target="_blank">Notion Calendar</a>, and it's amazing. It is now the only calendar app I use.)</li>
 </ul>
 
 <p class="sub-section">⚡ Ignoring email</p>
 
 Hot take alert! This one is both critical and controversial. 
 
-The level of focus you will achieve by ignoring email entirely for three hours at a time is hard to understate. Email is an attention stealer, and most emails do not require an urgent response (I’m sure there are some fields where this isn’t the case, but I’ll venture to guess there are few). And yet, we’re carpet bombed with these little things all day long, constantly breaking our focus.
+The level of focus you will attain by ignoring email entirely for three hours at a time is hard to understate.
+
+Email is an attention stealer, and most emails do not require an urgent response (I’m sure there are some fields where this isn’t the case, but I’ll venture to guess there are few). And yet, we’re carpet bombed with these little things all day long, constantly breaking our focus.
 
 <p class="quote-block">“But wait! How can you ignore email?!
 What if someone needs to get in touch with you?!
