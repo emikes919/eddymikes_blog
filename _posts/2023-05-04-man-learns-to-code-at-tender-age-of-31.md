@@ -97,8 +97,8 @@ What kind of stuff? Whatever floats your boat.
 
 I’ve found the best projects
 
-    a) pique your interest, and/or
-    b) can be implemented immediately with your current skillset or after learning a bite-sized amount of something new. 
+    1. pique your interest, and/or
+    2. can be implemented immediately with your current skillset or after learning a bite-sized amount of something new. 
 
 That means start small.
 
@@ -180,8 +180,8 @@ I'm feeling courageous enough to build something a little more public...
 
 I wanted to 
 
-    a) start with an easy first website project, and 
-    b) I wanted to start writing more for aforementioned [reasons](https://eddymikes.com/2022/08/06/why-i-started-this-blog.html){:target="_blank"}.
+1. start with an easy first website project, and 
+2. I wanted to start writing more for aforementioned [reasons](https://eddymikes.com/2022/08/06/why-i-started-this-blog.html){:target="_blank"}.
 
 …incoming message from Captain Obvious…
 
