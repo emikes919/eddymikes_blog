@@ -10,13 +10,13 @@ excerpt: (or how I turned two hours into three seconds)
 - [Reflections](#reflections)
 - [Resources](#resources)
 
-My hand trembled with anticipation as it hovered over the <code>enter</code> key.
+My hand trembled with anticipation as it hovered over the `enter` key.
 
 Six weeks of hard work had led to this moment.
 
 Sickened by months of manual Excel work, I had finally cobbled together a bloated code file that <em>might</em> be smart enough to do all of that mind-numbing work for me.
 
-Emerging from hundreds of lines of code and countless squashed bugs, I found myself playing chicken with the <code>enter</code> key.
+Emerging from hundreds of lines of code and countless squashed bugs, I found myself playing chicken with the `enter` key.
 
 I'd come too far to back down, too far to cower back into the depths of manual data crunching. There was only one thing left to do:
 
@@ -48,7 +48,7 @@ This is the story of how I <s>learned</s> <em>am learning</em> how to code.
 
 Much like starting a blog, learning to code has long lingered in the back of my mind.
 
-I finally pulled the trigger in earnest in late 2021, and one game of chicken with my <code>enter</code> key has left me more energized than ever almost two years later. 
+I finally pulled the trigger in earnest in late 2021, and one game of chicken with my `enter` key has left me more energized than ever almost two years later. 
 
 Maybe this post will serve as inspiration to some of you who have been thinking about programming, but just need a little nudge to get started.
 
@@ -56,23 +56,10 @@ Maybe this post will serve as inspiration to some of you who have been thinking 
 
 <p class="main-section"><a name="the-why">The Why</a></p>
 
-I finally pulled the trigger for several reasons:
+I finally pulled the trigger for two reasons:
 
-1. I wanted to throw rocket fuel on my creative fire.
-2. I wanted to challenge my 🧠.
-3. I wanted to automate work.
-
-<p class="sub-section">Creativity & Entrepreneurship</p>
-
-As a recently [self-proclaimed wantrepreneur](https://eddymikes.com/2022/08/07/quitter.html){:target="_blank"}, I've quickly learned that entrepreneurship is difficult. Really difficult. 
-
-The ability to keep stepping up to the plate is critical to success. 
-
-There is no shortage of ideas that do not require software, but if I'm able to take on problems that can be solved with even the simplest technology-based* products, the universe of ideas explodes.
-
-Programming skills at the prototyping level will put the raw power of creation my hands.
-
-<p id="thanks-text"><em>*Note: “Technology-based”, for the purposes of this post, means any business where the product or service is software, or where the core value proposition is driven or enabled by software.</em></p>
+1. I wanted to challenge my 🧠.
+2. I wanted to automate work.
 
 <p class="sub-section">Problem solving</p>
 
@@ -108,7 +95,10 @@ With most things, the most effective way to learn is through practical applicati
 
 What kind of stuff? Whatever floats your boat.
 
-I’ve found the best projects a) pique your interest and/or b) can be implemented immediately with your current skillset or after learning a bite-sized amount of something new. 
+I’ve found the best projects
+
+    a) pique your interest, and/or
+    b) can be implemented immediately with your current skillset or after learning a bite-sized amount of something new. 
 
 That means start small.
 
@@ -122,7 +112,7 @@ I used [automatetheboringstuff.com](http://automatetheboringstuff.com){:target="
 
 …to my computer.
 
-I know, I know. The suspense has been killing you. How did that game of chicken with my enter key play out?
+I know, I know. The suspense has been killing you. How did that game of chicken with my `enter` key play out?
 
 I did indeed check that Excel file, and by what feels like some miracle, my enter key lost!
 
@@ -130,15 +120,17 @@ Two hours of my life did, in fact, collapse into ***three seconds***.
 
 I cannot understate how good this feels.
 
-Over the course of a few weeks, I automated several daily and monthly manual processes that previously consumed about eight hours of my time each month.
+Over the course of a few weeks, I automated several daily and monthly manual processes that previously consumed about *eight hours of my time each month*.
 
 Think about that.
 
-Approximately ninety hours of upfront investment (three hours of coding/day, five days/week, for about six weeks) to save eight hours of work per month. Payback in one year, and I’ve picked up a new skill that I can use forever. Seems like a good trade to me.
+Approximately ninety hours of upfront investment (three hours of coding/day, five days/week, for about six weeks) to save eight hours of work per month. Payback in one year, and I’ve picked up a new skill that I can use forever.
+
+Seems like a good trade to me.
 
 <p class="sub-section">Project 2: Roast the fellas</p>
 
-My friends and I use [Groupme](https://groupme.com/en-US/){:target="_blank"} as our chat group. Luck would have it that Groupme has an open [API](https://dev.groupme.com/){:target="_blank"}, giving the programmatically inclined access to all of their own personal messaging data. 
+My friends and I use [Groupme](https://groupme.com/en-US/){:target="_blank"} as our chat group. Luck would have it that Groupme has an open [API](https://dev.groupme.com/){:target="_blank"}, giving the programmatically inclined access to all of their personal messaging data. 
 
 My group chat has been in use for seven years, averaging 30 messages per day…
 
@@ -146,7 +138,9 @@ My group chat has been in use for seven years, averaging 30 messages per day…
 
 Enter my next project.
 
-I used Python to gather our group chat’s entire messaging history from Groupme’s API, slice and dice it, and put it into a silly but illuminating presentation for the boys. The result was a twenty page deck pumped full of cute stats on my friends’ proclivity to absolutely roast each other.
+I used Python to gather our group chat’s entire messaging history from Groupme’s API, slice and dice it, and put it into a silly but illuminating presentation for the boys.
+
+The result was a twenty page deck pumped full of cute stats on my friends’ proclivity to absolutely roast each other.
 
 They liked it, to say the least. 
 
@@ -176,13 +170,18 @@ Funny, it was. Pleased, he was not.
 
 <p class="blue-box">These projects have two important traits that are worth harping upon for a moment. They <strong>1) brought me joy once completed and 2) brought me absolutely nothing until they were completed</strong>. Said differently, I was working toward something I wanted, and I didn’t get what I wanted until I saw it through to the end. It kept me motivated. Something to think about if you decide to pick up coding.</p>
 
-Good progress so far, but at this point, I’m but a humble noob. These little projects were fun and undeniably advanced my Python skills, but my ultimate goal is to prototype web-based software.
+Good progress so far, but at this point, I’m but a humble noob. These little projects were fun and undeniably advanced my Python skills, but were pretty limited in scope.
+
+I'm feeling courageous enough to build something a little more public...
 
 <p id="thanks-text"><em>*Note: Flask is a web framework for Python. Similar to a library, a framework is bunch of pre-written code that helps you build web-based apps quickly, from as simple as a Groupme bot to the much more complex.</em></p>
 
 <p class="sub-section">Project 4: You’re reading it</p>
 
-I wanted to start with an easy first website project, and I wanted to start writing more for aforementioned [reasons](https://eddymikes.com/2022/08/06/why-i-started-this-blog.html){:target="_blank"}.
+I wanted to 
+
+    a) start with an easy first website project, and 
+    b) I wanted to start writing more for aforementioned [reasons](https://eddymikes.com/2022/08/06/why-i-started-this-blog.html){:target="_blank"}.
 
 …incoming message from Captain Obvious…
 
@@ -230,13 +229,15 @@ So, my programming journey thus far can be summarized as follows:
 
 I’ve learned a tremendous amount, but the material I have yet to cover is immense. The plan is to stay on theme and take on projects that hit all of my criteria.
 
-I have an app idea in mind. It’s a daunting project, but it will act as a guiding North Star as I navigate the never ending universe of programming. 
+I have a fun app idea in mind. It’s daunting but will act as a guiding North Star as I navigate the never ending universe of programming. 
 
-<p id="thanks-text"><em>Note: All of the above probably seems like a lot, and it is. Programming is a huge time commitment. But I'm not programming every single day. It ebbs and flows with my work load. There have been month-plus long periods where I haven’t been able to think about coding. No deadlines. Learning is a lifelong journey.</em></p>
+<p id="thanks-text"><em>Note: All of the above probably seems like a lot, and it is. Programming is a huge time commitment. But I'm not programming every single day. It's a hobby that ebbs and flows with my work load. There have been month-plus long periods where I haven’t been able to think about coding. No deadlines. Learning is a lifelong journey.</em></p>
 
 <p class="main-section"><a name="reflections">Reflections</a></p>
 
-So that’s where I’ve been, how I got there, and where I’m going. Here are the big things that come to mind when reflecting on my journey so far. Worth considering before you decide to take it on!
+So that’s where I’ve been, how I got there, and where I’m going.
+
+Here are the big things that come to mind when reflecting on my journey so far. Worth considering before you decide to take it on!
 
 <p class="sub-section">Programming is satisfying</p>
 
@@ -248,7 +249,9 @@ That power of creation in your fingertips is intoxicating. The more you learn, t
 
 Make no mistake, programming is not easy.
 
-This is largely because it’s completely digital and pretty abstract. Also, the scope and complexity of material necessary to be dangerous as a programmer is massive. It takes a long time and a lot of effort learning seemingly rudimentary concepts just to get to the beginner level. I’d venture to guess this is a common reason people don’t even start.
+This is largely because it’s completely digital and pretty abstract. Also, the scope and complexity of material necessary to be dangerous as a programmer is massive.
+
+It takes a long time and a lot of effort learning seemingly rudimentary concepts just to get to the beginner level. I’d venture to guess this is a common reason people don’t even start.
 
 Expect to get stuck on things constantly, sometimes for days or weeks at a time, feeling like you’re making no progress (in reality though, you’re learning).
 
@@ -276,7 +279,7 @@ It’s worth reiterating the point about my game of chicken: <strong>*from nothi
 
 Python is a great starting language because it’s modern, intuitive, and widely used with endless resources and community support. It’s also a very powerful language that can do a whole universe of things beyond automating some of your busy work, including build very scalable web applications.
 
-However, if you aren’t particularly interested in learning Python but want to learn to build web apps, an equally good place to start is The Odin Project. 
+However, if you aren’t particularly interested in learning Python but want to learn to build websites and apps, an equally good place to start is The Odin Project. 
 
 <p class="sub-section"><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></p>
 
@@ -286,7 +289,7 @@ The creators assume you have zero programming knowledge and take you through eve
 
 That means it is an extremely comprehensive resource that requires months of investment to understand and complete (I still have a ways to go).
 
-Having said that, you start seeing results almost immediately. The speed at which I was able to spin up some basic, but decent-looking websites was shocking (here’s a [fun one](https://emikes919-battleship.netlify.app/){:target="_blank"}). You are constantly building a portfolio of work as you advance which serves as a nice reward and motivation to keep going.
+Having said that, you start seeing results almost immediately. The speed at which I was able to spin up some basic, but decent-looking websites was shocking (here’s a [fun one](https://emikes919-battleship.netlify.app/){:target="_blank"}). You are constantly building a portfolio of work as you advance which serves as a nice reward and motivation to stick with it.
 
 They give you just enough to keep you going while still forcing you to struggle a bit and figure out a lot on your own (a huge part of programming).
 
@@ -328,7 +331,9 @@ I must recommend against it.
 
 Set aside that fact that it isn’t free (I have used the paid version), it falls short in one critical area: **Codecademy forces you to write code in their online environment which is not transferable to the real world.** 
 
-As frustrating as it can be, the payoff of struggling to figure out the day one fundamentals on your own computer is huge. I think Codecademy robs students of this opportunity to “figure it out”.
+As frustrating as it can be, the payoff of struggling to figure out the day one fundamentals on your own computer is huge.
+
+I think Codecademy robs students of this opportunity to “figure it out”.
 
 You aren’t required to do any of the dirty work of installing various dependency software and navigating the underbelly of your operating system that’s required at every level of programming in the real world.
 
@@ -337,7 +342,7 @@ I understand why this may be appealing to some people, but I believe it is a sub
 ---
 
 
-And voilà. Now you know how one game of chicken with my enter key led to an eighteen month (and counting) hobby. Those months feel like years when I think about the ground I’ve covered. 
+And voilà. Now you know how one game of chicken with my `enter` key led to an eighteen month (and counting) hobby. Those months feel like years when I think about the ground I’ve covered. 
 
 Nevertheless, it’s a little scary to re-anchor my perspective back to how much of a beginner I still am and to think about what I’ll have to conquer to get where I want to go.
 
