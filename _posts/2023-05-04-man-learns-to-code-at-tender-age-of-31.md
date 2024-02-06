@@ -67,7 +67,9 @@ Programming is very intellectually demanding and, at its core, is about problem 
 
 It's a way to push myself intellectually and become a better problem solver.
 
-Programming is especially appealing because progress is not dependent on anyone or anything. I don’t need a teacher to schedule time with, waves to surf, or a team to play against. All the resources to learn are freely available, and I don’t need anyone’s permission to start writing code.
+Programming is especially appealing because progress is not dependent on anyone or anything. I don’t need a teacher to schedule time with, waves to surf, or a team to play against.
+
+All the resources to learn are freely available, and I don’t need anyone’s permission to start writing code.
 
 All I need is a computer and an internet connection.
 
@@ -97,8 +99,8 @@ What kind of stuff? Whatever floats your boat.
 
 I’ve found the best projects
 
-    1. pique your interest, and/or
-    2. can be implemented immediately with your current skillset or after learning a bite-sized amount of something new. 
+1. pique your interest, and/or
+2. can be implemented immediately with your current skillset or after learning a bite-sized amount of something new. 
 
 That means start small.
 
