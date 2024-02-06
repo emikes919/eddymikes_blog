@@ -10,11 +10,13 @@ excerpt: (or how I turned two hours into three seconds)
 - [Reflections](#reflections)
 - [Resources](#resources)
 
-My hand trembled with anticipation as it hovered over the enter key. Six weeks of hard work had led to this moment.
+My hand trembled with anticipation as it hovered over the <code>enter</code> key.
+
+Six weeks of hard work had led to this moment.
 
 Sickened by months of manual Excel work, I had finally cobbled together a bloated code file that <em>might</em> be smart enough to do all of that mind-numbing work for me.
 
-Emerging from hundreds of lines of code and countless squashed bugs, I found myself playing chicken with the enter key.
+Emerging from hundreds of lines of code and countless squashed bugs, I found myself playing chicken with the <code>enter</code> key.
 
 I'd come too far to back down, too far to cower back into the depths of manual data crunching. There was only one thing left to do:
 
@@ -46,7 +48,7 @@ This is the story of how I <s>learned</s> <em>am learning</em> how to code.
 
 Much like starting a blog, learning to code has long lingered in the back of my mind.
 
-I finally pulled the trigger in earnest in late 2021, and one game of chicken with my enter key has left me more energized than ever almost two years later. 
+I finally pulled the trigger in earnest in late 2021, and one game of chicken with my <code>enter</code> key has left me more energized than ever almost two years later. 
 
 Maybe this post will serve as inspiration to some of you who have been thinking about programming, but just need a little nudge to get started.
 
