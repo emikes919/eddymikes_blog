@@ -97,7 +97,7 @@ With most things, the most effective way to learn is through practical applicati
 
 What kind of stuff? Whatever floats your boat.
 
-I’ve found the best projects
+I’ve found the best projects:
 
 1. pique your interest, and/or
 2. can be implemented immediately with your current skillset or after learning a bite-sized amount of something new. 
@@ -116,7 +116,7 @@ I used [automatetheboringstuff.com](http://automatetheboringstuff.com){:target="
 
 I know, I know. The suspense has been killing you. How did that game of chicken with my `enter` key play out?
 
-I did indeed check that Excel file, and by what feels like some miracle, my enter key lost!
+I did indeed check that Excel file, and by what feels like some miracle, my `enter` key lost!
 
 Two hours of my life did, in fact, collapse into ***three seconds***.
 
@@ -180,10 +180,12 @@ I'm feeling courageous enough to build something a little more public...
 
 <p class="sub-section">Project 4: You’re reading it</p>
 
-I wanted to 
+I wanted to:
 
 1. start with an easy first website project, and 
 2. I wanted to start writing more for aforementioned [reasons](https://eddymikes.com/2022/08/06/why-i-started-this-blog.html){:target="_blank"}.
+
+<br>
 
 …incoming message from Captain Obvious…
 
