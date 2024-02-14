@@ -7,11 +7,15 @@ It’s been nearly a year since I [quit my job](https://eddymikes.com/2022/08/07
 
 I quit my day job because I doubted my ability to deliver if my attention was being split between work and side projects.
 
-In classic whack-a-mole fashion, solving that problem introduced another… cash flow. Surprise!
+In classic whack-a-mole fashion, solving that problem introduced another… cash flow.
+
+Surprise!
 
 I knew I was sacrificing cash flow in the near term, but I underestimated how little *visibility* I would have into when things would stabilize.
 
-My current venture, Chowtime, is struggling, and we might have to shut it down. Even if Chowtime had a more compelling path forward, predicting when I could draw even a small salary would be difficult. How much and how fast we grow, the cost of that growth, fundraising size and structure… there are just too many variables.
+My current venture, [Chowtime!](https://www.linkedin.com/company/chowtime/){:target="_blank"}, is struggling, and we might have to shut it down. Even if [Chowtime!](https://www.linkedin.com/company/chowtime/){:target="_blank"} had a more compelling path forward, predicting when I could draw even a small salary would be difficult.
+
+How much and how fast we grow, the cost of that growth, fundraising size and structure… there are just too many variables.
 
 As time marches on, my financial runway increasingly feels like a gun in my hand, loaded with bullets called time and money. 
 
@@ -19,7 +23,7 @@ Those bullets are finite, and I fire one when I pursue a new project.
 
 I can reload the gun, sure, but that usually requires firing the gun too (spending money to make money).
 
-I fired a bullet when I started Chowtime, and given its outlook, I’m starting to explore other ways to generate income.
+I fired a bullet when I started [Chowtime!](https://www.linkedin.com/company/chowtime/){:target="_blank"}, and given its outlook, I’m starting to explore other ways to generate income.
 
 The combination of passing time and a fixed number of bullets is putting a lot of pressure on me to not miss.
 
@@ -37,7 +41,7 @@ These qualities are, quite literally, table stakes.
 
 <p class="blue-box">A quick detour on the definition of “table stakes”:
 <br><br>
-Walk up to a black jack table and the buy in is $100? $100 is that table’s stakes. You need $100 just to take a seat. <br><br>So you have $100? Good for you! Now take a seat and start competing against everyone at the table, all of whom, wait for it… <strong>also have $100</strong>.</p>
+Walk up to a black jack table and the buy in is $100? $100 is that table’s stakes. You need $100 just to take a seat. <br><br>So you have $100? Good for you! <br><br>Now take a seat and start competing against everyone at the table, all of whom, wait for it… <strong>also have $100</strong>.</p>
 
 It’s become clear to me that the traits I was putting a lot of stock in to be successful are just the entry tickets to play the game.
 
@@ -55,13 +59,15 @@ Judgement and experience can only be acquired through doing it.
 
 In the entrepreneurship space, I’m a freshmen, a rookie, a n00b. 
 
-I’ve learned a ton launching and growing Chowtime, but it’s hard to shake the feeling that I’m just scrambling around in the dark.
+I’ve learned a ton launching and growing [Chowtime!](https://www.linkedin.com/company/chowtime/){:target="_blank"}, but it’s hard to shake the feeling that I’m just scrambling around in the dark.
 
 Anxiety-inducing to say the least.
 
 I’m trying to minimize the risk of wasting one of those precious bullets by shining as much light on the landscape as possible. Reading, networking, observing trends, etc., and yet…
 
-**<u>The uncomfortable reality</u>**: **The most effective way to shine that light is by firing those very bullets.** By doing stuff. By taking risk. By starting businesses. By firing and probably missing.
+**<u>The uncomfortable reality</u>**: **The most effective way to shine that light is by firing those very bullets.**
+
+By doing stuff. By taking risk. By starting businesses. By firing and probably missing.
 
 Of course, I knew entrepreneurship and risk-taking are one in the same when I made the leap. But facing the reality of risk while you have a salary-paying job and while you’re going it alone are two very different things. 
 
@@ -69,7 +75,9 @@ Things become more “real” than ever before. Especially the reality that fail
 
 All sorts of crazy emotions start erupting under these circumstances, predominantly a shift from self-confidence to self-doubt.
 
-This <em>Spiral of Self Doubt</em> creeps in gradually. It starts with a slight lack of motivation before morphing into a feeling of foolishness. I start to feel a silly and sometimes have trouble taking myself seriously.
+This <em>Spiral of Self Doubt</em> creeps in gradually.
+
+It starts with a slight lack of motivation before morphing into a feeling of foolishness. I start to feel silly and sometimes have trouble taking myself seriously.
 
 Two conflicting voices emerge in my head.
 
@@ -125,7 +133,9 @@ Having an attainable North Star makes the beast of entrepreneurship a lot less i
 
 This dawned on me one day as a complete no-brainer.
 
-I’m at the bottom of the ocean, and it seems obvious to get the advice of someone who’s already made it to the surface. A successful entrepreneur. Someone who has done this. Tried and failed. Tried and succeeded.
+I’m at the bottom of the ocean, and it seems obvious to get the advice of someone who’s already made it to the surface.
+
+A successful entrepreneur. Someone who has done this. Tried and failed. Tried and succeeded.
 
 There’s no reason to make things harder than they need to be. Entrepreneurship is hard enough as it is, and I’m a firm believer in getting all the help one can get.
 
