@@ -67,7 +67,7 @@ I start at the top and attempt to go section by section, but I always end up jum
 
 Riding the wave is important. If I’m in a creative flow, I don’t fight it. Cutting a post down is always easier than beefing it up.
 
-On the other hand, I’ll often spend full sessions barely getting through a paragraph, which is okay, and some sessions feel like no progress was made, so patience is key. (<em>relax bro, this is a personal blog 😂, there is literally no due date</em>).
+On the other hand, I’ll often spend full sessions barely getting through a paragraph, which is okay, and some sessions feel like no progress was made, so patience is key. (<em>relax bro, this is a personal blog</em> 😂<em>, there is literally no due date</em>).
 
 I’ll repeat this process for as many sessions as it takes to get the post 90% there. 
 
