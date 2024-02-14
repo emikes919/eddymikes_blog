@@ -41,7 +41,7 @@ These qualities are, quite literally, table stakes.
 
 <p class="blue-box">A quick detour on the definition of “table stakes”:
 <br><br>
-Walk up to a black jack table and the buy in is $100? $100 is that table’s stakes. You need $100 just to take a seat. <br><br>So you have $100? Good for you! <br><br>Now take a seat and start competing against everyone at the table, all of whom, wait for it… <strong>also have $100</strong>.</p>
+Walk up to a black jack table and the buy in is $100? <br><br>$100 is that table’s stakes. You need $100 just to take a seat. <br><br>So you have $100? Good for you! <br><br>Now take a seat and start competing against everyone at the table, all of whom, wait for it… <strong>also have $100</strong>.</p>
 
 It’s become clear to me that the traits I was putting a lot of stock in to be successful are just the entry tickets to play the game.
 
@@ -117,7 +117,9 @@ The Impostor is beatable. Here’s how:
 
 Back to what defines a “successful entrepreneur”.
 
-There’s a spectrum of success. On one end you have the likes of Mr. Bezos. We can all imagine what that looks like.
+There’s a spectrum of success.
+
+On one end you have the likes of Mr. Bezos. We can all imagine what that looks like.
 
 On the other end you have the bare minimum necessary for self-sustainability. Expense coverage, modest wealth accumulation, freedom to do what you want with a low burn lifestyle.
 
