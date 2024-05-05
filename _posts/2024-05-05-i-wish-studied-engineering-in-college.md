@@ -60,9 +60,9 @@ To the utter *geniuses* out there who disagree, I kindly refer you to the fact t
 
 And while I can’t refer you to it, believe me when I say I endured the incessant complaining of my engineer friends during our four years at Lehigh:
 
-> *”Ugh, I have to study, count me out this time.”
+> "Ugh, I have to study, count me out this time."
 
-> “Sorry, I can’t hang, I have an exam tomorrow where the average grade will be a D.”*
+> "Sorry, I can’t hang, I have an exam tomorrow where the average grade will be a D."
 
 Losers!
 
