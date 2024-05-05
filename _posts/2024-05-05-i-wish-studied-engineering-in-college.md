@@ -17,7 +17,7 @@ Teaching myself to [write code](https://eddymikes.com/2023/05/04/man-learns-to-c
 
 Big mistake!
 
-<p class="main-section">The problem with “stuff”<p>
+<p class="main-section">The problem with “stuff”</p>
 
 I majored in finance. In finance, we learned “stuff”. A few examples of “stuff” include:
 
@@ -46,7 +46,7 @@ So, ambitious college freshman, what to do?
 
 The most effective way you can spend your time is by building *problem solving ability*.
 
-<p class="main-section">Enter engineering<p>
+<p class="main-section">Enter engineering</p>
 
 Engineering is a unique discipline. Unlike stuff-learning degrees, the value of an engineering degree is not knowledge of the subject matter itself (the “stuff”).
 
@@ -77,7 +77,7 @@ It wasn’t until I…
 
 …that I started seeing the true value of engineering.
 
-<p class="main-section">Programming showed me the power of thinking like an engineer<p>
+<p class="main-section">Programming showed me the power of thinking like an engineer</p>
 
 As a stuff-learning graduate, most of the problems I solved in college had one solution. If I learned how to get to that solution, I was awarded with a good grade. Good for me!
 
