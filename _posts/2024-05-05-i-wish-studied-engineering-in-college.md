@@ -107,7 +107,7 @@ It forced me to think. Hard.
 
 How can a set of inputs be used to get a desired output, which could be literally anything? I had no choice but to think through multiple steps in multiple possible paths to a solution, and not all paths are created equal.
 
-So, I toiled away for hours finding my way to a working solution. Nice! But is this solution the best way to solve the problem?
+So, I toiled away for hours finding my way to a working solution. Nice! But is this solution the best way to solve this problem?
 
 If I choose a sub-optimal solution, I may face more problems down the road. Do I spend the time now to find a better solution, or move forward with what I have?
 
