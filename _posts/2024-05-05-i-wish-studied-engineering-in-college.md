@@ -113,7 +113,7 @@ If I choose a sub-optimal solution, I may face more problems down the road. Do I
 
 All of a sudden I’m thinking through trade-offs too. Definitely didn’t sign up for this!
 
-If that wasn’t enough, the problems I encountered came out of nowhere and were different every time. It not like because I solved problem A, I was good to go. Problem B often has nothing to do with problem A, forcing me start again from square one.
+If that wasn’t enough, the problems I encountered came out of nowhere and were different every time. It's not like because I solved problem A, I was good to go. Problem B often has nothing to do with problem A, forcing me start again from square one.
 
 This puts the aspiring engineer through A LOT of trial and error, which can be exhausting and even demoralizing. The cognitive load is high.
 
